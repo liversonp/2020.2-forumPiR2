@@ -15,10 +15,7 @@
 | 30/04/2021 | Entrega da Apresentação do Projeto | Relato dos resultados do Protótipo de Papel e Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade. | Não Iniciado |
 | 06/05/2021 | FeedBack Sobre Apresentação do Projeto 6 | Relato dos resultados do Protótipo de Papel e Planejamento da Avaliação e o relato dos resultados da avaliação do protótipo de alta fidelidade. | Não Iniciado |
 | 10/05/2021 | Entrega da Apresentação do Projeto Final | ------------- | Não Iniciado |
-| 11/05/2021 | Avaliação do Projeto Final | ------------- | Não Iniciado |
-| 13/05/2021 | Avaliação do Projeto Final | ------------- | Não Iniciado |
 | 18/05/2021 | Avaliação do Projeto Final | FeedBack do Projeto Final | Não Iniciado |
-| 20/05/2021 |Entrega das notas e encerramento da disciplina | ------------- | Não Iniciado |
 
 
 
