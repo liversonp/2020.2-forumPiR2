@@ -14,6 +14,7 @@ create table USUARIO(
   humor varchar(300),
   emprego_lazer varchar(100),
   nivel_instrucao varchar(35),
+  data_inscricao date,
 
   constraint pk_USUARIO primary key (nome)
 );
