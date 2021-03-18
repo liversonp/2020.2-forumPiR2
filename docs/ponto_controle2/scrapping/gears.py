@@ -48,8 +48,8 @@ class BaseDados:
         try:
             with open("credenciais.txt",'r') as arq:
                 txt = arq.read()
-                regex1 = r"user:<(\S+)>\s+?password:<(\S+)>\s*?"
-                regex2 = r"password:<(\S+)>\s+?user:<(\S+)>\s*?"
+                regex1 = r"banco\s+user:<([\w\d]+)>\s+password:<([\w\d]+)>"
+                regex2 = r"banco\s+password:<([\w\d]+)>\s+user:<([\w\d]+)>"
 
                 obj = re.match(regex1,txt)
                 if obj:
@@ -63,8 +63,36 @@ class BaseDados:
             sys.exit(1)
 
         if not ( user or password ):
-            print("Erro ao obter as credenciais, verifique o manual.")
+            print("Erro ao obter as credenciais do banco, verifique o manual.")
             sys.exit(1)
 
         self.con = mysql.connector.connect(user=user,password=password,host='localhost',database='pir2')
         self.cursor = self.con.cursor()
+
+def credenciais_forum():
+    user = None
+    password = None
+
+    try:
+        with open("credenciais.txt",'r') as arq:
+            txt = arq.read()
+            print(repr(txt))
+            regex1 = r"forum\s+user:<([\w\d]+)>\s+password:<([\w\d]+)>"
+            regex2 = r"forum\s+password:<([\w\d]+)>\s+user:<([\w\d]+)>"
+
+            obj = re.match(regex1,txt)
+            if obj:
+                (user,password) = obj.groups()
+
+            obj = re.match(regex2,txt)
+            if obj:
+                (password,user) = obj.groups()
+    except FileNotFoundError:
+        print("Arquivo de credenciais nao encontrado")
+        sys.exit(1)
+
+    if not ( user or password ):
+        print("Erro ao obter as credenciais para acesso do forum, verifique o manual.")
+        sys.exit(1)
+
+    return (user,password)
