@@ -24,12 +24,7 @@ A escolha do fórum pir2 foi devido a sua presença como um estudo de apoio para
 
 O grupo de usuários do fórum se divide entre 3 graus de instruções, sendo de nível médio, técnico e superior. O site possui 250544 usuários registrados tendo sido postadas 606602 mensagens postadas nos seus fóruns. A proporção dos graus de instruções podem ser deferidas abaixo.
 
-![Proporção de Graus](../../../media/assets/graficoGrausDeInstrucao.png)
+![Proporção de Graus](../../../media/assets/Graficos/Grau_de_Instrucao.png)
 
 62% corresponde a alunos de nível médio, 30% correspondem a alunos de nível superior e somente 8% possui nível técnico.  
-
-## 4.1 Estudantes
-### 4.1.1 Nível Superior
-### 4.1.2 Nível Medio
-### 4.1.3 Nível Técnico e Médio
 
