@@ -28,3 +28,22 @@ O grupo de usuários do fórum se divide entre 3 graus de instruções, sendo de
 
 62% corresponde a alunos de nível médio, 30% correspondem a alunos de nível superior e somente 8% possui nível técnico.  
 
+## Graficos inferidos
+### Sexo dos alunos do Ensino medio
+![](../../../media/assets/Graficos/Ensino_Medio_sexo.png)
+### Sexo dos alunos do Ensino Tecnico
+![](../../../media/assets/Graficos/Ensino_Tecnico_sexo.png)
+### Sexo dos alunos do Ensino Superior
+![](../../../media/assets/Graficos/Ensino_Superior_sexo.png)
+### Faixa etaria dos usuarios
+![](../../../media/assets/Graficos/FaixaEtariaDosUsuarios.png)
+### Grau de instrucao Geral dos usuarios
+![](../../../media/assets/Graficos/Grau_de_Instrucao.png)
+### Grau de instrucao dos usuarios femininos
+![](../../../media/assets/Graficos/GrauDeInstrucaoF.png)
+### Grau de instrucao dos usuarios masculinos
+![](../../../media/assets/Graficos/GrauDeInstrucaoM.png)
+### Faixa etaria media por grau de instrucao
+![](../../../media/assets/Graficos/Media_Etaria_Grau_Instrucao.png)
+### Relacao geral de sexo de usuarios
+![](../../../media/assets/Graficos/Relacao_Sexo.png)
