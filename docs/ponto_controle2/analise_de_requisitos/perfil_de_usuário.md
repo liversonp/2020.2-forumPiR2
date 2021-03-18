@@ -5,6 +5,7 @@
 |----------|--------|-----------|-----------|
 |15/03/2021|   0.1  | Criação do documento | Denniel William |
 |15/03/2021|   0.2  | Introdução, Objetivo | Denniel William |
+|18/03/2021|   0.3  | Metodologias, Grupos de Usuários | Denniel William |
 
 
 ## 1. Introdução
@@ -17,7 +18,18 @@ O objetivo deste documento é traçar um perfil de usuário com base nas caracte
 
 ## 3. Metodologias
 
-
+A escolha do fórum pir2 foi devido a sua presença como um estudo de apoio para estudantes variando entre os assuntos do fórum de nível médio até fundamental. Pelo fórum possuir um acesso livre de intuito educativo a metodologia utilizada se deu ao acesso de cerca de 50 contas e criando um gráfico com a relação de usuários por sexo, grau de instrução e faixa etária. Todos eram fornecidos pelo site ao abrir o perfil de um usuário.
 
 ## 4. Grupo de Usuários
+
+O grupo de usuários do fórum se divide entre 3 graus de instruções, sendo de nível médio, técnico e superior. O site possui 250544 usuários registrados tendo sido postadas 606602 mensagens postadas nos seus fóruns. A proporção dos graus de instruções podem ser deferidas abaixo.
+
+![Proporção de Graus](../../../media/assets/graficoGrausDeInstrucao.png)
+
+62% corresponde a alunos de nível médio, 30% correspondem a alunos de nível superior e somente 8% possui nível técnico.  
+
+## 4.1 Estudantes
+### 4.1.1 Nível Superior
+### 4.1.2 Nível Medio
+### 4.1.3 Nível Técnico e Médio
 
