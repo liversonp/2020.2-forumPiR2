@@ -26,5 +26,14 @@ ser atingido antes do próximo); regra de seleção ou decisão (quais objetivos
 atingidos dependem das circunstâncias); ou em paralelo (mais de um objetivo deve ser
 atingido ao mesmo tempo).
 
+# Diagrama HTA de registro de usuário
+<img src="media/HTA_perfil_de_usuario.png" width="100%">
+
+# Diagrama HTA  de perfil de usuário
+<img src="media/HTA_registro_de_usuario.png" width="100%">
+
+# Diagrama HTA de tópicos dos tópicos do fórum
+<img src="media/HTA_Topicos.png" width="100%">
+
 # Referências bibliográficas
 - BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
