@@ -35,5 +35,8 @@ atingido ao mesmo tempo).
 # Diagrama HTA de tópicos dos tópicos do fórum
 <img src="media/HTA_Topicos.png" width="100%">
 
+# Diagrama HTA de busca dos tópicos do fórum
+<img src="media/HTA_busca.jpeg" width="100%">
+
 # Referências bibliográficas
 - BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
