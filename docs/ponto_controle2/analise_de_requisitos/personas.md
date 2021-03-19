@@ -82,9 +82,9 @@ Persona é um personagem fictício que representa o cliente ideal de um negócio
 | Conhecimento sobre o Site| Iniciante, cadastrou por indicação de um sobrinho. |
 | O que espera | Espera poder relembrar os conteúdos ministrados no Ensino Médio por meio de aulas e fóruns de qualidade. |
 
-# AntiPersona 
+## AntiPersona 
 
-## O que é uma Anti-Persona (Persona Negativa)?
+### O que é uma Anti-Persona (Persona Negativa)?
 
 Enquanto a Persona é o seu cliente ideal, a Anti-Persona se caracteriza por ser quase-ideal. Em geral, ela apresenta muitas das mesmas características da Persona. Ela pode ter alguns dos mesmos gostos pessoais e fazer o mesmo tipo de pesquisas nos sites de busca, porém, há alguns pontos que fazem ela adquirir o produto disponibilizado. Saiba mais em [Econsultancy](https://econsultancy.com/anti-personas-definition-benefits/).
 
