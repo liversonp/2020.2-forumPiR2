@@ -2,6 +2,7 @@ import mysql.connector
 import re
 import sys
 from bs4 import BeautifulSoup
+import csv
 
 class Usuario:
     def __init__(self):
@@ -76,6 +77,51 @@ class Usuario:
         object_database.cursor.execute(self.query, self.tupla)
 
         object_database.con.commit()
+
+    def init_csv(self):
+        fields = [
+            "nome",
+            "sexo",
+            "como_descobriu_forum",
+            "idade",
+            "localizacao",
+            "humor",
+            "emprego_lazer",
+            "nivel_instrucao",
+            "data_inscricao"
+                ]
+        with open("usuarios.csv","w") as f:
+            writer = csv.DictWriter(f, fieldnames=fields)
+            writer.writeheader()
+
+
+    def make_csv(self):
+        fields = [
+            "nome",
+            "sexo",
+            "como_descobriu_forum",
+            "idade",
+            "localizacao",
+            "humor",
+            "emprego_lazer",
+            "nivel_instrucao",
+            "data_inscricao"
+                ]
+        dicionario = {
+             "nome": self.nome,
+             "sexo": self.sexo,
+             "como_descobriu_forum": self.como_descobriu_forum,
+             "idade": self.idade,
+             "localizacao": self.localizacao,
+             "humor": self.humor,
+             "emprego_lazer": self.emprego_lazer,
+             "nivel_instrucao": self.nivel_instrucao,
+             "data_inscricao": self.data_inscricao
+        }
+        with open("usuarios.csv","a") as f:
+            writer = csv.DictWriter(f, fieldnames=fields)
+            writer.writerow(dicionario)
+
 
     @property
     def data_inscricao(self):
