@@ -1,6 +1,7 @@
 import mysql.connector
 import re
 import sys
+from bs4 import BeautifulSoup
 
 class Usuario:
     def __init__(self):
@@ -14,6 +15,50 @@ class Usuario:
         self.nivel_instrucao = "Nenhum"
         self.data_inscricao = "01/12/1990"
         self.query = "undefined"
+        self.link_root = "https://pir2.forumeiros.com"
+
+    def hunt_data(self,line_object,session_object):
+        # Acessando pagina do usuario
+        link_usr_page = line_object.find_all("td",{"class":"avatar-mini"})[0].find('a').get('href')
+        link_usr_page = self.link_root + link_usr_page
+        raw_page_user = session_object.post(link_usr_page)
+        soup = BeautifulSoup(raw_page_user.text,'html.parser')
+        # Extraindo informacoes
+        self.nome = line_object.find("td",{"class":"avatar-mini"}).find('a').text
+        atributos = soup.find("div",{"id":"profile-tab-field-profil"})
+
+        try:
+            self.como_descobriu_forum = atributos.find("dl",{"id":"field_id2"}).find("dd").find("div").text
+        except:
+            pass
+        try:
+            self.idade = int(atributos.find("dl",{"id":"field_id-5"}).find("dd").find("div").text)
+        except:
+            pass
+        try:
+            self.localizacao = atributos.find("dl",{"id":"field_id-11"}).find("dd").find("div").text
+        except:
+            pass
+        try:
+            self.humor = atributos.find("dl",{"id":"field_id-8"}).find("dd").find("div").text
+        except:
+            pass
+        try:
+            self.emprego_lazer = atributos.find("dl",{"id":"field_id-9"}).find("dd").find("div").text
+        except:
+            pass
+        try:
+            self.nivel_instrucao = atributos.find("dl",{"id":"field_id1"}).find("dd").find("div").text
+        except:
+            pass
+        try:
+            self.data_inscricao = atributos.find("dl",{"id":"field_id-4"}).find("dd").find("div").text
+        except:
+            pass
+        try:
+            self.sexo = atributos.find("dl",{"id":"field_id-7"}).find("dd").find("div",{"class":"field_uneditable"}).find('img')['alt'][:1]
+        except:
+            pass
 
     def insert(self,object_database):
         self.query = "insert into USUARIO values ("+ "%s,"*8 +"%s)"
@@ -46,10 +91,10 @@ class BaseDados:
         password = None
 
         try:
-            with open("credenciais.txt",'r') as arq:
+            with open("credenciais_bd.txt",'r') as arq:
                 txt = arq.read()
-                regex1 = r"banco\s+user:<([\w\d]+)>\s+password:<([\w\d]+)>"
-                regex2 = r"banco\s+password:<([\w\d]+)>\s+user:<([\w\d]+)>"
+                regex1 = r"\s*user:<([\S]+)>\s+password:<([\S]+)>"
+                regex2 = r"\s*password:<([\S]+)>\s+user:<([\S]+)>"
 
                 obj = re.match(regex1,txt)
                 if obj:
@@ -74,11 +119,10 @@ def credenciais_forum():
     password = None
 
     try:
-        with open("credenciais.txt",'r') as arq:
+        with open("credenciais_forum.txt",'r') as arq:
             txt = arq.read()
-            print(repr(txt))
-            regex1 = r"forum\s+user:<([\w\d]+)>\s+password:<([\w\d]+)>"
-            regex2 = r"forum\s+password:<([\w\d]+)>\s+user:<([\w\d]+)>"
+            regex1 = r"\s*user:<([\S]+)>\s+password:<([\S]+)>"
+            regex2 = r"\s*password:<([\S]+)>\s+user:<([\S]+)>"
 
             obj = re.match(regex1,txt)
             if obj:
