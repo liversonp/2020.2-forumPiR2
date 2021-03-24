@@ -26,10 +26,10 @@ mysql -u <seu_usuario> -p < pir2.sql
 
 - Configurando acesso entre o python e o Mysql
 
-Para nao expor o seu usuario e senha do mysql foi configurado para o git nao rastear o arquivo
-"credenciais.txt", portanto:
+Para nao expor o seu usuario e senha do mysql e do login do forum foram configurados para o git nao rastear os arquivos
+"credenciais\_bd.txt" e "credenciais\_forum.txt", portanto:
 
-+ - crie um arquivo com nome "credenciais.txt" 
++ - crie os arquivos citados com o seguinte padrao: 
 
 + - siga exatamente o seguinte padrao:
 ```
