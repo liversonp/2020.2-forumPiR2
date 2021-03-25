@@ -17,7 +17,7 @@ Persona é um personagem fictício que representa o cliente ideal de um negócio
 | :--- | :--- | 
 | Foto | <img src="media/personas/lucas.jpg" width="400"> |
 | Persona | Estudande do Ensino Fundamental |
-| Idade | 14 |
+| Idade | 15 |
 | Escolaridade | 9º ano do Ensino Fundamental |
 | Profissão | Estagiário em uma empresa privada. |
 | Características | Gosta de praticar esportes e jogar LoL com os amigos. | 
@@ -26,12 +26,13 @@ Persona é um personagem fictício que representa o cliente ideal de um negócio
 | Conhecimento sobre o Site | Ainda nenhum, recebeu a indicação de um amigo de sala de aula. |
 | O que espera | Espera poder encontrar um bom conteúdo de Exatas, poder sanar suas dúvidas com monitores ou usuários que tenham mais conhecimento na área, além de, compartilhar seu aprendizado com outros usuários. |
 
-### Lorena de Oliveira 
 
-| Persona | Estudande do Ensino Médio |
-| :--- | :--- | 
+### Lorena de Oliveira 
 | Nome | Lorena de Oliveira |
+| :--- | :--- | 
+| Persona | Estudande do Ensino Médio |
 | Idade | 17 |
+| Foto |<img src="media/personas/Lorena.jpg" width="300">|
 | Escolaridade | 3º ano do Ensino Médio |
 | Profissão |  Ainda não trabalha, mas faz cursinho pré-vestibular. |
 | Características | Gosta de Ler livros, assistir Black Mirror e Rick and Morty, e escreve poesias em seu tempo livre. |
@@ -40,8 +41,8 @@ Persona é um personagem fictício que representa o cliente ideal de um negócio
 | Conhecimento sobre o Site | Experiente, já usa o portal há mais de 3 anos e interage bastante no fórum. |
 | O que espera | Espera poder encontrar um bom conteúdo direcionado as áreas de Humanas e Exatas para poder prestar um bom vestibular e realizar seu objetivo de ingressar em Medicina. |
 
-### Luis Augusto da Silva
 
+### Luis Augusto da Silva
 | Persona | Vestibulando que já terminou o Ensino Médio |
 | :--- | :--- | 
 | Nome | Luis Augusto da Silva |
