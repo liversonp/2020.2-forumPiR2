@@ -7,6 +7,8 @@ Histórico de Versão
 | 17/03/2021 | 0.1 | Criação do Documento | Victor Samuel dos Santos Lucas |
 | 18/03/2021 | 0.2 | Implementação das Personas | Victor Samuel dos Santos Lucas |
 | 18/03/2021 | 0.2.1 | Implementação da Anti-Persona | Victor Samuel dos Santos Lucas |
+| 25/03/2021 | 0.3| Inserindo fotos nas personas | Victor Samuel dos Santos Lucas |
+
 
 ## O que é uma Persona?
 
