@@ -30,9 +30,9 @@ Persona é um personagem fictício que representa o cliente ideal de um negócio
 ### Lorena de Oliveira 
 | Nome | Lorena de Oliveira |
 | :--- | :--- | 
+| Foto |<img src="media/personas/Lorena.jpg" width="300">|
 | Persona | Estudande do Ensino Médio |
 | Idade | 17 |
-| Foto |<img src="media/personas/Lorena.jpg" width="300">|
 | Escolaridade | 3º ano do Ensino Médio |
 | Profissão |  Ainda não trabalha, mas faz cursinho pré-vestibular. |
 | Características | Gosta de Ler livros, assistir Black Mirror e Rick and Morty, e escreve poesias em seu tempo livre. |
@@ -43,9 +43,10 @@ Persona é um personagem fictício que representa o cliente ideal de um negócio
 
 
 ### Luis Augusto da Silva
-| Persona | Vestibulando que já terminou o Ensino Médio |
+| Nome | Luis Augusto da Silva|
 | :--- | :--- | 
-| Nome | Luis Augusto da Silva |
+| Foto | <img src="media/personas/luis.jpg" width="400"> |
+| Persona | Vestibulando que já terminou o Ensino Médio  |
 | Idade | 21 |
 | Escolaridade | Ensino Médio completo |
 | Profissão | Trabalha como atendente em uma loja. |
@@ -57,9 +58,10 @@ Persona é um personagem fictício que representa o cliente ideal de um negócio
 
 ### Maria Eduarda Souza
 
-| Persona | Estudante de Física  |
+| Nome | Maria Eduarda Souza   |
 | :--- | :--- | 
-| Nome | Maria Eduarda Souza |
+| Foto | <img src="media/personas/maria.jpg" width="400"> |
+| Persona | Estudante de Física |
 | Idade | 22 |
 | Escolaridade | Estudante do 1º Semestre Física na Universidade de Brasília - UnB |
 | Profissão | Por estudar integralmente, não tem tempo para trabalhar. |
@@ -71,9 +73,10 @@ Persona é um personagem fictício que representa o cliente ideal de um negócio
 
 ### Jorge Luís Couto
 
-| Persona | Prestador de Concurso para Nível Médio |
+| Nome | Jorge Luís Couto  |
 | :--- | :--- | 
-| Nome | Jorge Luís Couto |
+| Foto | <img src="media/personas/jorge.jpg" width="400"> |
+| Persona | Prestador de Concurso para Nível Médio |
 | Idade | 36 |
 | Escolaridade | Graduado em Administração pelo Universidade de Brasília - UnB |
 | Profissão | Trabalha com Gestão em uma empresa privada. |
@@ -91,9 +94,10 @@ Enquanto a Persona é o seu cliente ideal, a Anti-Persona se caracteriza por ser
 
 ### Amanda Ferreira
 
-| Persona | Professora de Biologia |
-| :--- | :--- | 
 | Nome | Amanda Ferreira |
+| :--- | :--- | 
+| Foto | <img src="media/personas/amanda.jpg" width="400"> | 
+| Persona | Professora de Biologia |
 | Idade | 34 |
 | Escolaridade | Graduada em Ciências Biológicas pela Universidade de Brasília - UnB |
 | Profissão | Trabalha em uma Escola Pública de Nível Fundamental |
