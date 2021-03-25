@@ -12,11 +12,11 @@ Histórico de Versão
 
 Persona é um personagem fictício que representa o cliente ideal de um negócio. É baseado em dados e características de clientes reais, como comportamento, dados demográficos, problemas, desafios e objetivos. Saiba mais em [RockContent](https://rockcontent.com/br/blog/personas/)
 
-### Persona 1
-
-| Persona | Estudande do Ensino Fundamental |
-| :--- | :--- | 
+### Lucas dos Santos
 | Nome | Lucas dos Santos |
+| :--- | :--- | 
+| Foto | <img src="media/personas/lucas.jpg" width="400"> |
+| Persona | Estudande do Ensino Fundamental |
 | Idade | 14 |
 | Escolaridade | 9º ano do Ensino Fundamental |
 | Profissão | Estagiário em uma empresa privada. |
@@ -26,7 +26,7 @@ Persona é um personagem fictício que representa o cliente ideal de um negócio
 | Conhecimento sobre o Site | Ainda nenhum, recebeu a indicação de um amigo de sala de aula. |
 | O que espera | Espera poder encontrar um bom conteúdo de Exatas, poder sanar suas dúvidas com monitores ou usuários que tenham mais conhecimento na área, além de, compartilhar seu aprendizado com outros usuários. |
 
-### Persona 2
+### Lorena de Oliveira 
 
 | Persona | Estudande do Ensino Médio |
 | :--- | :--- | 
@@ -40,7 +40,7 @@ Persona é um personagem fictício que representa o cliente ideal de um negócio
 | Conhecimento sobre o Site | Experiente, já usa o portal há mais de 3 anos e interage bastante no fórum. |
 | O que espera | Espera poder encontrar um bom conteúdo direcionado as áreas de Humanas e Exatas para poder prestar um bom vestibular e realizar seu objetivo de ingressar em Medicina. |
 
-### Persona 3
+### Luis Augusto da Silva
 
 | Persona | Vestibulando que já terminou o Ensino Médio |
 | :--- | :--- | 
@@ -54,7 +54,7 @@ Persona é um personagem fictício que representa o cliente ideal de um negócio
 | Conhecimento sobre o Site | Experiente, já usa o portal desde o 1º ano do Ensino Médio. |
 | O que espera | Espera poder relembrar o conteúdo do Ensino Médio para fazer uma boa prova. |
 
-### Persona 4
+### Maria Eduarda Souza
 
 | Persona | Estudante de Física  |
 | :--- | :--- | 
@@ -68,7 +68,7 @@ Persona é um personagem fictício que representa o cliente ideal de um negócio
 | Conhecimento sobre o Site | Iniciante, cadastrou-se após o início do semestre por sentir dúvidas em relação aos conteúdos apresentados. |
 | O que espera | Espera poder relembrar conceitos de Exatas do Ensino Médio e principalmente encontrar conteúdo de qualidade das matérias de Ensino Superior. |
 
-### Persona 5
+### Jorge Luís Couto
 
 | Persona | Prestador de Concurso para Nível Médio |
 | :--- | :--- | 
@@ -88,7 +88,7 @@ Persona é um personagem fictício que representa o cliente ideal de um negócio
 
 Enquanto a Persona é o seu cliente ideal, a Anti-Persona se caracteriza por ser quase-ideal. Em geral, ela apresenta muitas das mesmas características da Persona. Ela pode ter alguns dos mesmos gostos pessoais e fazer o mesmo tipo de pesquisas nos sites de busca, porém, há alguns pontos que fazem ela adquirir o produto disponibilizado. Saiba mais em [Econsultancy](https://econsultancy.com/anti-personas-definition-benefits/).
 
-### Anti-Persona 1
+### Amanda Ferreira
 
 | Persona | Professora de Biologia |
 | :--- | :--- | 
