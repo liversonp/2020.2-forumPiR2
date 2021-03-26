@@ -48,6 +48,21 @@ os elementos o designer tera liberdade para montar a maneira de disposicao desta
 
 ## Vocabulario e Padroes
 
+### Terminologias
+
+Devido a natureza do site ser voltada aos academicos das ciencias exatas, faz-se necessaria
+a utilizacao de vocabulario objetivo. As principais terminologias usadas pelos usuarios sao
+aprendidas dentro do proprio forum com as explicacoes de outros membros.
+
+### Tipos de telas
+
+As principais telas do produto sao: listagem de topicos ou sub topicos; postagem e suas respostas; 
+listagem de membros; perfil dos membros.
+
+### Sequencias de dialogos
+
+Com o intuito de manter um projeto para os possiveis erros dos usuarios, e essencial que 
+hajam confirmacoes no caso de postagens no forum.
 
 ## Referencias bibliograficas
 
