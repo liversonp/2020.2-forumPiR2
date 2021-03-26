@@ -96,6 +96,7 @@ O sistema PiR2 assim como todas os produtos de software tem suas particularidade
 
 # Referências
   
-  [1] ISO / IEC 25010. ISO 25000, 2011. Disponível em: [https://iso25000.com/index.php/en/iso-25000-standards/iso-25010?start=6]. Acesso em: 25 de março de 2021.
-  BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
+- [1] ISO / IEC 25010. ISO 25000, 2011. Disponível em: [https://iso25000.com/index.php/en/iso-25000-standards/iso-25010?start=6]. Acesso em: 25 de março de 2021.
+- BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
+
 </p>
