@@ -29,7 +29,14 @@ de questoes.
 
 ###Disposição espacial e grid
 
+Devido ao fato de muitos estudantes acessarem a internet por aparelhos telefonicos, e essencial que
+os elementos se adaptem a diferentes tipos de telas. Assim sendo a disposicao dos elemenetos deve ser
+responsiva.
+
 ###Janelas
+
+Dentro da ideia de que cada aba do produto nao deve conter mais que 3 janelas/sub janelas para expor
+os elementos o designer tera liberdade para montar a maneira de disposicao destas.
 
 ###Tipografia
 
