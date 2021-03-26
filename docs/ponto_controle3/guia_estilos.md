@@ -25,7 +25,7 @@ manifestar na solução de IHC.", (Barbosa e Silva, 2010)
 
 ## 2 Contexto do Projeto
 
-Levando em consideracao as metas de usabilidade expressas no documento <nome\_documento\_md>
+Levando em consideracao as metas de usabilidade expressas no documento metas\_de\_usabilidade.md
 e que os membros do forum sao academicos de diferentes niveis que buscam manter total foco em 
 suas questoes de matematica, quimica, etc. E essencial ter um design que mantenha correspondencia
 com as expectativas do usuario atraves de padronizacao de elementos, assim tornando menor a taxa
