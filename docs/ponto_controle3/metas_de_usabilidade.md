@@ -8,7 +8,7 @@
 | 25/03/2021 | 0.2 | Implementação inicial do Documento | Victor Samuel |
 | 26/03/2021 | 0.3 | Adicionando informações sobre as metas | Liverson Paulo |
 | 26/03/2021 | 0.4 | Adicionando sobre as metas em nosso projeto | Liverson Paulo |
-| 26/03/2021 | 0.5 | Atualizações nas definições| Liverson Paulo |
+| 26/03/2021 | 0.5 | Atualizações nas definições| Victor Samuel |
 
 ## O que são Metas de usabilidade?
 O objetivo das metas de usabilidade é definir quais são os fatores de qualidade de uso que devem ser priorizados no projeto, como serão avaliados ao longo do processo de design, e quais faixas de valores são inaceitáveis, aceitáveis ou ideais para cada indicador de interesse. Com frequência, essa priorização se baseia nos indicadores atuais de desempenho dos usuários ao utilizarem o sistema. Usabilidade refere-se a garantir que produtos interativos são fáceis de aprender, efetivas de usar e agrádavel pela perspectiva do usuário. Envolve otimizar as interações que as pessoas têm com produtos interativos para permitir que eles realizem suas atividades no trabalho, na escola e no seu dia a dia (Sharp, Rogers, Preece, 2019). 
