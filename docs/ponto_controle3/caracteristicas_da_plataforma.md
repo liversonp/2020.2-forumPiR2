@@ -75,6 +75,7 @@ Uma pequena observação fora do escopo dos objetivos, mas, ainda assim, tangent
 Portabilidade é uma das características de qualidade contidas nas normas ISO/IEC 25010. Compreende-se por portabilidade, segundo a ISO 25010, como sendo: “Grau de eficácia e eficiência com que um sistema, produto ou componente pode ser transferido de um hardware, software ou outro ambiente operacional ou de uso para outro”. [1]
 
 - O sistema em si foi verificado em três navegadores (Chrome, Chromium e FireFox), onde um deles apresentou discrepância no visual, apenas. No mais, a adaptabilidade e a instalabilidade seguem os padrões de qualidade da ISO 25010.
+- O sistema mobile é visualmente atraente, mas do que a versão para desktop. Alguns problemas foram encontrados: maior lentidão na realização de requisições e anúncios se sobrepõe em alguns momentos recursos importantes, como a opção de login.
 
 ## Tecnologias utilizadas
 
@@ -82,9 +83,16 @@ Portabilidade é uma das características de qualidade contidas nas normas ISO/I
 
 Gerado por: Wappalyzer
 
-##Conclusão
+## Conclusão
+
+O sistema PiR2 assim como todas os produtos de software tem suas particularidades. Isso se dá principalmente pelos grupos de usuários e seus interesses, que moldam e definem as estruturas, comportamentos e características do sistema. Suas tecnologias se baseiam em ferramentas atuais do mercado, para garantir maior comodidade, segurança e confiabilidade
 
 
+## Versionamento
+| Versão | Data | Modificação | Autor |
+|--|--|--|--|
+| 1.0 | 25/03/2021 | Principais características | Ailton Aires |
+| 1.1 | 26/03/2021 | Portabilidade e Conclusão | Ailton Aires |
 
 # Referências
   
