@@ -15,7 +15,7 @@ O objetivo das metas de usabilidade é definir quais são os fatores de qualidad
 
 ## Quais são as Metas de Usabilidade abordadas?
 A utilização das metas de usabilidade durante o projeto ajuda a solucionar preocupações como a produtividade do usuário durante a utilização do sistema e motivação desse usuário para um aprendizado eficaz. São elas: 
-<img src="media/usabilidade.png" width="500">
+<img src="media/metas_de_usabilidade.png" width="500">
 
 ## Definição das metas
 
@@ -50,3 +50,5 @@ A utilização das metas de usabilidade durante o projeto ajuda a solucionar pre
 - BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
 
 - Usabilidade - Portal ErikBass - Disponível em: https://erikbass.wordpress.com/
+
+- As 6 Metas de Usabilidade - Portal Medium - Disponível em https://medium.com/uxcaboquinho/as-6-metas-de-usabilidade-9491442fd56a
