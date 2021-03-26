@@ -1,5 +1,11 @@
 # Guia de estilos
 
+### Histórico de versões
+| Data | Versão | Descrição | Autor |
+| :--- | :--- | :--- | :--- |
+| 25/03/2021 | 0.1 | Criação do Documento | João |
+| 26/03/2021 | 0.1 | Adicionando informações tipográficas, paleta de cores e vocabulário| Liverson Paulo |
+
 ## Introducao
 
 Por que usar um guia de estilos em um projeto ? Ou melhor, o que e um guia de estilos ? Quais seus
@@ -38,15 +44,46 @@ responsiva.
 Dentro da ideia de que cada aba do produto nao deve conter mais que 3 janelas/sub janelas para expor
 os elementos o designer tera liberdade para montar a maneira de disposicao destas.
 
-###Tipografia
+## Tipografia
+A fonte utilizada será a [Dosis](https://fonts.google.com/specimen/Dosis?preview.text_type=custom), projetada por Impallari Type
+ <img src="Media/Dosis.png" width="100%">|
 
 ###Sı́mbolos não tipográficos
 
-###Cores
+## Cores
+A paleta de cores selecionada foi:
 
-###Animações
+| Cor | Imagem |
+|---------|------|
+| #288AA0 | <img src="Media/288AA0.png" width="100" height="100">| |
+| #24262d | <img src="Media/24262d.png" width="100" height="100"> |
+| #ffffff | <img src="Media/ffffff.png" width="100" height="100"> |
+| #e6ffff | <img src="Media/e6ffff.png" width="100" height="100"> |
 
-## Vocabulario e Padroes
+## Animações
+Devido ao escopo simples, não são necessárias animações.
+
+## Elementos de ação
+
+### Preenchimento de campos
+O usuário deve preencher o campo de login e senha. Caso o usuário crie um tópico, ele deve preencher o título e o escopo do tópico. Caso o usuário crie uma resposta à um tópico, ele deve preencher o título e o escopo da resposta ao tópico.
+
+### Seleção
+O usuário pode selecionar os textos ou elementos destacados no site.
+
+### Ativação
+Quando o usuário ativa um tópico, ele segue os fundamentos de usabilidade, dando liberdade ao usuário dentro do site.
+
+## Vocabulario e Padrões
+
+### Terminologia
+O site faz o uso de palavras mais voltadas para conteúdos e estudos de formas mais gerais, logo se pode encontrar termos que se aprende em qualquer fase do ensino, desde o fundamental até o superior.
+
+### Tipos de tela
+As telas são: tela de listagem de tópicos, tela de pesquisa de tópicos, tela de visualização de usuário, tela de criação de um tópico e tela de resposta de tópico.
+
+### Sequência de diálogos
+Deve existir uma confirmação quando o login do usuário for efetuado com sucesso, também deve haver um aviso de quando esse processo tiver dado erro.
 
 ### Terminologias
 
