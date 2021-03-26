@@ -1,0 +1,48 @@
+# Guia de estilos
+
+## Introducao
+
+Por que usar um guia de estilos em um projeto ? Ou melhor, o que e um guia de estilos ? Quais seus
+objetivos ? Bem, um guia de estilos em projetos de UX Design, sao de certa forma manuais que buscam
+padronizar certas caracteristicas das interfaces, isto com o intuito de manter a identidade visual
+do sistema. Em projetos de software onde existem diversos designer e natural que hajam assimetrias
+de pensamentos para concepcao de interfaces, o que pode consequentemente quebrar as expectativas
+dos usuarios na transicao de funcoes do produto. Portanto para evitar uma grande perca de identidade
+visual do proteto, o que acarreta na quebra de expectativas do usuario sao usados os guias de estilos.
+
+Porem vale ressaltar que: "A aplicação adequada de boa parte dos
+princı́pios e diretrizes depende, em alguma medida, do conhecimento do designer acerca do domı́nio do
+problema, dos usuários e das suas atividades nesse domı́nio. Sendo assim, cabe ao designer conside-
+rar cuidadosamente se e quais diretrizes são adequadas à sua situação de design, e como elas devem se
+manifestar na solução de IHC.", (Barbosa e Silva, 2010)
+
+## Contexto do Projeto
+
+Levando em consideracao as metas de usabilidade expressas no documento <nome\_documento\_md>
+e que os membros do forum sao academicos de diferentes niveis que buscam manter total foco em 
+suas questoes de matematica, quimica, etc. E essencial ter um design que mantenha correspondencia
+com as expectativas do usuario atraves de padronizacao de elementos, assim tornando menor a taxa
+de esforco do usuario com o forum, o que privilegia seus recursos cognitivos para a resolucao
+de questoes.
+
+## Elementos da Interface
+
+###Disposição espacial e grid
+
+###Janelas
+
+###Tipografia
+
+###Sı́mbolos não tipográficos
+
+###Cores
+
+###Animações
+
+## Vocabulario e Padroes
+
+
+## Referencias bibliograficas
+
+BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
+https://developer.gnome.org/hig/stable/typography.html.pt\_BR , Acessado em : 25/03/2021
