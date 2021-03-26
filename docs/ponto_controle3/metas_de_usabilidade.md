@@ -15,7 +15,7 @@ A utilização das metas de usabilidade durante o projeto ajuda a solucionar pre
 <img src="media/usabilidade.png" width="500">
 
 ## Com isso, temos:
-| Meta | DEfinição | Pergunta Chave | Sua aplicação no FórumPir2 |
+| Meta | Definição | Pergunta Chave | Sua aplicação no FórumPir2 |
 | :--- | :--- | :--- | :--- |
 | ---------------| ------------ | ---------------| ------------------- |
 
