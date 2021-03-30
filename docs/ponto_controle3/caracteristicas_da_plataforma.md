@@ -1,17 +1,22 @@
 ## Introdução
 
 <p style="text-indent: 20px; text-align: justify">
+
 As características da plataforma são um processo que faz parte do ciclo de vida da Mayhel. Elas estão intimamente ligadas as características dos usuários e os critérios de usabilidade. Isso ocorre porque os critérios de usabilidade devem estar presentes dentro do sistema em si, satisfazendo assim seus objetivos. Já com base nos usuários, isso ocorre pois todo o processo de design de interface e interação leva em consideração às questões específicas do grupo de usuários que utilizarão e interagirão com o sistema. Vale ressaltar também que, segundo Courage e Baxter (2005, apud DINIZ, 2010), os requisitos dos usuários se referem tanto aos objetivos dos usuários que o software deve ser capaz de atender, como às características de um produto, onde elas definem os comportamentos e padrões levando em consideração seus usuários.
 </p>
 
 ## Objetivos
+
 Este documento tem como principal objetivo a transcrição das principais características físicas, comportamentais, funcionais, não funcionais e externas do produto de software e sua interface. Compreendendo todas essas principais características, será possível perceber muitos detalhes implícitos e explícitos do produto, fazendo assim com que se tenha um feedback importante para elucidação de problemas e resolução dos mesmos. Com base nisso, passaremos a ter um escopo de ideias que podem (e devem) ser tratados para produzir um design melhorado e ser melhor aceito pelos usuários.
 Uma pequena observação fora do escopo dos objetivos, mas, ainda assim, tangente ao assunto, seria analisar a conformidade das características da plataforma com o brainstorm de desejos e necessidades dos usuários, a fim de assegurar que suas requisições estão sendo atendidas.
 
 
 ## Características da Plataforma PiR2
 <p style="text-indent: 20px; text-align: justify">
+
 “Cada sistema interativo possui características e peculiaridades que o tornam único e distinto dos demais.” (DINIZ, 2010). Por mais que a cada sistema tenha todas as suas particularidades, existem formas de compor e garantir que o design de interação do produto com o usuário caminhem juntos, ou seja, o usuário estará satisfeito e protegido. Características como essas vão de encontro aos critérios de usabilidade de software, mais precisamente a parte de usabilidade, que deve garantir ao usuário: facilidade de aprendizado (learnability); facilidade de recordação (memorability); eficiência (efficiency); segurança no uso (safety); e satisfação do usuário (satisfaction). Sendo assim, podemos levantar às características da plataforma com base nesses princípios, e também com  base em outros que serão vistos posteriormente.
+
+</p>
 
 - ### Facilidade de aprendizado
 	
@@ -70,7 +75,7 @@ Uma pequena observação fora do escopo dos objetivos, mas, ainda assim, tangent
 
   * Existe uma guia de regras e não foi encontrada documentação, porém há uma espécie de suporte que atende via e-mail para eventuais dúvidas.
 
-## Portablidade
+## Portabilidade
 
 Portabilidade é uma das características de qualidade contidas nas normas ISO/IEC 25010. Compreende-se por portabilidade, segundo a ISO 25010, como sendo: “Grau de eficácia e eficiência com que um sistema, produto ou componente pode ser transferido de um hardware, software ou outro ambiente operacional ou de uso para outro”. [1]
 

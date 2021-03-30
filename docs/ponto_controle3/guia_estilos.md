@@ -55,7 +55,8 @@ podem tornar o texto mais difícil de ler e não é uma forma eficiente ou elega
 transmitir informações. Faça um esforço para minimizar a gama de variantes, tamanhos 
 e pesos de fontes.", optamos pela seguinte fonte:
 [Dosis](https://fonts.google.com/specimen/Dosis?preview.text_type=custom), projetada por Impallari Type
- <img src="Media/Dosis.png" width="100%">|
+
+ <img src="../../assets/estilo/Dosis.png" width="100%"> 
 
 ###Sı́mbolos não tipográficos
 
@@ -64,10 +65,10 @@ A paleta de cores selecionada foi:
 
 | Cor | Imagem |
 |---------|------|
-| #288AA0 | <img src="Media/288AA0.png" width="100" height="100">| |
-| #24262d | <img src="Media/24262d.png" width="100" height="100"> |
-| #ffffff | <img src="Media/ffffff.png" width="100" height="100"> |
-| #e6ffff | <img src="Media/e6ffff.png" width="100" height="100"> |
+| #288AA0 | <img src="../../assets/estilo/288AA0.png" width="100" height="100">| 
+| #24262d | <img src="../../assets/estilo/24262d.png" width="100" height="100"> |
+| #ffffff | <img src="../../assets/estilo/ffffff.png" width="100" height="100"> |
+| #e6ffff | <img src="../../assets/estilo/e6ffff.png" width="100" height="100"> |
 
 ### 3.5 Animações
 Devido ao escopo simples, não são necessárias animações.
