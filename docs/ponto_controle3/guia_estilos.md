@@ -5,13 +5,15 @@
 | :--- | :--- | :--- | :--- |
 | 25/03/2021 | 0.1 | Criação do Documento, introducao, contexto do projeto, principais referencias bibliograficas | João Henrique|
 | 26/03/2021 | 0.1 | Adicionando informações tipográficas, paleta de cores e vocabulário| Liverson Paulo |
-| 25/03/2021 | 1.0 | Adicao das linguagens e identificacao dos topicos , sub topicos e argumentacao para tipografia| João Henrique|
+| 25/03/2021 | 1.0 | Adicao das linguagens e identificação dos tópicos , sub tópicos e argumentação para tipografia| João Henrique|
+| 31/03/2021 | 1.1 | Correção de erros ortográficos |João Henrique|
+| 31/03/2021 | 1.2 | Correção de links de imagens que estavam quebradas|João Henrique|
 
-## 1 Introducao
+## 1 Introdução
 
-Por que usar um guia de estilos em um projeto ? Ou melhor, o que e um guia de estilos ? Quais seus
-objetivos ? Bem, um guia de estilos em projetos de UX Design, sao de certa forma manuais que buscam
-padronizar certas caracteristicas das interfaces, isto com o intuito de manter a identidade visual
+Por que usar um guia de estilos em um projeto ? Ou melhor, o que é um guia de estilos ? Quais seus
+objetivos ? Bem, um guia de estilos em projetos de UX Design, são de certa forma manuais que buscam
+padronizar certas características das interfaces, isto com o intuito de manter a identidade visual
 do sistema. Em projetos de software onde existem diversos designer e natural que hajam assimetrias
 de pensamentos para concepcao de interfaces, o que pode consequentemente quebrar as expectativas
 dos usuarios na transicao de funcoes do produto. Portanto para evitar uma grande perca de identidade
@@ -27,17 +29,17 @@ manifestar na solução de IHC.", (Barbosa e Silva, 2010)
 
 Levando em consideracao as metas de usabilidade expressas no documento metas\_de\_usabilidade.md
 e que os membros do forum sao academicos de diferentes niveis que buscam manter total foco em 
-suas questoes de matematica, quimica, etc. E essencial ter um design que mantenha correspondencia
-com as expectativas do usuario atraves de padronizacao de elementos, assim tornando menor a taxa
-de esforco do usuario com o forum, o que privilegia seus recursos cognitivos para a resolucao
-de questoes.
+suas questoes de matematica, quimica, etc. E essencial ter um design que mantenha corrêspondencia
+com as expectativas do usuário através de padronização de elementos, assim tornando menor a taxa
+de esforço do usuário com o fórum, o que privilegia seus recursos cognitivos para a resolução
+de questões.
 
 ## 3 Elementos da Interface
 
 ### 3.1 Disposição espacial e grid
 
-Devido ao fato de muitos estudantes acessarem a internet por aparelhos telefonicos, e essencial que
-os elementos se adaptem a diferentes tipos de telas. Assim sendo a disposicao dos elemenetos deve ser
+Devido ao fato de muitos estudantes acessarem a internet por aparelhos telefônicos, é essencial que
+os elementos se adaptem a diferentes tipos de telas. Assim sendo a disposição dos elemenetos deve ser
 responsiva.
 
 ### 3.2 Janelas
@@ -47,7 +49,7 @@ os elementos o designer tera liberdade para montar a maneira de disposicao desta
 
 ## 3.3 Tipografia
 
-Dado o contexto de aprendizagem do forum e as recomendacoes do gnome developer 
+Dado o contexto de aprendizagem do fórum e as recomendações do gnome developer 
 que diz: 
 "Diferentes pesos e cores de texto podem e devem ser usados para distinguir
 diferentes tipos de informação. Ao mesmo tempo, muitas variantes, tamanhos e pesos 
@@ -56,19 +58,19 @@ transmitir informações. Faça um esforço para minimizar a gama de variantes, 
 e pesos de fontes.", optamos pela seguinte fonte:
 [Dosis](https://fonts.google.com/specimen/Dosis?preview.text_type=custom), projetada por Impallari Type
 
- <img src="../../assets/estilo/Dosis.png" width="100%"> 
+ <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/main/docs/assets/estilo/Dosis.png" width="700px" height="300px" > 
 
-###Sı́mbolos não tipográficos
+### Sı́mbolos não tipográficos
 
 ### 3.4 Cores
 A paleta de cores selecionada foi:
 
 | Cor | Imagem |
 |---------|------|
-| #288AA0 | <img src="../../assets/estilo/288AA0.png" width="100" height="100">| 
-| #24262d | <img src="../../assets/estilo/24262d.png" width="100" height="100"> |
-| #ffffff | <img src="../../assets/estilo/ffffff.png" width="100" height="100"> |
-| #e6ffff | <img src="../../assets/estilo/e6ffff.png" width="100" height="100"> |
+| #288AA0 | <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/main/docs/assets/estilo/288AA0.png" width="100px" height="100px">| 
+| #24262d | <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/main/docs/assets/estilo/24262d.png" width="100px" height="100px"> |
+| #ffffff | <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/main/docs/assets/estilo/ffffff.png" width="100px" height="100px"> |
+| #e6ffff | <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/main/docs/assets/estilo/e6ffff.png" width="100px" height="100px"> |
 
 ### 3.5 Animações
 Devido ao escopo simples, não são necessárias animações.
@@ -97,21 +99,21 @@ Deve existir uma confirmação quando o login do usuário for efetuado com suces
 
 ### 5.4 Terminologias
 
-Devido a natureza do site ser voltada aos academicos das ciencias exatas, faz-se necessaria
-a utilizacao de vocabulario objetivo. As principais terminologias usadas pelos usuarios sao
-aprendidas dentro do proprio forum com as explicacoes de outros membros.
+Devido a natureza do site ser voltada aos acadêmicos das ciências exatas, faz-se necessária
+a utilização de vocabulário objetivo. As principais terminologias usadas pelos usuários são
+aprendidas dentro do próprio fórum com as explicações de outros membros.
 
 ### 5.5 Tipos de telas
 
-As principais telas do produto sao: listagem de topicos ou sub topicos; postagem e suas respostas; 
+As principais telas do produto são: listagem de tópicos ou sub tópicos; postagem e suas respostas; 
 listagem de membros; perfil dos membros.
 
 ### 5.6 Sequencias de dialogos
 
-Com o intuito de manter um projeto para os possiveis erros dos usuarios, e essencial que 
-hajam confirmacoes no caso de postagens no forum.
+Com o intuito de manter um projeto para os possíveis erros dos usuários, e essencial que 
+hajam confirmações no caso de postagens no fórum.
 
-## 6 Referencias bibliograficas
+## 6 Referências bibliográficas
 
 BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
 https://developer.gnome.org/hig/stable/typography.html.pt\_BR , Acessado em : 25/03/2021
