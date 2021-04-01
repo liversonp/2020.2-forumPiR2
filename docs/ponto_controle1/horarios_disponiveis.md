@@ -5,3 +5,9 @@ Foi criado uma tabela para os integrantes colocarem seu tempo disponível não s
 
 ![Horarios](../assets/horario.png)
 
+## Histórico de Versão
+
+| Data       | Versão | Descrição        | Autor(es)      |
+| ---------- | ------ | ---------------- | -------------- |
+| 04/03/2021 | 0.1    | Criação do documento| Denniel |
+

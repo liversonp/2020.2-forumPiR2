@@ -11,3 +11,9 @@
 * Respeito
 
 &nbsp;&nbsp;&nbsp;&nbsp; Assim iremos nos comunicar através das issues e trabalharemos com o sistema de pareamento, fazendo com que o conhecimento circule dentro do grupo da forma mais homogênea possível
+
+## Histórico de Versão
+
+| Data       | Versão | Descrição        | Autor(es)      |
+| ---------- | ------ | ---------------- | -------------- |
+| 04/03/2021 | 0.1    | Criação do documento| Liverson |

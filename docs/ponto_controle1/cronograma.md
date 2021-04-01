@@ -18,10 +18,9 @@
 | 18/05/2021 | Avaliação do Projeto Final | FeedBack do Projeto Final | Não Iniciado |
 
 
+## Histórico de Versão
 
-
-
-
-
-
+| Data       | Versão | Descrição        | Autor(es)      |
+| ---------- | ------ | ---------------- | -------------- |
+| 04/03/2021 | 0.1    | Criação do documento| Victor Santos |
 

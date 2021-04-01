@@ -18,3 +18,11 @@ Inicialmente foi a escolha principal do grupo, dado que o mesmo possui também u
 vestibulares militares, o que atrai uma gama de usuários engajados, por exemplo estudantes de cursos superiores como matematica, fisica, quimica, etc, os quais geralmente têm o objetivo de responder as perguntas feitas por outros estudantes, provavelmente de ensino medio ou de cursos pre vestibular.
 
 Por fim dado que o Fórum tem mais possibilidade de interação com o usuário e oferece uma maior possibilidade de usuários engajados e com caracteristicas diferentes, optamos por avaliar o Fórum PiR2.
+
+## Histórico de Versão
+
+| Data       | Versão | Descrição        | Autor(es)      |
+| ---------- | ------ | ---------------- | -------------- |
+| 04/03/2021 | 0.1    | Criação do Documento | João Henrique |
+| 04/03/2021 | 0.2    | Explicação do Documento | João Henrique |
+| 04/03/2021 | 0.3    | Dando uma otimizada no texto | Liverson |
