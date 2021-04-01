@@ -7,6 +7,7 @@
 | 26/03/2021 | 0.1 | Adicionando informações tipográficas, paleta de cores e vocabulário| Liverson Paulo |
 | 25/03/2021 | 1.0 | Adicao das linguagens e identificação dos tópicos , sub tópicos e argumentação para tipografia| João Henrique|
 | 31/03/2021 | 1.1 | Correção de erros ortográficos |João Henrique|
+| 31/03/2021 | 1.2 | Correção de links de imagens que estavam quebradas|João Henrique|
 
 ## 1 Introdução
 
@@ -57,19 +58,19 @@ transmitir informações. Faça um esforço para minimizar a gama de variantes, 
 e pesos de fontes.", optamos pela seguinte fonte:
 [Dosis](https://fonts.google.com/specimen/Dosis?preview.text_type=custom), projetada por Impallari Type
 
- <img src="../../assets/estilo/Dosis.png" width="100%"> 
+ <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/main/docs/assets/estilo/Dosis.png" width="700px" height="300px" > 
 
-###Sı́mbolos não tipográficos
+### Sı́mbolos não tipográficos
 
 ### 3.4 Cores
 A paleta de cores selecionada foi:
 
 | Cor | Imagem |
 |---------|------|
-| #288AA0 | <img src="../../assets/estilo/288AA0.png" width="100" height="100">| 
-| #24262d | <img src="../../assets/estilo/24262d.png" width="100" height="100"> |
-| #ffffff | <img src="../../assets/estilo/ffffff.png" width="100" height="100"> |
-| #e6ffff | <img src="../../assets/estilo/e6ffff.png" width="100" height="100"> |
+| #288AA0 | <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/main/docs/assets/estilo/288AA0.png" width="100px" height="100px">| 
+| #24262d | <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/main/docs/assets/estilo/24262d.png" width="100px" height="100px"> |
+| #ffffff | <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/main/docs/assets/estilo/ffffff.png" width="100px" height="100px"> |
+| #e6ffff | <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/main/docs/assets/estilo/e6ffff.png" width="100px" height="100px"> |
 
 ### 3.5 Animações
 Devido ao escopo simples, não são necessárias animações.
