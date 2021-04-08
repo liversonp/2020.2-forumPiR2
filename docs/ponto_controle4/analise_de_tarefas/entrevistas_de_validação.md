@@ -5,6 +5,8 @@ Histórico de Versão
 | Data | Versão | Descrição | Autor |
 | :--- | :--- | :--- | :--- |
 | 08/04/2021 | 0.1 | Criação do Documento | Victor Samuel dos Santos Lucas |
+| 08/04/2021 | 0.2 | Adição de Metodologias e entrevistados | Victor Samuel dos Santos Lucas |
+
 
 ## 1. Introdução 
 
@@ -21,17 +23,17 @@ O objetivo dessas entrevistas é verificar se o fluxo de uso realizado pelos usu
 
 ## 3. Metodologia 
 
-    O livro "Interação Humano-Computador" de autoria de Simone Barbosa e Bruno Silva argumenta que, entrevistas permitem ao avaliador a coleta de dados detalhados e profundos por meio das experiências individuais de um grupo focal. Neste sentido, essa abordagem com teor mais humano e descontraído permite a garimpagem de inúmeras informações, o que facilia no direcionamento dos dados coletados de acordo com o cenário do usuário. 
+O livro "Interação Humano-Computador" de autoria de Simone Barbosa e Bruno Silva argumenta que, entrevistas permitem ao avaliador a coleta de dados detalhados e profundos por meio das experiências individuais de um grupo focal. Neste sentido, essa abordagem com teor mais humano e descontraído permite a garimpagem de inúmeras informações, o que facilia no direcionamento dos dados coletados de acordo com o cenário do usuário. 
 
-    Neste contexto, o Percurso Cognitivo, como argumenta Simone Barbosa e Bruno Silva em seu livro, avalia através de uma exploração da interface, a facilidade de aprendizagem por exploração de um sistema. Sendo assim, essa será a base metodológica da abordagem utilizada para realização das entrevistas.
+Neste contexto, o Percurso Cognitivo, como argumenta Simone Barbosa e Bruno Silva em seu livro, avalia através de uma exploração da interface, a facilidade de aprendizagem por exploração de um sistema. Sendo assim, essa será a base metodológica da abordagem utilizada para realização das entrevistas.
 ## 4. Quem serão os entrevistados?
 
-    Como abordado acima, nossas entrevistas foram realizadas por meio da simulação de uso das nossas Personas. Ao todo temos 5, são elas: 
-    -  Lucas dos Santos, 15 anos, estudante do Ensino Fundamental.
-    -  Lorena de Oliveira, 17 anos, estudante do Ensino Médio.
-    -  Luis Augusto da Silva, 21 anos, vestibulando que já terminou o Ensino Médio.
-    -  Maria Eduarda Souza, 22 anos, Estudante de Física.
-    -  Jorge Lúis Couto, 36 anos, Prestador de Concurso para Nível Médio. 
+Como abordado acima, nossas entrevistas foram realizadas por meio da simulação de uso das nossas Personas. Ao todo temos 5, são elas: 
+-  Lucas dos Santos, 15 anos, estudante do Ensino Fundamental.
+-  Lorena de Oliveira, 17 anos, estudante do Ensino Médio.
+-  Luis Augusto da Silva, 21 anos, vestibulando que já terminou o Ensino Médio.
+-  Maria Eduarda Souza, 22 anos, Estudante de Física.
+-  Jorge Lúis Couto, 36 anos, Prestador de Concurso para Nível Médio. 
 
 ## 5. Entrevistas
 
