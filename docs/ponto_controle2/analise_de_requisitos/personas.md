@@ -78,7 +78,7 @@ Persona é um personagem fictício que representa o cliente ideal de um negócio
 
 | Nome | Jorge Luís Couto  |
 | :--- | :--- | 
-| Foto | <img src="../../assets/personas/jorge.jpg" width="400"> |
+| Foto | <img src="../../assets/personas/jorge.jpg" width="300"> |
 | Persona | Prestador de Concurso para Nível Médio |
 | Idade | 36 |
 | Escolaridade | Graduado em Administração pelo Universidade de Brasília - UnB |
