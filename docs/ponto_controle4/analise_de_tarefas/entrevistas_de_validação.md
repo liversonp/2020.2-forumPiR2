@@ -47,17 +47,19 @@ Como abordado acima, nossas entrevistas foram realizadas por meio da simulação
 
 Essa entrevista foi realizada na data 08/04/2021 às 13:00PM horário de Brasília, e teve duração total de 30 minutos. O participante se chama Lucas dos Santos, tem 15 anos e é Estudante do Ensino Fundamental. O mesmo ainda não possui nenhum conhecimento sobre o portal e está tendo o primeiro contato nesta ocasião. 
 
-#### 5.1.1 Fluxo de Registro de Usuário 
+#### **5.1.1 Fluxo de Registro de Usuário**
 A primeiro momento, o participante relatou que a identidade visual deixa um pouco a desejar, sendo antiga e simples, não encorajando-o a permananecer por muito tempo dentro do portal.
 
 Com isso, ao realizar nosso primeiro fluxo, sem ainda ter a necessidade de se cadastrar no portal, foi solicitada ao participante uma pequena volta exploratória pelo site para a parte de visualizar perfís de outros usuários, neste contexto foram analisados os 5 tópicos disponíveis, foram eles: Ver mensagens dos visitantes, exibir informações de perfil, exibir estatísticas, exibir amigos e entrar em contato. Segundo lucas, as informações estavam com fácil acesso e de forma organizada para sua visualização, tendo assim um retorno positivo. 
 
 Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. 
-#### 5.1.2 Perfil de Usuário
+
+#### **5.1.2 Fluxo de Perfil de Usuário**
 Ao realizar o nosso segundo fluxo da entrevista, o participante não teve dificuldades para se registrar e confirmar sua inscrição por meio verificação em seu e-mail. Segundo o Lucas, os termos que aparecem inicialmente para o registro são de suma importância para o controle de bons modos dentro do portal, os formulários para inserção das informações estava bem definidos, foram pedidos poucos dados (O que deixou o processo rápido e prático) e o e-mail para confirmação foi enviado instantâneamente, o que fez o processo de cadastro ser finalizado em poucos minutos. Também foi relatado um ponto positivo para a possibilidade de inserção de mais informações logo depois que o perfil foi criado, o que deixou a criação rápida mas sem perder a identidade do usuário. Lucas gostou que ao realizar o Login, as suas informações já ficaram salvas e a conexão tornou-se bem eficaz, logo também foi obtido um feedback positivo.
 
 Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. 
-#### 5.1.3 Tópicos do Fórum 
+
+#### **5.1.3 Fluxo de Tópicos do Fórum**
 Ao realizar o nosso terceiro fluxo da entrevista, o participante afirmou gostar que os tópicos principais de conteúdo relacionados a matérias encontram-se na página inicial do portal, porém, mais uma vez a identidade visual foi questinada, Lucas sugeriu que os principais tópicos permanececem na parte de cima, e a partir disso o acesso aos outros tópicos sejam liberados, sem que haja a necessidade de rolar o scroll até o final. 
 
 Neste contexto, Lucas realizou acesso aos tópicos, a primeiro momento foi relatado uma certa dificuldade para localizar a parte responsável pela criação dos mesmos, o que gerou um desconforto, pois essa seria uma das funcionalidades mais importantes dentro do portal. Após encontrá-la, foi solicitado que Lucas realizasse a criação de um tópico. O participante explora as formas de inserção e formatação de conteúdo, e consegue realizar a tarefa sem demais dificuldades. 
@@ -65,12 +67,47 @@ Neste contexto, Lucas realizou acesso aos tópicos, a primeiro momento foi relat
 Logo após, Lucas foi induzido a realizar ações de interação com a comunidade por meio de respostas a tópicos, nessa etapa, ele relatou que a ação é bem objetiva e simples, não tendo muito o que criticar ou elogiar. 
 
 Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir, porém, algumas melhorias em relação a disposição e facilidade as informações devem ser feitas.
-#### 5.1.4 Busca dos tópicos do Fórum 
+
+#### **5.1.4 Fluxo de Busca dos tópicos do Fórum**
 Ao realizar o nosso quarto fluxo de entrevista, foi solicitado ao participante que realizasse uma busca simples e avançada por tópicos ou autores dentro do portal, Lucas realatou que o acesso a busca foi bem fácil e gerou muitos resultados, o que o deixou animado pois mostrou que a comunidade é bem participativa. 
 
 Entretanto, Lucas afirmou que o resultados poderiam ser distribuidos de uma forma mais atrativa ao usuário, com cores mais vivas e desing mais moderno. 
 
 Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. 
+
+### 5.2 Lorena de Oliveira
+
+<p align="center">
+  <img src="../../assets/personas/Lorena.jpg" width="400"/>
+</p>
+
+Essa entrevista foi realizada na data 08/04/2021 às 14:00PM horário de Brasília, e teve duração total de 15 minutos. A participante se chama Lorena de Oliveira, tem 17 anos e é Estudante do Ensino Médio. A mesma já possui um vasto conhecimento sobre o portal, com isso não houve a necessidade de testar o fluxo inicial de cadastro de usuário.
+
+#### **5.2.1 Fluxo de Perfil de Usuário**
+Ao realizar nosso primeiro fluxo, foi solicitado a Lorena que realizasse uma busca por perfís de outros usuários dentro do portal, por ser uma usuária "veterana" não houve nenhum conflito em relação a dificuldade de encontrar informações. Nesse contexto, foi relatado pela participante que o acesso a essas informações dentro do portal é extremamente facilitado e objetivo, o que torna a comunidade do Fórum Pir2 extremamente forte, o que resultou em um feedback extremamente positivo. 
+
+A participante argumentou não se importar muito com a identidade visual, mas sim com o conteúdo disponibilizado, nesse contexto foi relatado que sim, a aparência não é das melhores, mas isso não prejudica o uso dela dentro do portal.
+
+Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. 
+
+#### **5.2.2 Fluxo de Tópicos do Fórum**
+Ao realizar nosso segundo fluxo, foi solicitado a Lorena que realizasse um acesso aos tópicos dentro do portal. Por ser uma usuária ativa dentro dos fóruns de Humanas e exatas, ele teve pouca ou quase nenhuma dificuldade pra realizar essas ações.
+
+Ela afirma que nunca teve dificuldades pra criar tópicos de diferentes assuntos, e que gosta da forma que essa ação é feita, sendo simples e objetiva, nunca tendo problemas de não conseguir publicar um tópico dentro do fórum ou não ter sua dúvida respondida. 
+
+Quando perguntada sobre o direcionamento das suas ações dentro do portal, ela afirmou que sempre o fica claro para onde ela está indo, o que está fazendo e como está fazendo, o que garante que sua ação vai ser executada corretamente, porém, indica que isso virou um hábito com o tempo, novos usuários podem enfrentar dificuldades com a identidade visual do sistema.
+
+Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. 
+
+#### **5.2.3 Fluxo de Busca dos tópicos do Fórum**
+Ao realizar nosso terceiro fluxo, foi solicitado a Lorena que realizasse busca por tópicos específicos dentro do fórum. Lorena afirmou que utiliza esse mecanismo diariamente em seus estudos, sempre conseguindo achar seu tópico procurado.
+
+Quando perguntada sobre a dificuldade de realizar essa ação, ela argumentou que sempre teve muita facilidade pela plataforma ser simples e objetiva, também afirmou que a busca avançada se torna muito eficiente por trazer critérios como filtragem por datas, autores, palavras chaves e oferecer opção de ordenação. Porém, mesmo não se importando tanto com a parte visual, assim como o Lucas dos Santos, ela relatou que os resultados deveriam aparecer de forma mais atrativa para o usuário. 
+
+A partipante concluiu essa tarefa rapidamente e sem complicações. 
+
+Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. 
+
 ## 6. Conclusão
 
 ## 7. Referências Bibliográficas
