@@ -33,5 +33,48 @@ A metodologia utilizada para a estruturação desse documento será baseada no _
 
 * **E** - Avaliar (Evaluate), interpretar e apresentar os dados. 
 
-## Preparação
+## Métodos de avaliação
+
+Será utilizado o método de inspeção Percurso Cognitivo. O objetivo dessa avaliação é encontrar problemas de IHC, sendo esse tipo de método o mais adequado.
+
+## Percurso cognitivo
+
+### Preparação
+
+Como preparação foram definidas 5 personas em que partindo da preparação do método, cada avaliador irá se portar na atividade como uma persona, essas personas são as mesmas definida no documento de persona disponível no repositório. O escopo da aplicação que essa atividade irá tratar será da análise hierarquica de tarefas baseada nos tópicos, sendo esse a principal funcionalidade do site. Os fragmentos do site seguem abaixo: 
+
+**Figura 1.1 - Fragmento do site baseado no HTA de tópicos dos tópicos do fórum** 
+
+![Figura 1.1](../../assets/site/figura1.1.png)
+
+**Figura 1.2 - Fragmento do site baseado no HTA de busca dos tópicos do fórum**
+
+![Figura 1.2](../../assets/site/figura1.2.png)
+
+### Coleta de dados
+
+Primeiro o usuário deve percorrer a interface de acordo com a sequência de ações necessárias para realizar cada tarefa para cada ação enumerada, analisar se o usuário executaria a ação corretamente, respondendo e justificando a resposta às seguintes perguntas:
+
+  1. O usuário vai tentar atingir o efeito correto? (Vai formular a intenção correta?)
+
+  2. O usuário vai notar que a ação correta está disponı́vel?
+
+  3. O usuário vai associar a ação correta com o efeito que está tentando atingir?
+
+  4. Se a ação for executada corretamente, o usuário vai perceber que está progredindo na direção de concluir a tarefa?
+
+Após os demais passos o usuário deve relatar uma história aceitável sobre o sucesso ou falha em realizar cada ação que compõe a tarefa
+
+### Interpretação e consolidação de resultados
+
+Dos resultados avaliados os avaliadores devem sintetizar resultados sobre os seguintes casos: 
+
+* O que o usuário precisa saber a priori para realizar as tarefas? 
+
+* O que o usuário deve aprender enquanto realiza as tarefas?
+
+
+### Relato dos resultados
+
+Gerar resultados consolidados com os problemas encontrados e formular soluções e sugestão de correções.
 
