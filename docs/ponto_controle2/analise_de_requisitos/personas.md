@@ -18,7 +18,7 @@ Persona é um personagem fictício que representa o cliente ideal de um negócio
 ### Lucas dos Santos
 | Nome | Lucas dos Santos |
 | :--- | :--- | 
-| Foto | <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/melhorando_documentos/docs/assets/personas/lucas.jpg" width="300"> |
+| Foto | <img src="../../assets/personas/lucas.jpg" width="300"> |
 | Persona | Estudande do Ensino Fundamental |
 | Idade | 15 |
 | Escolaridade | 9º ano do Ensino Fundamental |
@@ -33,7 +33,7 @@ Persona é um personagem fictício que representa o cliente ideal de um negócio
 ### Lorena de Oliveira 
 | Nome | Lorena de Oliveira |
 | :--- | :--- | 
-| Foto |<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/melhorando_documentos/docs/assets/personas/Lorena.jpg" width="300">|
+| Foto |<img src="../../assets/personas/Lorena.jpg" width="300">|
 | Persona | Estudande do Ensino Médio |
 | Idade | 17 |
 | Escolaridade | 3º ano do Ensino Médio |
@@ -48,7 +48,7 @@ Persona é um personagem fictício que representa o cliente ideal de um negócio
 ### Luis Augusto da Silva
 | Nome | Luis Augusto da Silva|
 | :--- | :--- | 
-| Foto | <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/melhorando_documentos/docs/assets/personas/luis.jpg" width="400"> |
+| Foto | <img src="../../assets/personas/luis.jpg" width="400"> |
 | Persona | Vestibulando que já terminou o Ensino Médio  |
 | Idade | 21 |
 | Escolaridade | Ensino Médio completo |
@@ -63,7 +63,7 @@ Persona é um personagem fictício que representa o cliente ideal de um negócio
 
 | Nome | Maria Eduarda Souza   |
 | :--- | :--- | 
-| Foto | <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/melhorando_documentos/docs/assets/personas/maria.jpg" width="400"> |
+| Foto | <img src="../../assets/personas/maria.jpg" width="400"> |
 | Persona | Estudante de Física |
 | Idade | 22 |
 | Escolaridade | Estudante do 1º Semestre Física na Universidade de Brasília - UnB |
@@ -78,7 +78,7 @@ Persona é um personagem fictício que representa o cliente ideal de um negócio
 
 | Nome | Jorge Luís Couto  |
 | :--- | :--- | 
-| Foto | <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/melhorando_documentos/docs/assets/personas/jorge.jpg" width="400"> |
+| Foto | <img src="../../assets/personas/jorge.jpg" width="400"> |
 | Persona | Prestador de Concurso para Nível Médio |
 | Idade | 36 |
 | Escolaridade | Graduado em Administração pelo Universidade de Brasília - UnB |
@@ -99,7 +99,7 @@ Enquanto a Persona é o seu cliente ideal, a Anti-Persona se caracteriza por ser
 
 | Nome | Amanda Ferreira |
 | :--- | :--- | 
-| Foto | <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/melhorando_documentos/docs/assets/personas/amanda.jpg" width="400"> | 
+| Foto | <img src="../../assets/personas/amanda.jpg" width="400"> | 
 | Persona | Professora de Biologia |
 | Idade | 34 |
 | Escolaridade | Graduada em Ciências Biológicas pela Universidade de Brasília - UnB |
