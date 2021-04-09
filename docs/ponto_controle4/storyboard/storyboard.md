@@ -7,6 +7,7 @@
 | 08/04/2021 | 0.1    | Criação do Documento          | Liverson Paulo |
 | 08/04/2021 | 0.2    | Adição de tabela e Storyboard | Liverson Paulo |
 | 08/04/2021 | 0.3    | Adição de tabela sobre Resposta de um tópico e adição do story board de user profile | João Henrique Paulino |
+| 08/04/2021 | 0.4    | Adição de de informações na tabela de user profile e organização do arquivo | Liverson Paulo |
 
 ## 1. Introdução
 
@@ -15,6 +16,10 @@ Um protótipo de baixa-fidelidade, vai ser aquele que demonstra a finalidade do 
 ## Storyboard
 
 É um tipo de protótipo de baixa-fidelidade, onde são geralmente utilizados conjuntos de cenários que vão representar como um usuário vai poder progredir em uma tarefa, podendo ser representado por uma série de telas esboçadas ou uma série de cenas desenhadas mostrando como um usuário pode desempenhar uma tarefa utilizando um produto.
+
+
+
+## Storyboard de novo tópico
 
 | Atividade | Tarefa | Definição |
 |--|--|--|
@@ -28,9 +33,6 @@ Um protótipo de baixa-fidelidade, vai ser aquele que demonstra a finalidade do 
 |  | Definição das realizações que a aplicação permite | O conforto de poder fazer isso em casa sem ter que se deslocar para alguma biblioteca ou tentar entrar em contato com o professor da matéria, que pode estar indisponível |
 | | Definição das necessidades que a aplicação se propõe a sanar | A necessidade de precisar do contato de alguém para sanar as dúvidas fora da sala de aula sem precisar se deslocar, nem precisar entrar em contato especificamente com alguém em específico |
 
-## Storyboard de novo tópico
-
-Este storyboard foi feito utilizando o aplicativo [balsamiq](https://balsamiq.com/wireframes) e o site draw.io
 ![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/storyboards/docs/assets/storyboards/new_topic_storyboard.png)
 
 ## Storyboard respondendo um tópico
@@ -41,31 +43,29 @@ Este storyboard foi feito utilizando o aplicativo [balsamiq](https://balsamiq.co
 |  | Definição do ambiente da história | Casa de Felipe |
 |  | Definição da tarefa que será abordada | Responder um tópico no Fórum piR2 |
 | Sequência | Definição de quais passos estão envolvidos para cada realização de tarefa | 1- Acessar o site / 2- Fazer login / 3- Clicar em fórum / 4- Acessar um tópico / 5- Responder o tópico |
-|  | Definição do que leva a pessoa a usar a aplicação | Colocar seus conhecimentos em pática, ajudando algem. |
+|  | Definição do que leva a pessoa a usar a aplicação | Colocar seus conhecimentos em pática, ajudando alguém. |
 |  | Definição de qual é (e como) a tarefa será ilustrada| Responder um tópico será ilustrado com um usuário acessando um tópico  e sanando dúvidas de outros usuários |
 | Satisfação | Definição da motivação principal da pessoa que usa a aplicação | As motivações são variadas para ajudar outro ser humano com conhecimento técnico, vai desde o sentimento de altruísmo até a necessidade de colocar em prática conhecimentos adquiridos em sua formação. |
 |  | Definição das realizações que a aplicação permite | Fácil contato com estudantes que buscam auxílio em questões quais o usuário pode ajudar, assim fazendo com que o mesmo se sinta como parte de uma comunidade. |
 | | Definição das necessidades que a aplicação se propõe a sanar | Procura de dúvidas que ponham em prática a expertise do usuário. |
 
-
-Este storyboard foi feito utilizando o aplicativo [balsamiq](https://balsamiq.com/wireframes) e o site draw.io
-
 ## Storyboard user profile
 
 | Atividade | Tarefa | Definição |
 |--|--|--|
-| Preparo | Definição das pessoas envolvidas | ... |
-|  | Definição do ambiente da história | ... |
-|  | Definição da tarefa que será abordada | ... |
-| Sequência | Definição de quais passos estão envolvidos para cada realização de tarefa | ... |
-|  | Definição do que leva a pessoa a usar a aplicação | ... |
-|  | Definição de qual é (e como) a tarefa será ilustrada| ... |
-| Satisfação | Definição da motivação principal da pessoa que usa a aplicação | ... |
-|  | Definição das realizações que a aplicação permite | ... |
-| | Definição das necessidades que a aplicação se propõe a sanar | ... |
-
+| Preparo | Definição das pessoas envolvidas | Pedro e Henrique |
+|  | Definição do ambiente da história | Casa de Pedro |
+|  | Definição da tarefa que será abordada | Acessar o perfil de um amigo no fórum |
+| Sequência | Definição de quais passos estão envolvidos para cada realização de tarefa | 1- Acessar o site / 2- Fazer login / 3- Acessar o próprio perfil / 4- Acessar o perfil do amigo |
+|  | Definição do que leva a pessoa a usar a aplicação | Encontrar o perfil de algum usuário em específico |
+|  | Definição de qual é (e como) a tarefa será ilustrada| Acessar perfil, podendo ser útil para conhecer melhor ou enviar alguma mensagem a outro usuário |
+| Satisfação | Definição da motivação principal da pessoa que usa a aplicação | Entrar em contato com outras pessoas que utilizam o fórum |
+|  | Definição das realizações que a aplicação permite | Fácil acesso à pessoas que têm conhecimento em algum tópico que desperta interesse no usuário |
+| | Definição das necessidades que a aplicação se propõe a sanar | Encontrar usuários dentro do fórum. |
 
 ![alt text](../../assets/storyboards/user_profile_Storyboard.png)
+
+Os storyboards foram feitos utilizando o aplicativo [balsamiq](https://balsamiq.com/wireframes) e o site draw.io
 
 ## Referências
   
