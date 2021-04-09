@@ -37,6 +37,7 @@ Como abordado acima, nossas entrevistas foram realizadas por meio da simulação
 ## 5. Entrevistas
 
 ### 5.1 Lucas dos Santos 
+
 <p align="center">
   <img src="../../assets/personas/lucas.jpg" width="400"/>
   <br>
@@ -44,6 +45,7 @@ Como abordado acima, nossas entrevistas foram realizadas por meio da simulação
 </p>
 
 #### **5.1.1 Fluxo de Registro de Usuário**
+
 A primeiro momento, o participante relatou que a identidade visual deixa um pouco a desejar, sendo antiga e simples, não encorajando-o a permananecer por muito tempo dentro do portal.
 
 Com isso, ao realizar nosso primeiro fluxo, sem ainda ter a necessidade de se cadastrar no portal, foi solicitada ao participante uma pequena volta exploratória pelo site para a parte de visualizar perfís de outros usuários, neste contexto foram analisados os 5 tópicos disponíveis, foram eles: Ver mensagens dos visitantes, exibir informações de perfil, exibir estatísticas, exibir amigos e entrar em contato. Segundo lucas, as informações estavam com fácil acesso e de forma organizada para sua visualização, tendo assim um retorno positivo. 
@@ -51,11 +53,13 @@ Com isso, ao realizar nosso primeiro fluxo, sem ainda ter a necessidade de se ca
 Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. 
 
 #### **5.1.2 Fluxo de Perfil de Usuário**
+
 Ao realizar o nosso segundo fluxo da entrevista, o participante não teve dificuldades para se registrar e confirmar sua inscrição por meio verificação em seu e-mail. Segundo o Lucas, os termos que aparecem inicialmente para o registro são de suma importância para o controle de bons modos dentro do portal, os formulários para inserção das informações estava bem definidos, foram pedidos poucos dados (O que deixou o processo rápido e prático) e o e-mail para confirmação foi enviado instantâneamente, o que fez o processo de cadastro ser finalizado em poucos minutos. Também foi relatado um ponto positivo para a possibilidade de inserção de mais informações logo depois que o perfil foi criado, o que deixou a criação rápida mas sem perder a identidade do usuário. Lucas gostou que ao realizar o Login, as suas informações já ficaram salvas e a conexão tornou-se bem eficaz, logo também foi obtido um feedback positivo.
 
 Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. 
 
 #### **5.1.3 Fluxo de Tópicos do Fórum**
+
 Ao realizar o nosso terceiro fluxo da entrevista, o participante afirmou gostar que os tópicos principais de conteúdo relacionados a matérias encontram-se na página inicial do portal, porém, mais uma vez a identidade visual foi questinada, Lucas sugeriu que os principais tópicos permanececem na parte de cima, e a partir disso o acesso aos outros tópicos sejam liberados, sem que haja a necessidade de rolar o scroll até o final. 
 
 Neste contexto, Lucas realizou acesso aos tópicos, a primeiro momento foi relatado uma certa dificuldade para localizar a parte responsável pela criação dos mesmos, o que gerou um desconforto, pois essa seria uma das funcionalidades mais importantes dentro do portal. Após encontrá-la, foi solicitado que Lucas realizasse a criação de um tópico. O participante explora as formas de inserção e formatação de conteúdo, e consegue realizar a tarefa sem demais dificuldades. 
@@ -65,13 +69,15 @@ Logo após, Lucas foi induzido a realizar ações de interação com a comunidad
 Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir, porém, algumas melhorias em relação a disposição e facilidade as informações devem ser feitas.
 
 #### **5.1.4 Fluxo de Busca dos tópicos do Fórum**
-Ao realizar o nosso quarto fluxo de entrevista, foi solicitado ao participante que realizasse uma busca simples e avançada por tópicos ou autores dentro do portal, Lucas realatou que o acesso a busca foi bem fácil e gerou muitos resultados, o que o deixou animado pois mostrou que a comunidade é bem participativa. 
 
-Entretanto, Lucas afirmou que o resultados poderiam ser distribuidos de uma forma mais atrativa ao usuário, com cores mais vivas e desing mais moderno. 
+Ao realizar o nosso quarto fluxo de entrevista, foi solicitado ao participante que realizasse uma busca simples e avançada por tópicos ou autores dentro do portal, Lucas relatou que o acesso a busca foi bem fácil e gerou muitos resultados, o que o deixou animado pois mostrou que a comunidade é bem participativa. 
+
+Entretanto, Lucas afirmou que o resultados poderiam ser distribuidos de uma forma mais atrativa ao usuário, com cores mais vivas e design mais moderno. 
 
 Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. 
 
 ### 5.2 Lorena de Oliveira
+
 <p align="center">
   <img src="../../assets/personas/Lorena.jpg" width="400"/>
   <br>
@@ -81,6 +87,7 @@ Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o fe
 
 
 #### **5.2.1 Fluxo de Perfil de Usuário**
+
 Ao realizar nosso primeiro fluxo, foi solicitado a Lorena que realizasse uma busca por perfís de outros usuários dentro do portal, por ser uma usuária "veterana" não houve nenhum conflito em relação a dificuldade de encontrar informações. Nesse contexto, foi relatado pela participante que o acesso a essas informações dentro do portal é extremamente facilitado e objetivo, o que torna a comunidade do Fórum Pir2 extremamente forte, o que resultou em um feedback extremamente positivo. 
 
 A participante argumentou não se importar muito com a identidade visual, mas sim com o conteúdo disponibilizado, nesse contexto foi relatado que sim, a aparência não é das melhores, mas isso não prejudica o uso dela dentro do portal.
@@ -88,6 +95,7 @@ A participante argumentou não se importar muito com a identidade visual, mas si
 Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. 
 
 #### **5.2.2 Fluxo de Tópicos do Fórum**
+
 Ao realizar nosso segundo fluxo, foi solicitado a Lorena que realizasse um acesso aos tópicos dentro do portal. Por ser uma usuária ativa dentro dos fóruns de Humanas e exatas, ele teve pouca ou quase nenhuma dificuldade pra realizar essas ações.
 
 Ela afirma que nunca teve dificuldades pra criar tópicos de diferentes assuntos, e que gosta da forma que essa ação é feita, sendo simples e objetiva, nunca tendo problemas de não conseguir publicar um tópico dentro do fórum ou não ter sua dúvida respondida. 
@@ -97,6 +105,7 @@ Quando perguntada sobre o direcionamento das suas ações dentro do portal, ela 
 Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. 
 
 #### **5.2.3 Fluxo de Busca dos tópicos do Fórum**
+
 Ao realizar nosso terceiro fluxo, foi solicitado a Lorena que realizasse busca por tópicos específicos dentro do fórum. Lorena afirmou que utiliza esse mecanismo diariamente em seus estudos, sempre conseguindo achar seu tópico procurado.
 
 Quando perguntada sobre a dificuldade de realizar essa ação, ela argumentou que sempre teve muita facilidade pela plataforma ser simples e objetiva, também afirmou que a busca avançada se torna muito eficiente por trazer critérios como filtragem por datas, autores, palavras chaves e oferecer opção de ordenação. Porém, mesmo não se importando tanto com a parte visual, assim como o Lucas dos Santos, ela relatou que os resultados deveriam aparecer de forma mais atrativa para o usuário. 
@@ -106,6 +115,7 @@ A partipante concluiu essa tarefa rapidamente e sem complicações.
 Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. 
 
 ### 5.3 Maria Eduarda Souza
+
 <p align="center">
   <img src="../../assets/personas/maria.jpg" width="400"/>
   <br>
@@ -115,6 +125,7 @@ Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o fe
 
 
 #### **5.3.1 Fluxo de Registro de Usuário**
+
 Ao realizar nosso primeiro fluxo, foi solicitado a Maria Eduarda que realizasse uma breve navegação pelo portal, a fim de analisar a ação de verificar perfís de outros usuários. Inicialmente, durante esse ato ela relatou que gostou do fato do portal disnponibilizar informações como totalidade de usuários online, número de registos, número de visitantes e recorde de pessoas online em determinado período, junto a uma legenda de cores para cada usuário identificando seu nível dentro do sistema. Porém, por se importar muito com a parte visual, ela afirma que essas informações poderiam ser melhor distribuidas dentro da aplicação, pois as mesmas possuem um potencial muito grande de atratividade para o usuário. 
 
 Continuando com o fluxo, ela relatou facilidade em achar usuários para interagir e gostou que dentro do perfil de cada um há informações como: Mensagens dos Visitantes e Estatísticas de tópicos e mensagens. 
@@ -124,6 +135,7 @@ A partipante concluiu essa tarefa rapidamente e sem complicações.
 Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. 
 
 #### **5.3.2 Fluxo de Perfil de Usuário**
+
 Ao realizar nosso segundo fluxo, foi solicitado a Maria Eduarda que realizasse o seu cadastro dentro da plataforma. Inicialmemte, ela relatou que a parte de cadastro podia ter mais destaque e uma identidade visual mais atrativa, seguindo com a ação, a participante afirmou que o cadastro é bem simples, perguntando apenas nome de usuário, e-mail e senha, com isso questionou a segurança do portal, porém, elogiou a rapidez com que o cadastro foi feito. 
 
 Ao ter a conta já cadastrada, Maria Eduarda achou interessante a disponibilidade de mais campos para inserção de suas informações pessoais, a ação de preenchimento foi concluída com sucesso e rapidamente, tendo elogio por parte da nossa entrevistada. 
@@ -135,6 +147,7 @@ A partipante concluiu essa tarefa rapidamente e sem complicações, porém, sent
 Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. 
 
 #### **5.3.3 Fluxo de Tópicos do Fórum**
+
 Ao realizar o nosso terceiro fluxo, foi solicitado a Maria Eduarda que realizasse um acesso aos tópicos dentro do portal, aplicando ações de criar e responder. Por ser uma nova usuária e não ter familiariedade com o sistema, ela relatou dificuldades para encontrar acesso a criação de tópicos e questinou que essa ação poderia ter mais destaque já dentro do menu principal. Ao encontrar a parte de criação ela achou bem simples e objetiva, não tendo o que reclamar em relação a funcionalidade. 
 
 Continuando com a entrevista, a participante realizou algumas respostas a tópicos de terceiros com certa facilidade, e gostou de ressaltar a grande interação entre comunidade do Fórum. 
@@ -144,6 +157,7 @@ A partipante concluiu essa tarefa rapidamente e sem complicações, porém, sent
 Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. 
 
 #### **5.3.4 Fluxo de Busca dos tópicos do Fórum**
+
 Ao realizar nosso quarto fluxo, foi solicitado a Maria Eduarda que realizasse busca por tópicos específicos dentro do fórum. A participante afirmou que esse recurso será muito importante para seus estudos visto que facilita a busca por temas específicos de Física aplicada ao Ensino Superior. 
 
 Quando perguntada sobre a dificuldade de realizar essa ação, ela argumentou que mesmo sendo nova na plataforma teve facilidade para encontrar o que procurava, também afirmou que a busca avançada se torna muito eficiente por trazer critérios como filtragem por datas, autores, palavras chaves e oferecer opção de ordenação. Porém, mesmo não se importando tanto com a parte visual, assim como o Lucas dos Santos e Lorena de Oliveira, ela relatou que os resultados deveriam aparecer de forma mais atrativa para o usuário. 

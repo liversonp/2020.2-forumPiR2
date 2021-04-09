@@ -4,7 +4,7 @@
 
 | Data       | Versão | Descrição             | Autor(res)      |
 | ---------- | ------ | --------------------- | --------------- |
-| 07/04/2021 | 0.1   | Criação do Documento           | Denniel William |
+| 07/04/2021 | 0.1    | Criação do Documento  | Denniel William |
 
 
 ## Introdução
@@ -77,4 +77,9 @@ Dos resultados avaliados os avaliadores devem sintetizar resultados sobre os seg
 ### Relato dos resultados
 
 Gerar resultados consolidados com os problemas encontrados e formular soluções e sugestão de correções.
+
+### Referências Bibliográficas
+
+BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010.
+
 
