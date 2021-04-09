@@ -9,6 +9,7 @@
 | 08/04/2021 | 0.3    | Adição de tabela sobre Resposta de um tópico e adição do story board de user profile | João Henrique Paulino |
 | 08/04/2021 | 0.4    | Adição de de informações na tabela de user profile e organização do arquivo | Liverson Paulo |
 | 08/04/2021 | 0.5    | Alterando links relativos para links completos com as imagens fornecidas no github| João Henrique Paulino |
+| 08/04/2021 | 1.0    | Arquivo finalizado| Liverson Paulo |
 
 ## 1. Introdução
 
@@ -52,8 +53,6 @@ Um protótipo de baixa-fidelidade, vai ser aquele que demonstra a finalidade do 
 
 ![alt text](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/storyboards/docs/assets/storyboards/respondendo_topico.png)
 
-Este storyboard foi feito utilizando o aplicativo [balsamiq](https://balsamiq.com/wireframes) e o site draw.io
-
 ## Storyboard user profile
 
 | Atividade | Tarefa | Definição |
@@ -70,7 +69,7 @@ Este storyboard foi feito utilizando o aplicativo [balsamiq](https://balsamiq.co
 
 ![alt text](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/storyboards/docs/assets/storyboards/user_profile_Storyboard.png)
 
-Os storyboards foram feitos utilizando o aplicativo [balsamiq](https://balsamiq.com/wireframes) e o site draw.io
+Os storyboards foram feitos utilizando o aplicativo [balsamiq](https://balsamiq.com/wireframes) e o site [draw.io](https://app.diagrams.net)
 
 ## Referências
   
