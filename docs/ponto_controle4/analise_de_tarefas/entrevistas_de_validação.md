@@ -7,8 +7,7 @@ Histórico de Versão
 | 08/04/2021 | 0.1 | Criação do Documento | Victor Samuel dos Santos Lucas |
 | 08/04/2021 | 0.2 | Adição de Metodologias e entrevistados | Victor Samuel dos Santos Lucas |
 | 08/04/2021 | 0.3 | Inserção das Entrevistas | Victor Samuel dos Santos Lucas |
-
-
+| 08/04/2021 | 0.4 | Revisão | Victor Samuel dos Santos Lucas |
 
 ## 1. Introdução 
 
@@ -40,9 +39,9 @@ Como abordado acima, nossas entrevistas foram realizadas por meio da simulação
 ### 5.1 Lucas dos Santos 
 <p align="center">
   <img src="../../assets/personas/lucas.jpg" width="400"/>
+  <br>
+  Essa entrevista foi realizada na data 08/04/2021 às 13:00PM horário de Brasília, e teve duração total de 30 minutos. O participante se chama Lucas dos Santos, tem 15 anos e é Estudante do Ensino Fundamental. O mesmo ainda não possui nenhum conhecimento sobre o portal e está tendo o primeiro contato nesta ocasião. 
 </p>
-
-Essa entrevista foi realizada na data 08/04/2021 às 13:00PM horário de Brasília, e teve duração total de 30 minutos. O participante se chama Lucas dos Santos, tem 15 anos e é Estudante do Ensino Fundamental. O mesmo ainda não possui nenhum conhecimento sobre o portal e está tendo o primeiro contato nesta ocasião. 
 
 #### **5.1.1 Fluxo de Registro de Usuário**
 A primeiro momento, o participante relatou que a identidade visual deixa um pouco a desejar, sendo antiga e simples, não encorajando-o a permananecer por muito tempo dentro do portal.
@@ -75,9 +74,11 @@ Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o fe
 ### 5.2 Lorena de Oliveira
 <p align="center">
   <img src="../../assets/personas/Lorena.jpg" width="400"/>
+  <br>
+  Essa entrevista foi realizada na data 08/04/2021 às 14:00PM horário de Brasília, e teve duração total de 15 minutos. A participante se chama Lorena de Oliveira, tem 17 anos e é Estudante do Ensino Médio. A mesma já possui um vasto conhecimento sobre o portal, com isso não houve a necessidade de testar o fluxo inicial de cadastro de usuário.
 </p>
 
-Essa entrevista foi realizada na data 08/04/2021 às 14:00PM horário de Brasília, e teve duração total de 15 minutos. A participante se chama Lorena de Oliveira, tem 17 anos e é Estudante do Ensino Médio. A mesma já possui um vasto conhecimento sobre o portal, com isso não houve a necessidade de testar o fluxo inicial de cadastro de usuário.
+
 
 #### **5.2.1 Fluxo de Perfil de Usuário**
 Ao realizar nosso primeiro fluxo, foi solicitado a Lorena que realizasse uma busca por perfís de outros usuários dentro do portal, por ser uma usuária "veterana" não houve nenhum conflito em relação a dificuldade de encontrar informações. Nesse contexto, foi relatado pela participante que o acesso a essas informações dentro do portal é extremamente facilitado e objetivo, o que torna a comunidade do Fórum Pir2 extremamente forte, o que resultou em um feedback extremamente positivo. 
@@ -107,7 +108,11 @@ Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o fe
 ### 5.3 Maria Eduarda Souza
 <p align="center">
   <img src="../../assets/personas/maria.jpg" width="400"/>
+  <br>
+  Essa entrevista foi realizada na data 08/04/2021 às 15:00PM horário de Brasília, e teve duração total de 25 minutos. A participante se chama Maria Eduarda, tem 22 anos e é estudante de Física pela Universidade de Brasília - UnB. 
 </p>
+
+
 
 #### **5.3.1 Fluxo de Registro de Usuário**
 Ao realizar nosso primeiro fluxo, foi solicitado a Maria Eduarda que realizasse uma breve navegação pelo portal, a fim de analisar a ação de verificar perfís de outros usuários. Inicialmente, durante esse ato ela relatou que gostou do fato do portal disnponibilizar informações como totalidade de usuários online, número de registos, número de visitantes e recorde de pessoas online em determinado período, junto a uma legenda de cores para cada usuário identificando seu nível dentro do sistema. Porém, por se importar muito com a parte visual, ela afirma que essas informações poderiam ser melhor distribuidas dentro da aplicação, pois as mesmas possuem um potencial muito grande de atratividade para o usuário. 
@@ -139,7 +144,7 @@ A partipante concluiu essa tarefa rapidamente e sem complicações, porém, sent
 Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. 
 
 #### **5.3.4 Fluxo de Busca dos tópicos do Fórum**
-Ao realizar nosso terceiro fluxo, foi solicitado a Maria Eduarda que realizasse busca por tópicos específicos dentro do fórum. A participante afirmou que esse recurso será muito importante para seus estudos visto que facilita a busca por temas específicos de Física aplicada ao Ensino Superior. 
+Ao realizar nosso quarto fluxo, foi solicitado a Maria Eduarda que realizasse busca por tópicos específicos dentro do fórum. A participante afirmou que esse recurso será muito importante para seus estudos visto que facilita a busca por temas específicos de Física aplicada ao Ensino Superior. 
 
 Quando perguntada sobre a dificuldade de realizar essa ação, ela argumentou que mesmo sendo nova na plataforma teve facilidade para encontrar o que procurava, também afirmou que a busca avançada se torna muito eficiente por trazer critérios como filtragem por datas, autores, palavras chaves e oferecer opção de ordenação. Porém, mesmo não se importando tanto com a parte visual, assim como o Lucas dos Santos e Lorena de Oliveira, ela relatou que os resultados deveriam aparecer de forma mais atrativa para o usuário. 
 
