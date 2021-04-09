@@ -5,6 +5,7 @@
 | Data       | Versão | Descrição             | Autor(res)      |
 | ---------- | ------ | --------------------- | --------------- |
 | 07/04/2021 | 0.1   | Criação do Documento           | Ailton Aires |
+| 08/04/2021 | 0.2  | Upload do Documento          | Ailton Aires |
 
   # Introdução
 
@@ -20,10 +21,7 @@ Vale reiterar que o termo de consentimento é um documento baseado nos princípi
 
   Com base em tudo aquilo que foi abordado anteriormente, será apresentado um termo de consentimento para analisar o comportamento dos participantes em relação atividades propostas dentro do fluxo a ser seguido.
   
-  Somos a equipe ForumPiR2 de IHC (Interação Humano Computador) cuja nossa competência é analisar cuidadosamente a interação de pessoas com a interface do produto de software estudado. Esta é uma etapa que demonstrará como os usuários se comportam mediante a plataforma e quais são os fluxos de atividades que eles realizam para poder atingir um determinado objetivo. 
-  O objetivo dessa entrevista é analisar o comportamento e como os participantes reagem conforme determinadas atividades que serão solicitadas para os mesmos. Isso se dá pelo fato de que é muito importante saber se o design de interação implementado facilitará e concretizará o fluxo que foi previsto pelos designers. 
-	A gravação de áudio e vídeo poderão ser feitas, fazendo assim com que sons, gestos, comportamentos, feições e movimentos sejam totalmente registrados, a fim de captar o máximo de informações possíveis para poder traçar um caminho livre de complicações para se chegar em um objetivo maior. A gravação será totalmente protegida e a identidade do usuário será preservada, com o intuito de garantir um maior conforto a sua imagem pessoal.
-	Ao início da gravação o termo será apresentado ao participante, e ele em alto e bom som dirá se concorda com os termos ou não. Caso concorde, deverá dizer: “Eu estou ciente dos termos e concordo em participar das atividades propostas”. Caso não concorde, deverá dizer: “Eu estou ciente dos termos e não concordo em participar das atividades propostas”.
+  ![](https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/c8723b07edb6f077c7261924309a5dfae11d084a/docs/assets/termo-de-aceitacao.jpg)
   
   
   ## Bibliografia
