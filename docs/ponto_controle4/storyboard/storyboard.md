@@ -47,6 +47,7 @@ Este storyboard foi feito utilizando o aplicativo [balsamiq](https://balsamiq.co
 |  | Definição das realizações que a aplicação permite | Fácil contato com estudantes que buscam auxílio em questões quais o usuário pode ajudar, assim fazendo com que o mesmo se sinta como parte de uma comunidade. |
 | | Definição das necessidades que a aplicação se propõe a sanar | Procura de dúvidas que ponham em prática a expertise do usuário. |
 
+![alt text](../../assets/storyboards/respondendo_topico.png)
 
 Este storyboard foi feito utilizando o aplicativo [balsamiq](https://balsamiq.com/wireframes) e o site draw.io
 
