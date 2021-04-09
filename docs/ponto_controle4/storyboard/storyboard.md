@@ -35,7 +35,7 @@ Um protótipo de baixa-fidelidade, vai ser aquele que demonstra a finalidade do 
 |  | Definição das realizações que a aplicação permite | O conforto de poder fazer isso em casa sem ter que se deslocar para alguma biblioteca ou tentar entrar em contato com o professor da matéria, que pode estar indisponível |
 | | Definição das necessidades que a aplicação se propõe a sanar | A necessidade de precisar do contato de alguém para sanar as dúvidas fora da sala de aula sem precisar se deslocar, nem precisar entrar em contato especificamente com alguém em específico |
 
-![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/storyboards/docs/assets/storyboards/new_topic_storyboard.png)
+![](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/main/docs/assets/storyboards/new_topic_storyboard.png)
 
 ## Storyboard respondendo um tópico
 
@@ -51,7 +51,7 @@ Um protótipo de baixa-fidelidade, vai ser aquele que demonstra a finalidade do 
 |  | Definição das realizações que a aplicação permite | Fácil contato com estudantes que buscam auxílio em questões quais o usuário pode ajudar, assim fazendo com que o mesmo se sinta como parte de uma comunidade. |
 | | Definição das necessidades que a aplicação se propõe a sanar | Procura de dúvidas que ponham em prática a expertise do usuário. |
 
-![alt text](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/storyboards/docs/assets/storyboards/respondendo_topico.png)
+![alt text](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/main/docs/assets/storyboards/respondendo_topico.png)
 
 ## Storyboard user profile
 
@@ -67,7 +67,7 @@ Um protótipo de baixa-fidelidade, vai ser aquele que demonstra a finalidade do 
 |  | Definição das realizações que a aplicação permite | Fácil acesso à pessoas que têm conhecimento em algum tópico que desperta interesse no usuário |
 | | Definição das necessidades que a aplicação se propõe a sanar | Encontrar usuários dentro do fórum. |
 
-![alt text](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/storyboards/docs/assets/storyboards/user_profile_Storyboard.png)
+![alt text](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/main/docs/assets/storyboards/user_profile_Storyboard.png)
 
 Os storyboards foram feitos utilizando o aplicativo [balsamiq](https://balsamiq.com/wireframes) e o site [draw.io](https://app.diagrams.net)
 
