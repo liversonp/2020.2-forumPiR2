@@ -8,6 +8,7 @@
 | 08/04/2021 | 0.2    | Adição de tabela e Storyboard | Liverson Paulo |
 | 08/04/2021 | 0.3    | Adição de tabela sobre Resposta de um tópico e adição do story board de user profile | João Henrique Paulino |
 | 08/04/2021 | 0.4    | Adição de de informações na tabela de user profile e organização do arquivo | Liverson Paulo |
+| 08/04/2021 | 0.5    | Alterando links relativos para links completos com as imagens fornecidas no github| João Henrique Paulino |
 
 ## 1. Introdução
 
@@ -49,7 +50,7 @@ Um protótipo de baixa-fidelidade, vai ser aquele que demonstra a finalidade do 
 |  | Definição das realizações que a aplicação permite | Fácil contato com estudantes que buscam auxílio em questões quais o usuário pode ajudar, assim fazendo com que o mesmo se sinta como parte de uma comunidade. |
 | | Definição das necessidades que a aplicação se propõe a sanar | Procura de dúvidas que ponham em prática a expertise do usuário. |
 
-![alt text](../../assets/storyboards/respondendo_topico.png)
+![alt text](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/storyboards/docs/assets/storyboards/respondendo_topico.png)
 
 Este storyboard foi feito utilizando o aplicativo [balsamiq](https://balsamiq.com/wireframes) e o site draw.io
 
@@ -67,7 +68,7 @@ Este storyboard foi feito utilizando o aplicativo [balsamiq](https://balsamiq.co
 |  | Definição das realizações que a aplicação permite | Fácil acesso à pessoas que têm conhecimento em algum tópico que desperta interesse no usuário |
 | | Definição das necessidades que a aplicação se propõe a sanar | Encontrar usuários dentro do fórum. |
 
-![alt text](../../assets/storyboards/user_profile_Storyboard.png)
+![alt text](https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/storyboards/docs/assets/storyboards/user_profile_Storyboard.png)
 
 Os storyboards foram feitos utilizando o aplicativo [balsamiq](https://balsamiq.com/wireframes) e o site draw.io
 
