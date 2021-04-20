@@ -14,8 +14,8 @@ campus Gama período 2020/2, ao site [**forumPiR2**](https://pir2.forumeiros.com
 
 |Foto|Matrícula | Nome | GitHub | E-mail|
 |:--:|:--:|:--:|:--:|:--:|
-| <img src="media/team/joao.png" width="100">| 18/0033620 | Joao Henrique | [joaoHenrique12](https://github.com/JoaoHenrique12) |joao.henrique1299@hotmail.com 
- | <img src="media/team/ailton.jpeg" width="100">| 18/0011600 | Ailton Aires | [ailtonaires](https://github.com/ailtonaires) | ailtonaires5@gmail.com
-| <img src="media/team/victor.jpeg" width="100">| 18/0028685 | Victor Samuel | [victordsantoss](https://github.com/victordsantoss) | victor.samuelsantoss@gmail.com
-| <img src="media/team/denniel.jpeg" width="100">| 17/0161871  | Denniel William | [Denniel-sudo](https://github.com/Denniel-sudo) | dennielwilliamr.email@gmail.com
-| <img src="media/team/liverson.png" width="100">| 18/0022237 | Liverson Paulo | [liversonp](https://github.com/liversonp)| liverson.p@gmail.com
+| <img src="assets/team/joao.png" width="100">| 18/0033620 | Joao Henrique | [joaoHenrique12](https://github.com/JoaoHenrique12) |joao.henrique1299@hotmail.com 
+ | <img src="assets/team/ailton.jpeg" width="100">| 18/0011600 | Ailton Aires | [ailtonaires](https://github.com/ailtonaires) | ailtonaires5@gmail.com
+| <img src="assets/team/victor.jpeg" width="100">| 18/0028685 | Victor Samuel | [victordsantoss](https://github.com/victordsantoss) | victor.samuelsantoss@gmail.com
+| <img src="assets/team/denniel.jpeg" width="100">| 17/0161871  | Denniel William | [Denniel-sudo](https://github.com/Denniel-sudo) | dennielwilliamr.email@gmail.com
+| <img src="assets/team/liverson.png" width="100">| 18/0022237 | Liverson Paulo | [liversonp](https://github.com/liversonp)| liverson.p@gmail.com
