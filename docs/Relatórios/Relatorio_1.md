@@ -1,5 +1,7 @@
 # Relatório 1
 O vídeo do nosso primeiro relatório está disposto no seguinte link:
 
-<a href="https://www.youtube.com/watch?v=Poh1yjTVjsQ"><img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2020.2-forumPiR2/main/docs/assets/relatorios/R1.png" width="400"></a>
+## Vídeo da apresentação
+
+<iframe width="560" height="315" src="https://youtu.be/Poh1yjTVjsQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
