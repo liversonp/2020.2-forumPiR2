@@ -5,7 +5,9 @@
 | Data       | Versão | Descrição             | Autor(res)      |
 | ---------- | ------ | --------------------- | --------------- |
 | 20/04/2021 | 0.1    | Criação do Documento  | Victor Samuel e Liverson Paulo |
-
+| 21/04/2021 | 0.2    | Aprimoração do Documento  | Victor Samuel e Liverson Paulo |
+| 21/04/2021 | 0.3    | Correção Ortográfica | Victor Samuel e Liverson Paulo |
+| 22/04/2021 | 0.3    | Revisão e finalização do Documento | Victor Samuel e Liverson Paulo |
 
 ## Introdução
 Segundo o livro Interação Humano computador de Simone Barbosa e Bruno Silva, a avaliação do protótipo de papel consiste nos passos de preparação, coleta de dados e interpretação, consolidação dos relados e relados dos resultados. 
@@ -86,7 +88,7 @@ As tarefas serão organizadas na seguinte ordem:
 * Avaliação com o protótipo (Baixa Fidelidade).
 * Pós-Entrevista (Coleta de dados como foi a experiência do Usuário dentro da plataforma).
 
-## Dados a Coletar
+## A Coleta de Dados
 Parte a qual será definida como serão feitas a coleta de dado em relação a entrevista de avaliação do protótipo de papel por meio dos participantes voluntários.
 
 ## Pré-Entrevista
@@ -126,9 +128,47 @@ As perguntas abaixo devem ser respondias em relação a cada tarefa executada. N
 
 ### Pós-Entrevista
 A pós-entrevista serve para ouvir quaisquer considerações finais quanto as tarefas ou mesmo a avaliação por parte do usuário. As perguntas para essa etapa, são:
-* Algum comentário extra sobre os protótipos? (Sugestões/Reclamações)
+* Algum comentário extra sobre os protótipos? (Sugestões/Reclamações).
+- [ ] Sim, qual?
+- [ ] Não
+* O usuário vê o uso do software como uma melhoria em relação à utlização de artefatos tradicionais?
+- [ ] Sim
+- [ ] Não
+* Há alguma mudança, inlcusão ou melhorias que devem ser realizadas no protótipo?
+- [ ] Siim, qual?
+- [ ] Não
+* Algum comentário extra sobre a Avaliação? (Sugestões/Reclamações).
+- [ ] Sim, qual?
+- [ ] Não
 * Como você definiria a avaliação?
 - [ ] Ruim
 - [ ] Neutra
 - [ ] Boa
 - [ ] Ótima
+
+## Planejamento do Relato dos Resultados 
+Segundo o livro Interação Humano computador de Simone Barbosa e Bruno Silva, o relato dos resultados é documentado após a consolidação dos resultados e deve conter os seguintes elementos.
+* Objetivos da avaliação
+* Uma breve descrição do método de prototipação em papel
+* O número e o perfil de avaliadores e dos participantes
+* As tarefas executadas pelos participantes
+* Uma lista de problemas de usabilidade corrigidos durante os ciclos de avaliação e reprojeto, indicando:
+    - Local onde ocorreu
+    - Fatores de usabilidade prejudicados
+    - Descrição e justificativa do problema
+    - Correção realizada no protótipo em papel
+    - indicação se o problema voltou a ocorrer depois da correção
+* Uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
+    - Local onde ocorreu
+    - Fatores de usabilidade prejudicados
+    - Descrição e justificativa do problema
+    - Prioridade para correção
+    - Sugestões de correção
+* Indicações de partes do sistema que podem ser mais bem elaboradas
+
+## Conclusão
+A implementação do planejamento ocorreu de maneira satisfatória, a partir disso a coleta de dados poderá ser de maneira eficaz, facilitando a vida do Avaliador. Um ponto negativo a ser ressaltado é que pela atual situação enfrentada pelo vírus COVID-19 não foi possível realizar entrevistas com todos os possíveis usuários do portal Pir2.
+
+## Referências Bibliográficas 
+
+* BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
