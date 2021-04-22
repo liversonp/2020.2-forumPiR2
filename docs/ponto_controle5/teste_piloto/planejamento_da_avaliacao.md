@@ -7,7 +7,7 @@
 | 20/04/2021 | 0.1    | Criação do Documento  | Victor Samuel e Liverson Paulo |
 | 21/04/2021 | 0.2    | Aprimoração do Documento  | Victor Samuel e Liverson Paulo |
 | 21/04/2021 | 0.3    | Correção Ortográfica | Victor Samuel e Liverson Paulo |
-| 22/04/2021 | 0.3    | Revisão e finalização do Documento | Victor Samuel e Liverson Paulo |
+| 22/04/2021 | 0.4    | Revisão e finalização do Documento | Victor Samuel e Liverson Paulo |
 
 ## Introdução
 Segundo o livro Interação Humano computador de Simone Barbosa e Bruno Silva, a avaliação do protótipo de papel consiste nos passos de preparação, coleta de dados e interpretação, consolidação dos relados e relados dos resultados. 
@@ -91,7 +91,7 @@ As tarefas serão organizadas na seguinte ordem:
 ## A Coleta de Dados
 Parte a qual será definida como serão feitas a coleta de dado em relação a entrevista de avaliação do protótipo de papel por meio dos participantes voluntários.
 
-## Pré-Entrevista
+### Pré-Entrevista
 A Pré-Entrevista serve para ter um breve contexto sobre o participante e sua experiência sobre o portal analisado (Fórum Pir2).
 * Você acessa o Fórum Pir2 com frequência? 
 - [ ] Sim 
@@ -117,6 +117,8 @@ A Pré-Entrevista serve para ter um breve contexto sobre o participante e sua ex
 - [ ] Sim 
 - [ ] Não 
 - [ ] Neutro
+
+*O detalhamento de cada Perfil de Usuário encontra-se no documento de [Personas](https://interacao-humano-computador.github.io/2020.2-forumPiR2/ponto_controle2/analise_de_requisitos/personas/)*.
 
 ### Perguntas a serem respondidas
 As perguntas abaixo devem ser respondias em relação a cada tarefa executada. Não limitado a apenas essas, o entrevistador pode anotar outas informações que considerar relevantes no decorrer dos testes. 
