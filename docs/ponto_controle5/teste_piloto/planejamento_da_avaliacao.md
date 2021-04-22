@@ -39,3 +39,49 @@ A metodologia utilizada para a estruturação desse documento será baseada no F
 * D - Decidir como lidar com as questões éticas.
 
 * E - Avaliar (Evaluate), interpretar e apresentar os dados.
+
+## O Planejamento 
+Esta parte irá detalhar o funcionamento do planejamento da avaliação apresentado anteriormente, por meio da junção da Metodologia DECIDE aos conceitos abordados por Barbosa e Silva - 2010.
+
+## Preparação 
+
+### Perfil de Usuário
+* Estudante do Ensino Fundamental 
+* Estudante do Ensino Médio
+* Vestibulando que já terminou o Ensino Médio
+* Estudante de Ensino Superior
+* Prestador de Concurso Nível Médio
+
+*O detalhamento de cada Perfil de Usuário encontra-se no documento de [Personas](https://interacao-humano-computador.github.io/2020.2-forumPiR2/ponto_controle2/analise_de_requisitos/personas/)*.
+
+### Tarefas 
+* Fazer login no sistema 
+* Criar um tópico
+* Comentar em um tópico criado por mim
+* Visualizar meu perfil 
+* Visualizar minhas mensagens 
+* Pesquisar e visualizar um usuário
+
+### Protótipos 
+* [Baixa Fidelidade]()
+
+### Instruções
+* Teste Piloto  
+
+O teste piloto terá o formato de uma entrevista, podendo ser utilizar as personas e também pessoas reais, as quais precisam ter um perfil adequado de acordo com o perfil traçado pelos avaliadores e baseado no uso da plataforma. O detalhamento desse documento pode ser acessado clicando [aqui]().
+
+### Termo de Consentimento
+
+O [Termo de Consentimento]() é um documento baseado nos princípios éticos que envolvem pessoas. Isso assegura que toda e qualquer pessoa estará ciente de todas as características que permeiam o processo, desde objetivos, tempo de duração ou qualquer outra questão pertinente, principalmente quando se fala em eventuais riscos ou complicações no decorrer da atividade, por menor que eles sejam. Segundo Johnson (2001, apud DINIZ, 2010). 
+
+### Contexto de Avaliação 
+
+Devido ao atual cenário pandêmico vivenciado durante o ano de 2021. a avaliação terá sua ocorrência de forma totalmente remota. Para sua realização, algumas ferramentas serão necessárias, são elas:
+* Uma plataforma de vídeo-conferência a qual seja possível o compartilhamento de tela. Sendo as possíveis opções: Google Meet, Discord e Microsoft Teams.
+
+### Fluxo da Avaliação 
+As tarefas serão organizadas na seguinte ordem:
+* Confirmação do usuário sobre o termo de consentimento necessário para a realização da avaliação.
+* Pré-Entrevista (Coleta de dados simples sobre o uso do usuário dentro da plataforma).
+* Avaliação com o protótipo (Baixa Fidelidade).
+* Pós-Entrevista (Coleta de dados como foi a experiência do Usuário dentro da plataforma).
