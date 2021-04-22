@@ -24,4 +24,18 @@ Segundo o livro Interação Humano computador de Simone Barbosa e Bruno Silva, a
 ## Objetivo
 O intuito desse documento é detalhar o máximo possível os aspectos de planejamento referentes a avaliação do protótipo de Baixa Fidelidade, de maneira que os avaliadores escolhidos consigam relatar sem dificuldades todas as informações necessárias aos participantes durante o processo de avaliação, para assim, realizar uma análise metódica e sistemática com todos os usuários voluntários. 
 
+## Metodologia 
 
+A metodologia utilizada para a estruturação desse documento será baseada no Framework DECIDE proposta por Sharp, Rogers e Preece(2007). O framework DECIDE pode ser descrito, de forma sucinta, nos seguintes tópicos:
+
+    D - Determinar os objetivos da avaliação de IHC.
+
+    E - Explorar perguntas a serem respondidas com a avaliação.
+
+    C - Escolher (Choose) os métodos de avaliação a serem utilizados.
+
+    I - Identificar e administrar as questões práticas da avaliação.
+
+    D - Decidir como lidar com as questões éticas.
+
+    E - Avaliar (Evaluate), interpretar e apresentar os dados.
