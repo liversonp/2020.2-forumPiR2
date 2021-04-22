@@ -28,14 +28,14 @@ O intuito desse documento é detalhar o máximo possível os aspectos de planeja
 
 A metodologia utilizada para a estruturação desse documento será baseada no Framework DECIDE proposta por Sharp, Rogers e Preece(2007). O framework DECIDE pode ser descrito, de forma sucinta, nos seguintes tópicos:
 
-    D - Determinar os objetivos da avaliação de IHC.
+* D - Determinar os objetivos da avaliação de IHC.
 
-    E - Explorar perguntas a serem respondidas com a avaliação.
+* E - Explorar perguntas a serem respondidas com a avaliação.
 
-    C - Escolher (Choose) os métodos de avaliação a serem utilizados.
+* C - Escolher (Choose) os métodos de avaliação a serem utilizados.
 
-    I - Identificar e administrar as questões práticas da avaliação.
+* I - Identificar e administrar as questões práticas da avaliação.
 
-    D - Decidir como lidar com as questões éticas.
+* D - Decidir como lidar com as questões éticas.
 
-    E - Avaliar (Evaluate), interpretar e apresentar os dados.
+* E - Avaliar (Evaluate), interpretar e apresentar os dados.
