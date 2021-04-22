@@ -94,6 +94,28 @@ A Pré-Entrevista serve para ter um breve contexto sobre o participante e sua ex
 * Você acessa o Fórum Pir2 com frequência? 
 - [ ] Sim 
 - [ ] Não 
+- [ ] Neutro
+* Qual seu conhecimento dentro do portal?
+- [ ] Nenhum
+- [ ] Pouco 
+- [ ] Neutro
+- [ ] Bom
+- [ ] alto  
+* Qual seus objetivos dentro do Portal?
+- [ ] Aprimorar Estudos
+- [ ] Tirar Dúvidas
+- [ ] Aprender novos conteúdos
+- [ ] Conhecer Pessoas 
+- [ ] Ajudar outras pessoas 
+* Por onde conheceu o portal?
+- [ ] Indicação de Amigos
+- [ ] Redes Sociais 
+- [ ] Buscando na Web
+* Atualmente, você está satisfeito com o portal?
+- [ ] Sim 
+- [ ] Não 
+- [ ] Neutro
+
 ### Perguntas a serem respondidas
 As perguntas abaixo devem ser respondias em relação a cada tarefa executada. Não limitado a apenas essas, o entrevistador pode anotar outas informações que considerar relevantes no decorrer dos testes. 
 * O Usuário conseguiu concluir a tarefa?
@@ -102,3 +124,11 @@ As perguntas abaixo devem ser respondias em relação a cada tarefa executada. N
 * O usuário expressou alguma reação negativa? Se sim, qual?
 * Após terminar a tarefa, o usuário tem algum comentário a fazer? Se sim, qual? 
 
+### Pós-Entrevista
+A pós-entrevista serve para ouvir quaisquer considerações finais quanto as tarefas ou mesmo a avaliação por parte do usuário. As perguntas para essa etapa, são:
+* Algum comentário extra sobre os protótipos? (Sugestões/Reclamações)
+* Como você definiria a avaliação?
+- [ ] Ruim
+- [ ] Neutra
+- [ ] Boa
+- [ ] Ótima
