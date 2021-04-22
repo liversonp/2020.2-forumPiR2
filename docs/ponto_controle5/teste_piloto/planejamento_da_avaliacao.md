@@ -85,3 +85,20 @@ As tarefas serão organizadas na seguinte ordem:
 * Pré-Entrevista (Coleta de dados simples sobre o uso do usuário dentro da plataforma).
 * Avaliação com o protótipo (Baixa Fidelidade).
 * Pós-Entrevista (Coleta de dados como foi a experiência do Usuário dentro da plataforma).
+
+## Dados a Coletar
+Parte a qual será definida como serão feitas a coleta de dado em relação a entrevista de avaliação do protótipo de papel por meio dos participantes voluntários.
+
+## Pré-Entrevista
+A Pré-Entrevista serve para ter um breve contexto sobre o participante e sua experiência sobre o portal analisado (Fórum Pir2).
+* Você acessa o Fórum Pir2 com frequência? 
+- [x] Sim 
+- [x] Não 
+### Perguntas a serem respondidas
+As perguntas abaixo devem ser respondias em relação a cada tarefa executada. Não limitado a apenas essas, o entrevistador pode anotar outas informações que considerar relevantes no decorrer dos testes. 
+* O Usuário conseguiu concluir a tarefa?
+* O usuário cometeu algum erro na realização da tarefa? Se sim, qual?
+* O usuário levou quanto tempo para realizar a tarefa? Se demorou muito, por que? 
+* O usuário expressou alguma reação negativa? Se sim, qual?
+* Após terminar a tarefa, o usuário tem algum comentário a fazer? Se sim, qual? 
+
