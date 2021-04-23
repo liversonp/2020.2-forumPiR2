@@ -15,7 +15,6 @@ O teste piloto procura avaliar de forma criteriosa todo o planejamento que é fe
 Alguns pontos de validação a serem ressaltados:
 
 - Analisar se a metodologia baseada no framework DECIDE está sendo seguida corretamente
-- 
 - O teste deverá ter a duração máxima de 20 minutos
 - O perfil do participante deve estar de acordo com o perfil traçado nas personas
 - O avaliador deve estar apto e preparado para lidar com quaisquer situações
