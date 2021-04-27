@@ -74,7 +74,7 @@ O teste piloto terá o formato de uma entrevista, podendo ser utilizar as person
 
 ### Termo de Consentimento
 
-O [Termo de Consentimento](https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/main/docs/ponto_controle4/analise_de_tarefas/termo.md) é um documento baseado nos princípios éticos que envolvem pessoas. Isso assegura que toda e qualquer pessoa estará ciente de todas as características que permeiam o processo, desde objetivos, tempo de duração ou qualquer outra questão pertinente, principalmente quando se fala em eventuais riscos ou complicações no decorrer da atividade, por menor que eles sejam. Segundo Johnson (2001, apud DINIZ, 2010). 
+O [Termo de Consentimento](https://interacao-humano-computador.github.io/2020.2-forumPiR2/ponto_controle4/analise_de_tarefas/termo/) é um documento baseado nos princípios éticos que envolvem pessoas. Isso assegura que toda e qualquer pessoa estará ciente de todas as características que permeiam o processo, desde objetivos, tempo de duração ou qualquer outra questão pertinente, principalmente quando se fala em eventuais riscos ou complicações no decorrer da atividade, por menor que eles sejam. Segundo Johnson (2001, apud DINIZ, 2010). 
 
 ### Contexto de Avaliação 
 
