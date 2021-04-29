@@ -5,6 +5,7 @@
 | Data       | Versão | Descrição             | Autor(res)      |
 | ---------- | ------ | --------------------- | --------------- |
 | 28/04/2021 | 0.1    | Criação do Documento  | Victor Samuel |
+| 28/04/2021 | 0.2   | Revisão  | Victor Samuel |
 
 
 ## Introdução
@@ -30,7 +31,7 @@ O intuito desse documento é detalhar o máximo possível os aspectos de planeja
 
 ## Metodologia 
 
-A metodologia utilizada para a estruturação desse documento será baseada no Framework DECIDE proposta por Sharp, Rogers e Preece(2007). O framework DECIDE pode ser descrito, de forma sucinta, nos seguintes tópicos:
+Continuaremos com a metodologia utilizada para a avaliação do Protótipo de Papel, logo, com isso, para a estruturação desse documento será utilizado o Framework DECIDE proposto por Sharp, Rogers e Preece(2007). O framework DECIDE pode ser descrito, de forma sucinta, nos seguintes tópicos:
 
 * D - Determinar os objetivos da avaliação de IHC.
 
@@ -50,11 +51,11 @@ Esta parte irá detalhar o funcionamento do planejamento da avaliação apresent
 ## Preparação 
 
 ### Perfil de Usuário
-* Estudante do Ensino Fundamental 
+Simulação com Personas
 * Estudante do Ensino Médio
-* Vestibulando que já terminou o Ensino Médio
 * Estudante de Ensino Superior
-* Prestador de Concurso Nível Médio
+
+Caso seja possível, aplicação com pessoas reais.
 
 *O detalhamento de cada Perfil de Usuário encontra-se no documento de [Personas](https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/main/docs/ponto_controle2/analise_de_requisitos/personas.md)*.
 
