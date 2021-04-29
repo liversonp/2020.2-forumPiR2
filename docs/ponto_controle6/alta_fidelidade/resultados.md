@@ -18,10 +18,16 @@ Nossas entrevistas foram realizadas com um total de 5 participantes, que segundo
 ## Vídeos 
 
 ### Entrevista 1 - Pedro Arruda 
+[![Watch the video](https://img.youtube.com/vi/c8IhC3r10Z4/mqdefault.jpg)](https://youtu.be/c8IhC3r10Z4)
 
 ### Entrevista 2 - Isabel Gomes
 
+[![Watch the video](https://img.youtube.com/vi/5xq7dUmZQy4/mqdefault.jpg)](https://youtu.be/5xq7dUmZQy4)
+
 ### Entrevista 3 - Erick Rollemberg
+
+[![Watch the video](https://img.youtube.com/vi/34H-hhuuf7g/mqdefault.jpg)](https://youtu.be/34H-hhuuf7g)
+
 
 ### Entrevista 4 - Simulação com Persona - Estudante do Ensino Médio 
 
@@ -30,7 +36,28 @@ Nossas entrevistas foram realizadas com um total de 5 participantes, que segundo
 
 
 ## Relatos dos Resultados
-
+A partir das entrevistas realizadas, tivemos feedbacks como:
+Site agradável para os olhos 
+* Design Superinterativo
+* Design agradável 
+* Pagina direta sem espaço para erro 
+* Fonte bem escrita e dinâmica
+* Páginas Organizadas
+* Botão responder poderia ser melhor estruturado
+* Mais visual em relação ao de Baixa Fidelidade
+* Fundo mais agradável em relação ao de Baixa Fidelidade
+* Fonte muito boa
+* Manter botão responder do protótipo de Baixa fidelidade
+* Design Bonito e que incentiva o usuário 
+* Maneira do fluxo de interações muito boa
+* botão para voltar não é intuitivo (Crítica)
+* Melhor atualizado (Boa evolução em relação ao de Baixa Fidelidade e o Portal Pir2 atual)
+* Mais bonito (Boa evolução em relação ao de Baixa Fidelidade)
+* Mais sucinto (Boa evolução em relação ao de Baixa Fidelidade)
+* Deixar melhor a volta aos tópicos
+* Protótipo Novo
+* Menos Engessado (Boa evolução em relação ao de Baixa Fidelidade e o Portal Pir2 atual)
+* Mais facilidade de acesso à funcionalidades (Boa evolução em relação ao de Baixa Fidelidade e o Portal Pir2 atual)
 
 ### Referências Bibliográficas
 - BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
