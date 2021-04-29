@@ -6,6 +6,8 @@
 | ---------- | ------ | --------------------- | --------------- |
 | 28/04/2021 | 0.1    | Criação do Documento e Inserção das Telas  | Victor Samuel, Denniel William e Liverson Paulo  |
 
+## Sobre o Documento
+
 "A fidelidade do protótipo refere-se ao nível de detalhes e funcionalidade incorporada a ele. Nesse sentido, um protótipo de alta fidelidade (às vezes chamado de high-fi ou hi-fi) é uma representação interativa do produto, baseada no computador ou em dispositivos móveis. Esse protótipo já apresenta maior semelhança com o design final em termos de detalhes e funcionalidade."
 Fonte [Medium](https://medium.com/somos-tera/prototipagem-de-alta-fidelidade-635d745b662b).
 
