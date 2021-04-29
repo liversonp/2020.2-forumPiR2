@@ -54,7 +54,7 @@ Esta parte irá detalhar o funcionamento do planejamento da avaliação apresent
 * Estudante de Ensino Superior
 * Prestador de Concurso Nível Médio
 
-*O detalhamento de cada Perfil de Usuário encontra-se no documento de [Personas](https://interacao-humano-computador.github.io/2020.2-forumPiR2/ponto_controle2/analise_de_requisitos/personas/)*.
+*O detalhamento de cada Perfil de Usuário encontra-se no documento de [Personas](https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/main/docs/ponto_controle2/analise_de_requisitos/personas.md)*.
 
 ### Tarefas 
 * Fazer login no sistema 
@@ -65,16 +65,16 @@ Esta parte irá detalhar o funcionamento do planejamento da avaliação apresent
 * Pesquisar e visualizar um usuário
 
 ### Protótipos 
-* [Baixa de Papel]()
+* [Protótipo de Papel](https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/main/docs/ponto_controle5/prototipo%20de%20papel/prototipo%20de%20papel.md)
 
 ### Instruções
 * Teste Piloto  
 
-O teste piloto terá o formato de uma entrevista, podendo ser utilizar as personas e também pessoas reais, as quais precisam ter um perfil adequado de acordo com o perfil traçado pelos avaliadores e baseado no uso da plataforma. O detalhamento desse documento pode ser acessado clicando [aqui]().
+O teste piloto terá o formato de uma entrevista, podendo ser utilizar as personas e também pessoas reais, as quais precisam ter um perfil adequado de acordo com o perfil traçado pelos avaliadores e baseado no uso da plataforma. O detalhamento desse documento pode ser acessado clicando [aqui](https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/main/docs/ponto_controle5/teste_piloto/teste_piloto_prototipo_de_papel.md).
 
 ### Termo de Consentimento
 
-O [Termo de Consentimento](https://interacao-humano-computador.github.io/2020.2-forumPiR2/ponto_controle4/analise_de_tarefas/termo/) é um documento baseado nos princípios éticos que envolvem pessoas. Isso assegura que toda e qualquer pessoa estará ciente de todas as características que permeiam o processo, desde objetivos, tempo de duração ou qualquer outra questão pertinente, principalmente quando se fala em eventuais riscos ou complicações no decorrer da atividade, por menor que eles sejam. Segundo Johnson (2001, apud DINIZ, 2010). 
+O [Termo de Consentimento](https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/main/docs/ponto_controle4/analise_de_tarefas/termo.md) é um documento baseado nos princípios éticos que envolvem pessoas. Isso assegura que toda e qualquer pessoa estará ciente de todas as características que permeiam o processo, desde objetivos, tempo de duração ou qualquer outra questão pertinente, principalmente quando se fala em eventuais riscos ou complicações no decorrer da atividade, por menor que eles sejam. Segundo Johnson (2001, apud DINIZ, 2010). 
 
 ### Contexto de Avaliação 
 
@@ -118,7 +118,7 @@ A Pré-Entrevista serve para ter um breve contexto sobre o participante e sua ex
 - [ ] Não 
 - [ ] Neutro
 
-*O detalhamento de cada Perfil de Usuário encontra-se no documento de [Personas](https://interacao-humano-computador.github.io/2020.2-forumPiR2/ponto_controle2/analise_de_requisitos/personas/)*.
+*O detalhamento de cada Perfil de Usuário encontra-se no documento de [Personas](https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/main/docs/ponto_controle2/analise_de_requisitos/personas.md)*.
 
 ### Perguntas a serem respondidas
 As perguntas abaixo devem ser respondias em relação a cada tarefa executada. Não limitado a apenas essas, o entrevistador pode anotar outas informações que considerar relevantes no decorrer dos testes. 
