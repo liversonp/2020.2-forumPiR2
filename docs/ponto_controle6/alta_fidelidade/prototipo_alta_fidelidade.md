@@ -44,6 +44,6 @@ A prototipagem de Alta Fidelidade foi feita com base no fluxo de criação de t�
   <img src="../../assets/prototipos/alta_fidelidade/novo.png" width="400"/>
 </p>
 
-*As Páginas estarão disponíveis para interação dentro da plataforma FIGMA*, acessível em: https://www.figma.com/file/SphBQCvwj6qVWP2YLDiPVs/Untitled?node-id=0%3A1 
+*As Páginas estarão disponíveis para interação dentro da plataforma FIGMA*, acessível em: https://www.figma.com/proto/SphBQCvwj6qVWP2YLDiPVs/Untitled?node-id=1%3A2&scaling=contain&page-id=0%3A1 
 
 
