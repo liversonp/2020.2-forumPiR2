@@ -12,7 +12,7 @@ Ao desenvolver um protótipo para uma determinada aplicação, não é necessár
 
 Com isso o Protótipo de Baixa Fidelidade vem com o objetivo de iniciar validações visuais e de funcionalidades relacionadas ao desenvolvimento de um produto de software.
 
-A partir disso, seguiremos usando a metodologia de planejamento baseada no livro Interação Humano computador de Simone Barbosa e Bruno Silva, que consiste nos passos de preparação, coleta de dados e interpretação, consolidação dos relados e relados dos resultados. 
+A partir disso, seguiremos usando a metodologia de planejamento baseada no livro Interação Humano computador de Simone Barbosa e Bruno Silva, que consiste nos passos de preparação, coleta de dados e interpretação, consolidação dos relados e relados dos resultados, sendo adaptada para um planejamento de avaliação relacionado ao Protótipo de Baixa Fidelidade.
 
 1. Preparação: 
     Consiste em preparar os elementos necessários para realizar a avaliação, como por exemplo: Definir as tarefas, os perfís dos participantes, os protótipos a serem utilizados, quais perguntas serão abordadas e por fim a realização de um teste piloto. 
@@ -21,7 +21,7 @@ A partir disso, seguiremos usando a metodologia de planejamento baseada no livro
 3. Consolidação dos Resultados:
     Consiste na fase a qual os avaliadores analísem os problemas encontrados, relatando-os, além de filtrar os dados e sugerir possíveis correções. 
 4. Relato dos Resultados: 
-    Consiste na fase final da Avaliação do Protótipo de Papel, é onde os avaliadores relatam os problemas encontrados durante a participação dos usuários voluntários e sugerem correções. 
+    Consiste na fase final da Avaliação do Protótipo de Baixa Fidelidade, é onde os avaliadores relatam os problemas encontrados durante a participação dos usuários voluntários e sugerem correções. 
 
 *Desse modo, esse documento visa principalmente documentar a fase de preparação e planejamento do relato dos resultados, por meio da avaliação dos participantes voluntários no protótipo de Baixa Fidelidade.*
 
@@ -50,10 +50,13 @@ Esta parte irá detalhar o funcionamento do planejamento da avaliação apresent
 ## Preparação 
 
 ### Perfil de Usuário
+* Estudante do Ensino Fundamental 
 * Estudante do Ensino Médio
+* Vestibulando que já terminou o Ensino Médio
 * Estudante de Ensino Superior
+* Prestador de Concurso Nível Médio
 
-*O detalhamento de cada Perfil de Usuário encontra-se no documento de [Personas](https://interacao-humano-computador.github.io/2020.2-forumPiR2/ponto_controle2/analise_de_requisitos/personas/)*.
+*O detalhamento de cada Perfil de Usuário encontra-se no documento de [Personas](https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/main/docs/ponto_controle2/analise_de_requisitos/personas.md)*.
 
 ### Tarefas 
 * Fazer login no sistema 
@@ -64,16 +67,16 @@ Esta parte irá detalhar o funcionamento do planejamento da avaliação apresent
 * Pesquisar e visualizar um usuário
 
 ### Protótipos 
-* [Baixa Fidelidade]()
+* [Protótipo de Baixa Fidelidade]()
 
 ### Instruções
 * Teste Piloto  
 
-O teste piloto terá o formato de uma entrevista, podendo ser utilizar as personas e também pessoas reais, as quais precisam ter um perfil adequado de acordo com o perfil traçado pelos avaliadores e baseado no uso da plataforma. O detalhamento desse documento pode ser acessado clicando [aqui]().
+Continuaresmos com o teste piloto, que terá o formato de uma entrevista, podendo ser utilizar as personas e também pessoas reais, as quais precisam ter um perfil adequado de acordo com o perfil traçado pelos avaliadores e baseado no uso da plataforma. O detalhamento desse documento pode ser acessado clicando [aqui](https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/main/docs/ponto_controle5/teste_piloto/teste_piloto_prototipo_de_papel.md).
 
 ### Termo de Consentimento
 
-O [Termo de Consentimento](https://interacao-humano-computador.github.io/2020.2-forumPiR2/ponto_controle4/analise_de_tarefas/termo/) é um documento baseado nos princípios éticos que envolvem pessoas. Isso assegura que toda e qualquer pessoa estará ciente de todas as características que permeiam o processo, desde objetivos, tempo de duração ou qualquer outra questão pertinente, principalmente quando se fala em eventuais riscos ou complicações no decorrer da atividade, por menor que eles sejam. Segundo Johnson (2001, apud DINIZ, 2010). 
+O [Termo de Consentimento](https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/main/docs/ponto_controle4/analise_de_tarefas/termo.md) é um documento baseado nos princípios éticos que envolvem pessoas. Isso assegura que toda e qualquer pessoa estará ciente de todas as características que permeiam o processo, desde objetivos, tempo de duração ou qualquer outra questão pertinente, principalmente quando se fala em eventuais riscos ou complicações no decorrer da atividade, por menor que eles sejam. Segundo Johnson (2001, apud DINIZ, 2010). 
 
 ### Contexto de Avaliação 
 
@@ -84,11 +87,11 @@ Devido ao atual cenário pandêmico vivenciado durante o ano de 2021. a avaliaç
 As tarefas serão organizadas na seguinte ordem:
 * Confirmação do usuário sobre o termo de consentimento necessário para a realização da avaliação.
 * Pré-Entrevista (Coleta de dados simples sobre o uso do usuário dentro da plataforma).
-* Avaliação com o protótipo (Baixa Fidelidade).
+* Avaliação com o protótipo (Baixa de Baixa Fidelidade).
 * Pós-Entrevista (Coleta de dados como foi a experiência do Usuário dentro da plataforma).
 
 ## A Coleta de Dados
-Parte a qual será definida como serão feitas a coleta de dado em relação a entrevista de avaliação do protótipo de papel por meio dos participantes voluntários.
+Parte a qual será definida como serão feitas a coleta de dado em relação a entrevista de avaliação do protótipo de Baixa Fidelidade por meio dos participantes voluntários.
 
 ### Pré-Entrevista
 A Pré-Entrevista serve para ter um breve contexto sobre o participante e sua experiência sobre o portal analisado (Fórum Pir2).
@@ -117,7 +120,7 @@ A Pré-Entrevista serve para ter um breve contexto sobre o participante e sua ex
 - [ ] Não 
 - [ ] Neutro
 
-*O detalhamento de cada Perfil de Usuário encontra-se no documento de [Personas](https://interacao-humano-computador.github.io/2020.2-forumPiR2/ponto_controle2/analise_de_requisitos/personas/)*.
+*O detalhamento de cada Perfil de Usuário encontra-se no documento de [Personas](https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/main/docs/ponto_controle2/analise_de_requisitos/personas.md)*.
 
 ### Perguntas a serem respondidas
 As perguntas abaixo devem ser respondias em relação a cada tarefa executada. Não limitado a apenas essas, o entrevistador pode anotar outas informações que considerar relevantes no decorrer dos testes. 
@@ -150,14 +153,14 @@ A pós-entrevista serve para ouvir quaisquer considerações finais quanto as ta
 ## Planejamento do Relato dos Resultados 
 Segundo o livro Interação Humano computador de Simone Barbosa e Bruno Silva, o relato dos resultados é documentado após a consolidação dos resultados e deve conter os seguintes elementos.
 * Objetivos da avaliação
-* Uma breve descrição do método de prototipação em papel
+* Uma breve descrição do método de prototipação de Baixa Fidelidade
 * O número e o perfil de avaliadores e dos participantes
 * As tarefas executadas pelos participantes
 * Uma lista de problemas de usabilidade corrigidos durante os ciclos de avaliação e reprojeto, indicando:
     - Local onde ocorreu
     - Fatores de usabilidade prejudicados
     - Descrição e justificativa do problema
-    - Correção realizada no protótipo em papel
+    - Correção realizada no protótipo em Baixa Fidelidade
     - indicação se o problema voltou a ocorrer depois da correção
 * Uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
     - Local onde ocorreu
