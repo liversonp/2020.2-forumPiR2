@@ -26,6 +26,7 @@ Nossas entrevistas foram realizadas com um total de 5 participantes, dentre esse
 [![Watch the video](https://img.youtube.com/vi/_0xhVL2PTps/mqdefault.jpg)](https://youtu.be/_0xhVL2PTps)
 
 ### Entrevista 5 - Lucius Buzinaro estudante de Ensino Superior 
+[![Watch the video](https://img.youtube.com/vi/i3V7kDcRr98/mqdefault.jpg)](https://youtu.be/i3V7kDcRr98)
 
 ## Relatos dos Resultados
 Com as entrevistas conseguimos perceber que estamos no caminho certo, porém estamos tendo alguns pequenos defeitos principalmente em relação a buscas e botões de continuação, assim como também alguns símbolos mais claros para as funcionalidades correspondentes.
