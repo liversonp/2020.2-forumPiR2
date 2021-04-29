@@ -21,10 +21,10 @@ Segundo o livro Interação Humano computador de Simone Barbosa e Bruno Silva, a
 4. Relato dos Resultados: 
     Consiste na fase final da Avaliação do Protótipo de Papel, é onde os avaliadores relatam os problemas encontrados durante a participação dos usuários voluntários e sugerem correções. 
 
-*Desse modo, esse documento visa principalmente documentar a fase de preparação e planejamento do relato dos resultados, por meio da avaliação dos participantes voluntários no protótipo de Baixa Fidelidade.*
+*Desse modo, esse documento visa principalmente documentar a fase de preparação e planejamento do relato dos resultados, por meio da avaliação dos participantes voluntários no protótipo de Baixa de Papel.*
 
 ## Objetivo
-O intuito desse documento é detalhar o máximo possível os aspectos de planejamento referentes a avaliação do protótipo de Baixa Fidelidade, de maneira que os avaliadores escolhidos consigam relatar sem dificuldades todas as informações necessárias aos participantes durante o processo de avaliação, para assim, realizar uma análise metódica e sistemática com todos os usuários voluntários. 
+O intuito desse documento é detalhar o máximo possível os aspectos de planejamento referentes a avaliação do protótipo de Baixa de Papel, de maneira que os avaliadores escolhidos consigam relatar sem dificuldades todas as informações necessárias aos participantes durante o processo de avaliação, para assim, realizar uma análise metódica e sistemática com todos os usuários voluntários. 
 
 ## Metodologia 
 
@@ -65,7 +65,7 @@ Esta parte irá detalhar o funcionamento do planejamento da avaliação apresent
 * Pesquisar e visualizar um usuário
 
 ### Protótipos 
-* [Baixa Fidelidade]()
+* [Baixa de Papel]()
 
 ### Instruções
 * Teste Piloto  
@@ -85,7 +85,7 @@ Devido ao atual cenário pandêmico vivenciado durante o ano de 2021. a avaliaç
 As tarefas serão organizadas na seguinte ordem:
 * Confirmação do usuário sobre o termo de consentimento necessário para a realização da avaliação.
 * Pré-Entrevista (Coleta de dados simples sobre o uso do usuário dentro da plataforma).
-* Avaliação com o protótipo (Baixa Fidelidade).
+* Avaliação com o protótipo (Baixa de Papel).
 * Pós-Entrevista (Coleta de dados como foi a experiência do Usuário dentro da plataforma).
 
 ## A Coleta de Dados
