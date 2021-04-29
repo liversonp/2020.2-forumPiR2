@@ -1,10 +1,11 @@
-# Protótipo de Alta Fidelidade
+# Protótipo de Baixa Fidelidade
 
 ### Historico de Versão
 
 | Data       | Versão | Descrição             | Autor(res)      |
 | ---------- | ------ | --------------------- | --------------- |
 | 28/04/2021 | 0.1    | Criação do Documento e Inserção das Telas  | Victor Samuel, Denniel William e Liverson Paulo  |
+| 29/04/2021 | 0.2   | Revisão  | Victor Samuel, Denniel William e Liverson Paulo  |
 
 Ao desenvolver um protótipo para uma determinada aplicação, não é necessário apresentar toda funcionalidade do produto, ou o produto 100% desenvolvido. Com isso, os protótipos servem para melhorar, alterar ou incrementar um solução que ainda será lançada futuramente, nesse contexto, o Protótipo de Baixa Fidelidade aparece, ele apresenta caracterìsticas como baixo nível de detalhamento, apresenta visualmente funcionalidades básicas (mas indispensáveis), não possui recursos de interação e não exibe necessariamente o mesmo design da versão final. 
 
