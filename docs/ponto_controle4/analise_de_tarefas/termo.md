@@ -6,7 +6,7 @@
 | ---------- | ------ | --------------------- | --------------- |
 | 07/04/2021 | 0.1   | Criação do Documento           | Ailton Aires |
 | 08/04/2021 | 0.2  | Upload do Documento          | Ailton Aires |
-| 88/04/2021 | 0.2  | Correção do documento          | Ailton Aires |
+| 88/04/2021 | 0.3  | Correção do documento          | Ailton Aires |
 
 # Introdução
 
