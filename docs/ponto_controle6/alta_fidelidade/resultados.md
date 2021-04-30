@@ -5,6 +5,7 @@
 | Data | Versão | Descrição | Autor |
 | :--- | :--- | :--- | :--- |
 | 28/04/2021 | 0.1 | Criação do Documento | Victor Samuel |
+| 30/04/2021 | 0.2 | Inserção de entrevistas e finalização | Victor Samuel |
 
 
 ## Entrevista
@@ -28,11 +29,11 @@ Nossas entrevistas foram realizadas com um total de 5 participantes, que segundo
 
 [![Watch the video](https://img.youtube.com/vi/34H-hhuuf7g/mqdefault.jpg)](https://youtu.be/34H-hhuuf7g)
 
-
 ### Entrevista 4 - Simulação com Persona - Estudante do Ensino Médio 
+[![Watch the video](https://img.youtube.com/vi/HIJfj1lGzG8/mqdefault.jpg)](https://youtu.be/HIJfj1lGzG8)
 
 ### Entrevista 5 - Simulação com Persona - Estudante do Ensino Fundamental
-
+[![Watch the video](https://img.youtube.com/vi/iDM5ZnBWXCc/mqdefault.jpg)](https://youtu.be/iDM5ZnBWXCc)
 
 
 ## Relatos dos Resultados
