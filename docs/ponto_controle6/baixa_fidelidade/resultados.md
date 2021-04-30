@@ -26,7 +26,7 @@ Nossas entrevistas foram realizadas com um total de 5 participantes, que segundo
 
 ### Entrevista 3 - Erick Rollemberg
 
-[![Watch the video](https://img.youtube.com/vi/vd2VdKsxNY8/mqdefault.jpg)](https://youtu.be/vd2VdKsxNY8)
+[![Watch the video](https://img.youtube.com/vi/vd2VdKsxNY8/mqdefault.jpg)](https://youtu.be/qzaBHo5_gnI)
 
 
 ### Entrevista 4 - Simulação com Persona - Estudante do Ensino Médio 
