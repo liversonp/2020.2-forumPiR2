@@ -4,8 +4,8 @@
 
 | Data | Versão | Descrição | Autor |
 | :--- | :--- | :--- | :--- |
-| 28/04/2021 | 0.1 | Criação do Documento | Victor Samuel |
-
+| 28/04/2021 | 0.1 | Criação do Documento | Victor Samuel, Denniel William e Liverson paulo  |
+| 30/04/2021 | 0.2 | Inserção das Entrevistas e Finalização | Victor Samuel, Denniel William e Liverson paulo |
 
 ## Entrevista
 Nossas entrevistas foram realizadas com um total de 5 participantes, que segundo o livro "Interação Humano-Computador" de Simone Barbosa e Bruno Silva esse número garante pelo menos 80% de cobertuda de dados. Nesse contexto, nossos participantes voluntários foram, 3 pessoas reais (Usuários ou não do Fórum) e 2 Personas (Simulação com os próprios integrantes do grupo). As entrevistas foram gravadas por meio de chamada de vídeo na plataforma Meet e concedidas pela aplicação do termo de compromisso aos participantes voluntários, as mesmas estarão dentro da documentação.
@@ -30,8 +30,10 @@ Nossas entrevistas foram realizadas com um total de 5 participantes, que segundo
 
 
 ### Entrevista 4 - Simulação com Persona - Estudante do Ensino Médio 
+[![Watch the video](https://img.youtube.com/vi/xuxqpnyvT0c/mqdefault.jpg)](https://youtu.be/xuxqpnyvT0c)
 
 ### Entrevista 5 - Simulação com Persona - Estudante do Ensino Fundamental
+[![Watch the video](https://img.youtube.com/vi/Vi31XcpeVeI/mqdefault.jpg)](https://youtu.be/Vi31XcpeVeI)
 
 
 
