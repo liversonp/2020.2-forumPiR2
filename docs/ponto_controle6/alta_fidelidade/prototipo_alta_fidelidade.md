@@ -22,29 +22,19 @@ Com isso, o Protótipo de Alta Fidelidade vem com o objetivo de:
 A prototipagem de Alta Fidelidade foi feita com base no fluxo de criação de tópicos usando a Plataforma [FIGMA](https://www.figma.com/)
 
 ### Tela Inicial 
-<p align="center">
-  <img src="../../assets/prototipos/alta_fidelidade/inicial.png" width="800"/>
-</p>
+![](../../assets/prototipos/alta_fidelidade/inicial.png)
 
 ### Tópicos Geral
-<p align="center">
-  <img src="../../assets/prototipos/alta_fidelidade/geral.png" width="800"/>
-</p>
+![](../../assets/prototipos/alta_fidelidade/geral.png)
 
 ### Dentro do Tópico
-<p align="center">
-  <img src="../../assets/prototipos/alta_fidelidade/dentro.png" width="800"/>
-</p>
+![](../../assets/prototipos/alta_fidelidade/dentro.png)
 
 ### Mensagem Enviada
-<p align="center">
-  <img src="../../assets/prototipos/alta_fidelidade/enviada.png" width="800"/>
-</p>
+![](../../assets/prototipos/alta_fidelidade/enviada.png)
 
 ### Novo Post 
-<p align="center">
-  <img src="../../assets/prototipos/alta_fidelidade/novo.png" width="500"/>
-</p>
+![](../../assets/prototipos/alta_fidelidade/novo.png)
 
 *As Páginas estarão disponíveis para interação dentro da plataforma FIGMA*, acessível clicando [AQUI](https://www.figma.com/proto/SphBQCvwj6qVWP2YLDiPVs/Untitled?node-id=1%3A2&scaling=contain&page-id=0%3A1).
 

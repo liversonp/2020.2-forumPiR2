@@ -21,24 +21,19 @@ Com isso, o Protótipo de Baixa Fidelidade vem com o objetivo de:
 A prototipagem de Baixa Fidelidade foi feita com base no fluxo de criação de tópicos usando a Plataforma [FIGMA](https://www.figma.com/)
 
 ### Tela Inicial 
-<p align="center">
-  <img src="../../assets/prototipos/baixa_fidelidade/inicial.png" width="800"/>
-</p>
+![](../../assets/prototipos/baixa_fidelidade/inicial.png)
 
 ### Tópicos Geral
-<p align="center">
-  <img src="../../assets/prototipos/baixa_fidelidade/geral.png" width="800"/>
-</p>
+![](../../assets/prototipos/baixa_fidelidade/geral.png)
+
 
 ### Criar Tópico
-<p align="center">
-  <img src="../../assets/prototipos/baixa_fidelidade/criar.png" width="800"/>
-</p>
+![](../../assets/prototipos/baixa_fidelidade/criar.png)
+
 
 ### Acesso ao Assunto nos Tópicos
-<p align="center">
-  <img src="../../assets/prototipos/baixa_fidelidade/assunto_d.png" width="800"/>
-</p>
+![](../../assets/prototipos/baixa_fidelidade/assunto_d.png)
+
 
 *As Páginas estarão disponíveis para interação dentro da plataforma FIGMA*, acessível clicando [AQUI](https://www.figma.com/proto/PTWZzhjcBSBzPOqtIBMaGV/Prot%C3%B3tipo-de-Baixa-Fidelidade-F%C3%B3rum-Pir2?page-id=0%3A1&node-id=19%3A3&viewport=254%2C280%2C0.22335600852966309&scaling=scale-down).
 
