@@ -4,13 +4,16 @@
 
 | Data       | Versão | Descrição             | Autor(res)      |
 | ---------- | ------ | --------------------- | --------------- |
-| 20/04/2021 | 0.1    | Criação do Documento  | Victor Samuel e Liverson Paulo |
-| 21/04/2021 | 0.2    | Aprimoração do Documento  | Victor Samuel e Liverson Paulo |
-| 21/04/2021 | 0.3    | Correção Ortográfica | Victor Samuel e Liverson Paulo |
-| 22/04/2021 | 0.4    | Revisão e finalização do Documento | Victor Samuel e Liverson Paulo |
+| 28/04/2021 | 0.1    | Criação do Documento  | Victor Samuel |
+| 28/04/2021 | 0.2   | Revisão  | Victor Samuel |
+
 
 ## Introdução
-Segundo o livro Interação Humano computador de Simone Barbosa e Bruno Silva, a avaliação do protótipo de papel consiste nos passos de preparação, coleta de dados e interpretação, consolidação dos relados e relados dos resultados. 
+Ao desenvolver um protótipo para uma determinada aplicação, não é necessário apresentar toda funcionalidade do produto, ou o produto 100% desenvolvido. Com isso, os protótipos servem para melhorar, alterar ou incrementar um solução que ainda será lançada futuramente, nesse contexto, o Protótipo de Baixa Fidelidade aparece, ele apresenta caracterìsticas como baixo nível de detalhamento, apresenta visualmente funcionalidades básicas (mas indispensáveis), não possui recursos de interação e não exibe necessariamente o mesmo design da versão final. 
+
+Com isso o Protótipo de Baixa Fidelidade vem com o objetivo de iniciar validações visuais e de funcionalidades relacionadas ao desenvolvimento de um produto de software.
+
+A partir disso, seguiremos usando a metodologia de planejamento baseada no livro Interação Humano computador de Simone Barbosa e Bruno Silva, que consiste nos passos de preparação, coleta de dados e interpretação, consolidação dos relados e relados dos resultados, sendo adaptada para um planejamento de avaliação relacionado ao Protótipo de Baixa Fidelidade.
 
 1. Preparação: 
     Consiste em preparar os elementos necessários para realizar a avaliação, como por exemplo: Definir as tarefas, os perfís dos participantes, os protótipos a serem utilizados, quais perguntas serão abordadas e por fim a realização de um teste piloto. 
@@ -19,16 +22,16 @@ Segundo o livro Interação Humano computador de Simone Barbosa e Bruno Silva, a
 3. Consolidação dos Resultados:
     Consiste na fase a qual os avaliadores analísem os problemas encontrados, relatando-os, além de filtrar os dados e sugerir possíveis correções. 
 4. Relato dos Resultados: 
-    Consiste na fase final da Avaliação do Protótipo de Papel, é onde os avaliadores relatam os problemas encontrados durante a participação dos usuários voluntários e sugerem correções. 
+    Consiste na fase final da Avaliação do Protótipo de Baixa Fidelidade, é onde os avaliadores relatam os problemas encontrados durante a participação dos usuários voluntários e sugerem correções. 
 
-*Desse modo, esse documento visa principalmente documentar a fase de preparação e planejamento do relato dos resultados, por meio da avaliação dos participantes voluntários no protótipo de Papel.*
+*Desse modo, esse documento visa principalmente documentar a fase de preparação e planejamento do relato dos resultados, por meio da avaliação dos participantes voluntários no protótipo de Baixa Fidelidade.*
 
 ## Objetivo
-O intuito desse documento é detalhar o máximo possível os aspectos de planejamento referentes a avaliação do protótipo de Papel, de maneira que os avaliadores escolhidos consigam relatar sem dificuldades todas as informações necessárias aos participantes durante o processo de avaliação, para assim, realizar uma análise metódica e sistemática com todos os usuários voluntários. 
+O intuito desse documento é detalhar o máximo possível os aspectos de planejamento referentes a avaliação do protótipo de Baixa Fidelidade, de maneira que os avaliadores escolhidos consigam relatar sem dificuldades todas as informações necessárias aos participantes durante o processo de avaliação, para assim, realizar uma análise metódica e sistemática com todos os usuários voluntários. 
 
 ## Metodologia 
 
-A metodologia utilizada para a estruturação desse documento será baseada no Framework DECIDE proposta por Sharp, Rogers e Preece(2007). O framework DECIDE pode ser descrito, de forma sucinta, nos seguintes tópicos:
+Continuaremos com a metodologia utilizada para a avaliação do Protótipo de Papel, logo, com isso, para a estruturação desse documento será utilizado o Framework DECIDE proposto por Sharp, Rogers e Preece(2007). O framework DECIDE pode ser descrito, de forma sucinta, nos seguintes tópicos:
 
 * D - Determinar os objetivos da avaliação de IHC.
 
@@ -48,11 +51,11 @@ Esta parte irá detalhar o funcionamento do planejamento da avaliação apresent
 ## Preparação 
 
 ### Perfil de Usuário
-* Estudante do Ensino Fundamental 
+Simulação com Personas
 * Estudante do Ensino Médio
-* Vestibulando que já terminou o Ensino Médio
 * Estudante de Ensino Superior
-* Prestador de Concurso Nível Médio
+
+Caso seja possível, aplicação com pessoas reais.
 
 *O detalhamento de cada Perfil de Usuário encontra-se no documento de [Personas](https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/main/docs/ponto_controle2/analise_de_requisitos/personas.md)*.
 
@@ -65,12 +68,12 @@ Esta parte irá detalhar o funcionamento do planejamento da avaliação apresent
 * Pesquisar e visualizar um usuário
 
 ### Protótipos 
-* [Protótipo de Papel](https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/main/docs/ponto_controle5/prototipo%20de%20papel/prototipo%20de%20papel.md)
+* [Protótipo de Baixa Fidelidade]()
 
 ### Instruções
 * Teste Piloto  
 
-O teste piloto terá o formato de uma entrevista, podendo ser utilizar as personas e também pessoas reais, as quais precisam ter um perfil adequado de acordo com o perfil traçado pelos avaliadores e baseado no uso da plataforma. O detalhamento desse documento pode ser acessado clicando [aqui](https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/main/docs/ponto_controle5/teste_piloto/teste_piloto_prototipo_de_papel.md).
+Continuaresmos com o teste piloto, que terá o formato de uma entrevista, podendo ser utilizar as personas e também pessoas reais, as quais precisam ter um perfil adequado de acordo com o perfil traçado pelos avaliadores e baseado no uso da plataforma. O detalhamento desse documento pode ser acessado clicando [aqui](https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/main/docs/ponto_controle5/teste_piloto/teste_piloto_prototipo_de_papel.md).
 
 ### Termo de Consentimento
 
@@ -85,11 +88,11 @@ Devido ao atual cenário pandêmico vivenciado durante o ano de 2021. a avaliaç
 As tarefas serão organizadas na seguinte ordem:
 * Confirmação do usuário sobre o termo de consentimento necessário para a realização da avaliação.
 * Pré-Entrevista (Coleta de dados simples sobre o uso do usuário dentro da plataforma).
-* Avaliação com o protótipo (Protótipo de Papel).
+* Avaliação com o protótipo (Baixa de Baixa Fidelidade).
 * Pós-Entrevista (Coleta de dados como foi a experiência do Usuário dentro da plataforma).
 
 ## A Coleta de Dados
-Parte a qual será definida como serão feitas a coleta de dado em relação a entrevista de avaliação do Protótipo de Papel por meio dos participantes voluntários.
+Parte a qual será definida como serão feitas a coleta de dado em relação a entrevista de avaliação do protótipo de Baixa Fidelidade por meio dos participantes voluntários.
 
 ### Pré-Entrevista
 A Pré-Entrevista serve para ter um breve contexto sobre o participante e sua experiência sobre o portal analisado (Fórum Pir2).
@@ -151,14 +154,14 @@ A pós-entrevista serve para ouvir quaisquer considerações finais quanto as ta
 ## Planejamento do Relato dos Resultados 
 Segundo o livro Interação Humano computador de Simone Barbosa e Bruno Silva, o relato dos resultados é documentado após a consolidação dos resultados e deve conter os seguintes elementos.
 * Objetivos da avaliação
-* Uma breve descrição do método de prototipação em papel
+* Uma breve descrição do método de prototipação de Baixa Fidelidade
 * O número e o perfil de avaliadores e dos participantes
 * As tarefas executadas pelos participantes
 * Uma lista de problemas de usabilidade corrigidos durante os ciclos de avaliação e reprojeto, indicando:
     - Local onde ocorreu
     - Fatores de usabilidade prejudicados
     - Descrição e justificativa do problema
-    - Correção realizada no protótipo em papel
+    - Correção realizada no protótipo em Baixa Fidelidade
     - indicação se o problema voltou a ocorrer depois da correção
 * Uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
     - Local onde ocorreu
