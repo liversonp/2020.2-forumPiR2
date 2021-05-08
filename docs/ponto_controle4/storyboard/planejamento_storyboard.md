@@ -21,7 +21,7 @@ do usuário expresso.
 
 A seguinte tabela também pode auxiliar na elaboração dos storyboards.
 | Atividade | Tarefa | Definição |
-|--|--|--|
+|:-----------------:|:-------------------------------------:|:----:|
 | Preparo | Definição das pessoas envolvidas | - |
 |  | Definição do ambiente da história | - |
 |  | Definição da tarefa que será abordada | - |
