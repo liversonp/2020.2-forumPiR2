@@ -38,11 +38,8 @@ Como abordado acima, nossas entrevistas foram realizadas por meio da simulação
 
 ### 5.1 Lucas dos Santos 
 
-<p align="center">
-  <img src="../../assets/personas/lucas.jpg" width="400"/>
-  <br>
-  Essa entrevista foi realizada na data 08/04/2021 às 13:00PM horário de Brasília, e teve duração total de 30 minutos. O participante se chama Lucas dos Santos, tem 15 anos e é Estudante do Ensino Fundamental. O mesmo ainda não possui nenhum conhecimento sobre o portal e está tendo o primeiro contato nesta ocasião. 
-</p>
+![](../../assets/personas/lucas.jpg)  
+Essa entrevista foi realizada na data 08/04/2021 às 13:00PM horário de Brasília, e teve duração total de 30 minutos. O participante se chama Lucas dos Santos, tem 15 anos e é Estudante do Ensino Fundamental. O mesmo ainda não possui nenhum conhecimento sobre o portal e está tendo o primeiro contato nesta ocasião. 
 
 #### **5.1.1 Fluxo de Registro de Usuário**
 
@@ -77,13 +74,9 @@ Entretanto, Lucas afirmou que o resultados poderiam ser distribuidos de uma form
 Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. 
 
 ### 5.2 Lorena de Oliveira
+![](../../assets/personas/Lorena.jpg)
 
-<p align="center">
-  <img src="../../assets/personas/Lorena.jpg" width="400"/>
-  <br>
-  Essa entrevista foi realizada na data 08/04/2021 às 14:00PM horário de Brasília, e teve duração total de 15 minutos. A participante se chama Lorena de Oliveira, tem 17 anos e é Estudante do Ensino Médio. A mesma já possui um vasto conhecimento sobre o portal, com isso não houve a necessidade de testar o fluxo inicial de cadastro de usuário.
-</p>
-
+Essa entrevista foi realizada na data 08/04/2021 às 14:00PM horário de Brasília, e teve duração total de 15 minutos. A participante se chama Lorena de Oliveira, tem 17 anos e é Estudante do Ensino Médio. A mesma já possui um vasto conhecimento sobre o portal, com isso não houve a necessidade de testar o fluxo inicial de cadastro de usuário.
 
 
 #### **5.2.1 Fluxo de Perfil de Usuário**
@@ -115,12 +108,10 @@ A partipante concluiu essa tarefa rapidamente e sem complicações.
 Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. 
 
 ### 5.3 Maria Eduarda Souza
+![](../../assets/personas/maria.jpg)  
 
-<p align="center">
-  <img src="../../assets/personas/maria.jpg" width="400"/>
-  <br>
-  Essa entrevista foi realizada na data 08/04/2021 às 15:00PM horário de Brasília, e teve duração total de 25 minutos. A participante se chama Maria Eduarda, tem 22 anos e é estudante de Física pela Universidade de Brasília - UnB. 
-</p>
+Essa entrevista foi realizada na data 08/04/2021 às 15:00PM horário de Brasília, e teve duração total de 25 minutos. A participante se chama Maria Eduarda, tem 22 anos e é estudante de Física pela Universidade de Brasília - UnB. 
+
 
 
 
