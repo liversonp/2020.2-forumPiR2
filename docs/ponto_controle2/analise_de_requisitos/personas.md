@@ -33,7 +33,7 @@ Persona é um personagem fictício que representa o cliente ideal de um negócio
 ### Lorena de Oliveira 
 | Nome | Lorena de Oliveira |
 | :--- | :--- | 
-| Foto |![](../../assets/personas/lorena.jpg) |
+| Foto |![](../../assets/personas/Lorena.jpg) |
 | Persona | Estudande do Ensino Médio |
 | Idade | 17 |
 | Escolaridade | 3º ano do Ensino Médio |
