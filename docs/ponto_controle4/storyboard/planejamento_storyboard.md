@@ -22,15 +22,15 @@ do usuário expresso.
 A seguinte tabela também pode auxiliar na elaboração dos storyboards.
 | Atividade | Tarefa | Definição |
 |--|--|--|
-| Preparo | Definição das pessoas envolvidas | \.\.\. |
-|  | Definição do ambiente da história | \.\.\. |
-|  | Definição da tarefa que será abordada | \.\.\. |
-| Sequência | Definição de quais passos estão envolvidos para cada realização de tarefa | \.\.\. |
-|  | Definição do que leva a pessoa a usar a aplicação | \.\.\. |
-|  | Definição de qual é (e como) a tarefa será ilustrada| \.\.\. |
-| Satisfação | Definição da motivação principal da pessoa que usa a aplicação | \.\.\. |
-|  | Definição das realizações que a aplicação permite | \.\.\. |
-| | Definição das necessidades que a aplicação se propõe a sanar | \.\.\. |
+| Preparo | Definição das pessoas envolvidas | - |
+|  | Definição do ambiente da história | - |
+|  | Definição da tarefa que será abordada | - |
+| Sequência | Definição de quais passos estão envolvidos para cada realização de tarefa | - |
+|  | Definição do que leva a pessoa a usar a aplicação | - |
+|  | Definição de qual é (e como) a tarefa será ilustrada| - |
+| Satisfação | Definição da motivação principal da pessoa que usa a aplicação | - |
+|  | Definição das realizações que a aplicação permite | - |
+| | Definição das necessidades que a aplicação se propõe a sanar | - |
 
 Vale salientar que as principais personas identificadas são: 
 
