@@ -20,8 +20,11 @@ dos storyboard pode se basear na realidade do usuário para construir o comporta
 do usuário expresso.
 
 A seguinte tabela também pode auxiliar na elaboração dos storyboards.
+
+## Tabela
+
 | Atividade | Tarefa | Definição |
-|:-----------------:|:-------------------------------------:|:----:|
+| :-----------------: | :-------------------------------------: | :----: |
 | Preparo | Definição das pessoas envolvidas | - |
 |  | Definição do ambiente da história | - |
 |  | Definição da tarefa que será abordada | - |
