@@ -101,30 +101,41 @@ Parte a qual será definida como serão feitas a coleta de dado em relação a e
 
 ### Pré-Entrevista
 A Pré-Entrevista serve para ter um breve contexto sobre o participante e sua experiência sobre o portal analisado (Fórum Pir2).
-* Você acessa o Fórum Pir2 com frequência? 
-- [ ] Sim 
-- [ ] Não 
-- [ ] Neutro
-* Qual seu conhecimento dentro do portal?
-- [ ] Nenhum
-- [ ] Pouco 
-- [ ] Neutro
-- [ ] Bom
-- [ ] alto  
-* Qual seus objetivos dentro do Portal?
-- [ ] Aprimorar Estudos
-- [ ] Tirar Dúvidas
-- [ ] Aprender novos conteúdos
-- [ ] Conhecer Pessoas 
-- [ ] Ajudar outras pessoas 
-* Por onde conheceu o portal?
-- [ ] Indicação de Amigos
-- [ ] Redes Sociais 
-- [ ] Buscando na Web
-* Atualmente, você está satisfeito com o portal?
-- [ ] Sim 
-- [ ] Não 
-- [ ] Neutro
+
+Você acessa o Fórum Pir2 com frequência? 
+
+* [ ] Sim 
+* [ ] Não 
+* [ ] Neutro
+
+Qual seu conhecimento dentro do portal?
+
+* [ ] Nenhum
+* [ ] Pouco 
+* [ ] Neutro
+* [ ] Bom
+* [ ] alto  
+
+
+Qual seus objetivos dentro do Portal?
+
+* [ ] Aprimorar Estudos
+* [ ] Tirar Dúvidas
+* [ ] Aprender novos conteúdos
+* [ ] Conhecer Pessoas 
+* [ ] Ajudar outras pessoas 
+
+Por onde conheceu o portal?
+
+* [ ] Indicação de Amigos
+* [ ] Redes Sociais 
+* [ ] Buscando na Web
+
+Atualmente, você está satisfeito com o portal?
+
+* [ ] Sim 
+* [ ] Não 
+* [ ] Neutro
 
 *O detalhamento de cada Perfil de Usuário encontra-se no documento de [Personas](https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/main/docs/ponto_controle2/analise_de_requisitos/personas.md)*.
 
@@ -138,42 +149,61 @@ As perguntas abaixo devem ser respondias em relação a cada tarefa executada. N
 
 ### Pós-Entrevista
 A pós-entrevista serve para ouvir quaisquer considerações finais quanto as tarefas ou mesmo a avaliação por parte do usuário. As perguntas para essa etapa, são:
-* Algum comentário extra sobre os protótipos? (Sugestões/Reclamações).
-- [ ] Sim, qual?
-- [ ] Não
-* O usuário vê o uso do software como uma melhoria em relação à utlização de artefatos tradicionais?
-- [ ] Sim
-- [ ] Não
-* Há alguma mudança, inlcusão ou melhorias que devem ser realizadas no protótipo?
-- [ ] Siim, qual?
-- [ ] Não
-* Algum comentário extra sobre a Avaliação? (Sugestões/Reclamações).
-- [ ] Sim, qual?
-- [ ] Não
-* Como você definiria a avaliação?
-- [ ] Ruim
-- [ ] Neutra
-- [ ] Boa
-- [ ] Ótima
+
+Algum comentário extra sobre os protótipos? (Sugestões/Reclamações).
+
+* [ ] Sim, qual?
+* [ ] Não
+
+O usuário vê o uso do software como uma melhoria em relação à utlização de artefatos tradicionais?
+
+* [ ] Sim
+* [ ] Não
+
+Há alguma mudança, inlcusão ou melhorias que devem ser realizadas no protótipo?
+
+* [ ] Siim, qual?
+* [ ] Não
+
+Algum comentário extra sobre a Avaliação? (Sugestões/Reclamações).
+
+* [ ] Sim, qual?
+* [ ] Não
+
+Como você definiria a avaliação?
+
+* [ ] Ruim
+* [ ] Neutra
+* [ ] Boa
+* [ ] Ótima
 
 ## Planejamento do Relato dos Resultados 
 Segundo o livro Interação Humano computador de Simone Barbosa e Bruno Silva, o relato dos resultados é documentado após a consolidação dos resultados e deve conter os seguintes elementos.
+
 * Objetivos da avaliação
-* Uma breve descrição do método de prototipação de Alta Fidelidade
+
+* Uma breve descrição do método de prototipação em pape
+
 * O número e o perfil de avaliadores e dos participantes
+
 * As tarefas executadas pelos participantes
+
 * Uma lista de problemas de usabilidade corrigidos durante os ciclos de avaliação e reprojeto, indicando:
-    - Local onde ocorreu
-    - Fatores de usabilidade prejudicados
-    - Descrição e justificativa do problema
-    - Correção realizada no protótipo em Alta Fidelidade
-    - indicação se o problema voltou a ocorrer depois da correção
+
+    1. Local onde ocorreu
+    2. Fatores de usabilidade prejudicados
+    3. Descrição e justificativa do problema
+    4. Correção realizada no protótipo em papel
+    5. indicação se o problema voltou a ocorrer depois da correção
+
 * Uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
-    - Local onde ocorreu
-    - Fatores de usabilidade prejudicados
-    - Descrição e justificativa do problema
-    - Prioridade para correção
-    - Sugestões de correção
+
+    1. Local onde ocorreu
+    2. Fatores de usabilidade prejudicados
+    3. Descrição e justificativa do problema
+    4. Prioridade para correção
+    5. Sugestões de correção
+ 
 * Indicações de partes do sistema que podem ser mais bem elaboradas
 
 ## Conclusão
