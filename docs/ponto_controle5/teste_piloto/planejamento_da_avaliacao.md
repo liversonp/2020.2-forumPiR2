@@ -93,30 +93,41 @@ Parte a qual será definida como serão feitas a coleta de dado em relação a e
 
 ### Pré-Entrevista
 A Pré-Entrevista serve para ter um breve contexto sobre o participante e sua experiência sobre o portal analisado (Fórum Pir2).
-* Você acessa o Fórum Pir2 com frequência? 
-- [ ] Sim 
-- [ ] Não 
-- [ ] Neutro
-* Qual seu conhecimento dentro do portal?
-- [ ] Nenhum
-- [ ] Pouco 
-- [ ] Neutro
-- [ ] Bom
-- [ ] alto  
-* Qual seus objetivos dentro do Portal?
-- [ ] Aprimorar Estudos
-- [ ] Tirar Dúvidas
-- [ ] Aprender novos conteúdos
-- [ ] Conhecer Pessoas 
-- [ ] Ajudar outras pessoas 
-* Por onde conheceu o portal?
-- [ ] Indicação de Amigos
-- [ ] Redes Sociais 
-- [ ] Buscando na Web
-* Atualmente, você está satisfeito com o portal?
-- [ ] Sim 
-- [ ] Não 
-- [ ] Neutro
+
+Você acessa o Fórum Pir2 com frequência? 
+
+* [ ] Sim 
+* [ ] Não 
+* [ ] Neutro
+
+Qual seu conhecimento dentro do portal?
+
+* [ ] Nenhum
+* [ ] Pouco 
+* [ ] Neutro
+* [ ] Bom
+* [ ] alto  
+
+
+Qual seus objetivos dentro do Portal?
+
+* [ ] Aprimorar Estudos
+* [ ] Tirar Dúvidas
+* [ ] Aprender novos conteúdos
+* [ ] Conhecer Pessoas 
+* [ ] Ajudar outras pessoas 
+
+Por onde conheceu o portal?
+
+* [ ] Indicação de Amigos
+* [ ] Redes Sociais 
+* [ ] Buscando na Web
+
+Atualmente, você está satisfeito com o portal?
+
+* [ ] Sim 
+* [ ] Não 
+* [ ] Neutro
 
 *O detalhamento de cada Perfil de Usuário encontra-se no documento de [Personas](https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/main/docs/ponto_controle2/analise_de_requisitos/personas.md)*.
 
