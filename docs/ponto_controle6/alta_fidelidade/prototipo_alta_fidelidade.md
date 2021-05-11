@@ -5,6 +5,7 @@
 | Data       | Versão | Descrição             | Autor(res)      |
 | ---------- | ------ | --------------------- | --------------- |
 | 28/04/2021 | 0.1    | Criação do Documento e Inserção das Telas  | Victor Samuel, Denniel William e Liverson Paulo  |
+| 11/05/2021 | 0.3  | Correção no Pages  | Victor Samuel |
 
 ## Sobre o Documento
 
@@ -12,10 +13,15 @@
 Fonte [Medium](https://medium.com/somos-tera/prototipagem-de-alta-fidelidade-635d745b662b).
 
 Com isso, o Protótipo de Alta Fidelidade vem com o objetivo de:
+
 * Representar fielmente o novo produto digital, tanto em relação às funcionalidades quanto à estética e comportamento;
+
 * Apresentar detalhes das operações e suas extensões, como funcionalidades de botões e possíveis retornos de erros;
+
 * Conter as possíveis e diferentes etapas percorridas pelos usuários;
+
 * Normalmente é interativo e navegável.
+
 
 ## O Protótipo 
 
