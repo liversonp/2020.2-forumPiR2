@@ -26,11 +26,11 @@ Foi demonstrado como seriam as atividades com árvores de tarefas concorrentes (
 
 ## CTT Acesso ao tópico
 
-![](../assets/CTT_topico.png)
+![](../../assets/CTT_topico.png)
 
 ## CTT Mensagem privada
 
-![](../assets/CTT_mensagens_privadas.png)
+![](../../assets/CTT_mensagens_privadas.png)
 
 ## Referências bibliográficas
 
