@@ -1,0 +1,1481 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-7.1.5">
+    
+    
+      
+        <title>Princípios Gerais - PiR2</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.bde7dde4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ef6f36e2.min.css">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+      
+    
+    
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+  
+    
+    <script>function __prefix(e){return new URL("../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#principios-gerais" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="PiR2" class="md-header__button md-logo" aria-label="PiR2" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            PiR2
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Princípios Gerais
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="PiR2" class="md-nav__button md-logo" aria-label="PiR2" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    PiR2
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        2020.2-forumPiR2
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      <label class="md-nav__link" for="__nav_2">
+        Relatórios
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Relatórios" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Relatórios
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Relat%C3%B3rios/Relatorio_1/" class="md-nav__link">
+        Relatório 1
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Relat%C3%B3rios/Relatorio_2/" class="md-nav__link">
+        Relatório 2
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Relat%C3%B3rios/Relatorio_3/" class="md-nav__link">
+        Relatório 3
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Relat%C3%B3rios/Relatorio_4/" class="md-nav__link">
+        Relatório 4
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Relat%C3%B3rios/Relatorio_5/" class="md-nav__link">
+        Relatório 5
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Relat%C3%B3rios/Relatorio_6/" class="md-nav__link">
+        Relatório 6
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Relat%C3%B3rios/Relatorio_7/" class="md-nav__link">
+        Relatório 7
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      <label class="md-nav__link" for="__nav_3">
+        Ponto controle1
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Ponto controle1" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Ponto controle1
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle1/cronograma/" class="md-nav__link">
+        Cronograma de Atividades
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle1/escolha_site/" class="md-nav__link">
+        Escolha do site
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle1/horarios_disponiveis/" class="md-nav__link">
+        Horários Disponíveis
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle1/mayhew/" class="md-nav__link">
+        Ciclo de Vida de Mayhew
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle1/metodologias/" class="md-nav__link">
+        Metodologias
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      <label class="md-nav__link" for="__nav_4">
+        Ponto controle2
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Ponto controle2" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Ponto controle2
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_1" type="checkbox" id="__nav_4_1" >
+      
+      <label class="md-nav__link" for="__nav_4_1">
+        Analise de requisitos
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Analise de requisitos" data-md-level="2">
+        <label class="md-nav__title" for="__nav_4_1">
+          <span class="md-nav__icon md-icon"></span>
+          Analise de requisitos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle2/analise_de_requisitos/arvores_tarefas_concorrentes/" class="md-nav__link">
+        Árvore de tarefas concorrentes
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle2/analise_de_requisitos/hta/" class="md-nav__link">
+        Análise hierarquica de tarefas
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle2/analise_de_requisitos/perfil_de_usuario/" class="md-nav__link">
+        Perfil de Usuário
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle2/analise_de_requisitos/personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_2" type="checkbox" id="__nav_4_2" >
+      
+      <label class="md-nav__link" for="__nav_4_2">
+        Scrapping
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Scrapping" data-md-level="2">
+        <label class="md-nav__title" for="__nav_4_2">
+          <span class="md-nav__icon md-icon"></span>
+          Scrapping
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle2/scrapping/man/" class="md-nav__link">
+        Manual para execucao das ferramentas
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" checked>
+      
+      <label class="md-nav__link" for="__nav_5">
+        Ponto controle3
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Ponto controle3" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Ponto controle3
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../caracteristicas_da_plataforma/" class="md-nav__link">
+        Caracteristicas da plataforma
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guia_estilos/" class="md-nav__link">
+        Guia de estilos
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../metas_de_usabilidade/" class="md-nav__link">
+        Metas de Usabilidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Princípios Gerais
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Princípios Gerais
+      </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Historico de Versão
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-principios-do-projeto" class="md-nav__link">
+    2. Princípios do Projeto
+  </a>
+  
+    <nav class="md-nav" aria-label="2. Princípios do Projeto">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#21-correspondencia-com-as-expectivas-do-usuario" class="md-nav__link">
+    2.1 Correspondência com as expectivas do usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#22-simplicidade-nas-estruturas-das-tarefas" class="md-nav__link">
+    2.2 Simplicidade nas estruturas das tarefas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#23-equilibrio-entre-controle-e-liberdade-do-usuario" class="md-nav__link">
+    2.3 Equilibrio entre controle e liberdade do usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#24-consistencia-e-padronizacao" class="md-nav__link">
+    2.4 Consistência e padronização
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#25-promocao-eficiencia-do-usuario" class="md-nav__link">
+    2.5 Promoção eficiência do usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#26-antecipacao-das-necessidades-do-usuario" class="md-nav__link">
+    2.6 Antecipação das necessidades do usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#27-visibilidade-e-reconhecimento" class="md-nav__link">
+    2.7 Visibilidade e reconhecimento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#28-conteudo-relevante-e-expressao-adequada" class="md-nav__link">
+    2.8 Conteúdo relevante e Expressão Adequada
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#29-projeto-para-erros" class="md-nav__link">
+    2.9 Projeto para erros
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias-bibliograficas" class="md-nav__link">
+    Referências Bibliográficas
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      <label class="md-nav__link" for="__nav_6">
+        Ponto controle4
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Ponto controle4" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Ponto controle4
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_1" type="checkbox" id="__nav_6_1" >
+      
+      <label class="md-nav__link" for="__nav_6_1">
+        Analise de tarefas
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Analise de tarefas" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_1">
+          <span class="md-nav__icon md-icon"></span>
+          Analise de tarefas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle4/analise_de_tarefas/analise_de_tarefas_v2/" class="md-nav__link">
+        Análise hierarquica de tarefas
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle4/analise_de_tarefas/entrevistas_de_valida%C3%A7%C3%A3o/" class="md-nav__link">
+        Entrevistas de Validação
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle4/analise_de_tarefas/planejamento_de_avaliacao/" class="md-nav__link">
+        Planejamento de avaliação
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle4/analise_de_tarefas/termo/" class="md-nav__link">
+        Termo
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_2" type="checkbox" id="__nav_6_2" >
+      
+      <label class="md-nav__link" for="__nav_6_2">
+        Storyboard
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Storyboard" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_2">
+          <span class="md-nav__icon md-icon"></span>
+          Storyboard
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle4/storyboard/planejamento_storyboard/" class="md-nav__link">
+        Planejamento Storyboard
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle4/storyboard/storyboard/" class="md-nav__link">
+        Storyboard
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+      
+      <label class="md-nav__link" for="__nav_7">
+        Ponto controle5
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Ponto controle5" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Ponto controle5
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7_1" type="checkbox" id="__nav_7_1" >
+      
+      <label class="md-nav__link" for="__nav_7_1">
+        Prototipo de papel
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Prototipo de papel" data-md-level="2">
+        <label class="md-nav__title" for="__nav_7_1">
+          <span class="md-nav__icon md-icon"></span>
+          Prototipo de papel
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle5/prototipo%20de%20papel/prototipo%20de%20papel/" class="md-nav__link">
+        Prototipo de Papel
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7_2" type="checkbox" id="__nav_7_2" >
+      
+      <label class="md-nav__link" for="__nav_7_2">
+        Teste piloto
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Teste piloto" data-md-level="2">
+        <label class="md-nav__title" for="__nav_7_2">
+          <span class="md-nav__icon md-icon"></span>
+          Teste piloto
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle5/teste_piloto/instrucoes/" class="md-nav__link">
+        Instrucoes
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle5/teste_piloto/planejamento_da_avaliacao/" class="md-nav__link">
+        Planejamento de avaliação
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle5/teste_piloto/resultados/" class="md-nav__link">
+        Entrevistas e Relatos dos resultados
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle5/teste_piloto/teste_piloto_prototipo_de_papel/" class="md-nav__link">
+        Teste Piloto do Protótipo de Baixa Fidelidade
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8" type="checkbox" id="__nav_8" >
+      
+      <label class="md-nav__link" for="__nav_8">
+        Ponto controle6
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Ponto controle6" data-md-level="1">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Ponto controle6
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_1" type="checkbox" id="__nav_8_1" >
+      
+      <label class="md-nav__link" for="__nav_8_1">
+        Alta fidelidade
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Alta fidelidade" data-md-level="2">
+        <label class="md-nav__title" for="__nav_8_1">
+          <span class="md-nav__icon md-icon"></span>
+          Alta fidelidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle6/alta_fidelidade/planejamento_da_avaliacao/" class="md-nav__link">
+        Planejamento de avaliação
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle6/alta_fidelidade/prototipo_alta_fidelidade/" class="md-nav__link">
+        Protótipo de Alta Fidelidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle6/alta_fidelidade/resultados/" class="md-nav__link">
+        Entrevistas e Relatos dos resultados
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_2" type="checkbox" id="__nav_8_2" >
+      
+      <label class="md-nav__link" for="__nav_8_2">
+        Baixa fidelidade
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Baixa fidelidade" data-md-level="2">
+        <label class="md-nav__title" for="__nav_8_2">
+          <span class="md-nav__icon md-icon"></span>
+          Baixa fidelidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle6/baixa_fidelidade/planejamento_da_avaliacao/" class="md-nav__link">
+        Planejamento de avaliação
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle6/baixa_fidelidade/prototipo_de_baixa_fidelidade/" class="md-nav__link">
+        Protótipo de Baixa Fidelidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ponto_controle6/baixa_fidelidade/resultados/" class="md-nav__link">
+        Entrevistas e Relatos dos resultados
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Historico de Versão
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-principios-do-projeto" class="md-nav__link">
+    2. Princípios do Projeto
+  </a>
+  
+    <nav class="md-nav" aria-label="2. Princípios do Projeto">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#21-correspondencia-com-as-expectivas-do-usuario" class="md-nav__link">
+    2.1 Correspondência com as expectivas do usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#22-simplicidade-nas-estruturas-das-tarefas" class="md-nav__link">
+    2.2 Simplicidade nas estruturas das tarefas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#23-equilibrio-entre-controle-e-liberdade-do-usuario" class="md-nav__link">
+    2.3 Equilibrio entre controle e liberdade do usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#24-consistencia-e-padronizacao" class="md-nav__link">
+    2.4 Consistência e padronização
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#25-promocao-eficiencia-do-usuario" class="md-nav__link">
+    2.5 Promoção eficiência do usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#26-antecipacao-das-necessidades-do-usuario" class="md-nav__link">
+    2.6 Antecipação das necessidades do usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#27-visibilidade-e-reconhecimento" class="md-nav__link">
+    2.7 Visibilidade e reconhecimento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#28-conteudo-relevante-e-expressao-adequada" class="md-nav__link">
+    2.8 Conteúdo relevante e Expressão Adequada
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#29-projeto-para-erros" class="md-nav__link">
+    2.9 Projeto para erros
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias-bibliograficas" class="md-nav__link">
+    Referências Bibliográficas
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="principios-gerais">Princípios Gerais</h1>
+<h3 id="historico-de-versao">Historico de Versão</h3>
+<table>
+<thead>
+<tr>
+<th>Data</th>
+<th>Versão</th>
+<th>Descrição</th>
+<th>Autor(res)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>24/03/2021</td>
+<td>0.1</td>
+<td>Introdução</td>
+<td>Denniel William</td>
+</tr>
+<tr>
+<td>25/03/2021</td>
+<td>0.2</td>
+<td>Princípios do Projeto</td>
+<td>Denniel William</td>
+</tr>
+<tr>
+<td>25/03/2021</td>
+<td>1.0</td>
+<td>Finalização v1.0</td>
+<td>Denniel William</td>
+</tr>
+</tbody>
+</table>
+<h2 id="1-introducao">1. Introdução</h2>
+<p>Segundo Simone, os princípios e diretrizes em IHC giram em torno dos seguintes tópicos:</p>
+<ul>
+<li>
+<p><strong>Correspondência com as expectativas de usuário</strong>: Deve certificar-se de que o usuário consegue determinar os relacionamentos entre: intenções e ações possíveis; entre ações e seus efeitos no sistema; entre o estado real do sistema e o que é percebido pela visão,audição ou tato; entre o estado percebido pelo sistema e as necessidades, intenções e expectativas de usuário.</p>
+</li>
+<li>
+<p><strong>Simplicidade nas estruturas das tarefas</strong>: Recomenda-se simplificar a estrutura das tarefas, reduzindo a quantidade de planejamento e resolução de problemas que elas requerem.</p>
+</li>
+<li><strong>Equilibrio entre controle e liberdade do usuário</strong>: Destaca-se a importância de manter o usuário no controle. Quando deixamos o usuário "no comando", ele aprende rapidamente e ganha um sentimento de maestria. Entretando é necessário buscar um equilíbrio, pois quando não há limites ou restrições os usuários podem se sentir perdidos ou angustiados com o excesso de opções.</li>
+<li><strong>Consistência e padronização</strong>: Para facilitar o aprendizado e uso de um sistema. Isso requer que tudo sobre o produto esteja consistente com e exemplifique a operação do modelo conceitual adequado.</li>
+<li><strong>Promoção eficiência do usuário</strong>: Recomenda-se considerar sempre a eficiência do usuário em primeiro lugar, e não a do computador. As pessoas são mais custosas do que máquinas, e como economia de tempo e esforço do usuário costumam trazer mais benefícios do que economias semelhantes de processamento ou armazenamento;</li>
+<li><strong>Antecipação das necessidades do usuário</strong>: As aplicações devem tentar prever o que o usuário quer e precisa, em vez de esperar que os usuários busquem ou coletem informações ou invoquem ferramentas. O designer deve fornecer ao usuário todas as informações e ferramentas necessárias para cada passo do processo;</li>
+<li><strong>Visibilidade e reconhecimento</strong>: O designer deve tornar as coisas vísiveis: abreviar os golfos de execução e avaliação. Antes de executar uma ação, é necessário tornar visível para os usuários o que é possível realizar e como as ações devem ser feitas. Para isso a interface deve oferecer opções que correspondam a interação do usuário e não oferecer opções que não estejam disponíveis ou não façam sentido em um determinado momento da interação;</li>
+<li><strong>Conteúdo relevante e Expressão Adequada</strong>: Um princípio de conversa cooperativa eles destacam que uma interação polida segue quatro máximas: qualidade, quantidade, relação (ou relevância) e modo (ou clareza). Sendo todos eles máximas relevantes para a representação de um conteúdo relevante e expressão adequada para uma interação polida com o usuário.</li>
+<li><strong>Projeto para erros</strong>: Recomenda-se projetar para erros, ou seja, assumir qualquer erro potencial será cometido. o usuário deve ajudar o usuário a recuperar de um erro, informando-lhe sobre o que ocorreu, as consequências disso e como reverter os resultados indesejados.</li>
+</ul>
+<h2 id="2-principios-do-projeto">2. Princípios do Projeto</h2>
+<p>Nesta seção serão listadas os princípios notados no projeto, sendo desenvolvido propostas e comentando em caso de cumprimento, ou não, com o princípio resumido na seção anterior.</p>
+<h3 id="21-correspondencia-com-as-expectivas-do-usuario">2.1 Correspondência com as expectivas do usuário</h3>
+<p>Por tratar-se de um fórum, o Pir2, possui o login antes do usuário conseguir comentar no fórum, logicamente, para ocmpartilhar comentários e ideias seria necessário uma identificação por parte do sistema, contudo ainda sem login é permitido visualizar as discussões do assunto do tópico, sendo assim, análogo a um grupo de discussões do meio real, sendo necessário a identificação quando a pessoa entra na discussão do tópico, mas ainda sim podendo somente estar escutando a discussão sem necessariamente se identificar, sendo assim correspondido com as expectativas do usuário.</p>
+<h3 id="22-simplicidade-nas-estruturas-das-tarefas">2.2 Simplicidade nas estruturas das tarefas</h3>
+<p>As tarefas no site se baseiam em geralmente em criar um tópico ou comentar sobre um tópico, podendo entre outras funções, ver os membros da comunidade, pesquisar sobre um tópico de devido assunto, visualizar e mandar mensagens privadas. Sendo simples sua construção e intuitiva para o usuário, pesquisando sobre um assunto e dando liberdade para o mesmo criar um tópico caso não encontre um que resolva o seu problema, também podendo comentar nos demais tópicos procurando ajudar algum outro membro com uma dúvida.</p>
+<h3 id="23-equilibrio-entre-controle-e-liberdade-do-usuario">2.3 Equilibrio entre controle e liberdade do usuário</h3>
+<p>O usuário possui liberdade de conhecer outros membros, criar novos tópicos de discussões e discutir em topicos criados por outros usuários, seguindo todas as diretrizes de regras do próprio site, tendo também administradores para cada assunto para casa algum usuário não cumpra as regras do site, para que o mesmo seja advertido ou punido por violar as regras. Contudo os administradores, não interferem com a interação do usuário se tudo é feito dentro das regras, sendo assim, demonstrado um equilíbrio entre o controle e liberdade do usuário.</p>
+<h3 id="24-consistencia-e-padronizacao">2.4 Consistência e padronização</h3>
+<p>O site possui uma padronização de cores de fontes condizente apesar de um layout pouco amigável ao usuário, contudo seus botões são intutivos em suas tarefas expressando bem a função de cada um.</p>
+<h3 id="25-promocao-eficiencia-do-usuario">2.5 Promoção eficiência do usuário</h3>
+<p>Quanto a esse quesito o site possui um sistema que cada requisição para o banco de dados ou para a base online ele demora bastante sendo perdido produtividade nesse meio tempo e o usuário preso a tela onde fez a requisição.</p>
+<h3 id="26-antecipacao-das-necessidades-do-usuario">2.6 Antecipação das necessidades do usuário</h3>
+<p>Ao usuário logar pela primeira vez o sistema não possui instrução ou ensino para o usuário saber como o sistema atua a tela de primeiro login é a mesma tela de login do usuário a medida que o usuário é deixa para aprender com o sistema por si só, não o introduzindo como criar os fóruns sendo que o mesmo deve descobrir que entrando num devido assunto você pode criar um tópico sobre o assunto, e não que pode criar um tópico e em seu tópico escolher o assunto, respectivamente.</p>
+<h3 id="27-visibilidade-e-reconhecimento">2.7 Visibilidade e reconhecimento</h3>
+<p>Quanto a esse quesito o site somente mostra as funções disponíveis ao usuário, não sendo mostrado ações que não são permitidas pelo usuário, administrando a informação e deixando intuitivo qual tipo de ações o usuário pode fazer. Contudo, o sistema não possui uma maneira de demonstrar ao usuário quando sua requisição está sendo processada, como tratado no tópico anterior ao usuário clicar em um botão que faz uma requisição para o sistema ele continua travado na tela no qual fez q requisição sem nenhuma alteração nessa tela, sendo assi, o usuário não tem noção se sua requisição está sendo processada ou não ocasionando uma sensação de travamento do sistema.</p>
+<h3 id="28-conteudo-relevante-e-expressao-adequada">2.8 Conteúdo relevante e Expressão Adequada</h3>
+<p>Quando finalizado o login a página inicial do site já coloca o usuário a contato dos fóruns já postados sendo também intuitivos em suas mensagens e por ser um fórum os próprios usuários do fórum controlam a linguagem, tendo o sistema suporte também para outras linguagens que não sejam a do usuário traduzindo a página, perguntas e respostas caso necessário, mantendo assim um conteúdo relevante ao usuário e expressões adequadas e informativas para a linha de usuários.</p>
+<h3 id="29-projeto-para-erros">2.9 Projeto para erros</h3>
+<p>O sistema possui uma interface em que atua bem com os possíveis erros do sistema desde aos mais simples como mandar uma mensagem sem escopo (não sendo permitida e recusada pelo sistema), como também tendo suporte para caso de problemas mais complexos, tendo o contato do suporte do sistema e podendo entrar em contato para qualquer ajuda ou problema que aconteça no sistema que não foi antecipado anteriormente.</p>
+<h2 id="referencias-bibliograficas">Referências Bibliográficas</h2>
+<ul>
+<li>
+<p>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.</p>
+</li>
+<li>
+<p>https://pir2.forumeiros.com/</p>
+</li>
+</ul>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        <a href="../metas_de_usabilidade/" class="md-footer__link md-footer__link--prev" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              Metas de Usabilidade
+            </div>
+          </div>
+        </a>
+      
+      
+        <a href="../../ponto_controle4/analise_de_tarefas/analise_de_tarefas_v2/" class="md-footer__link md-footer__link--next" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Próximo
+              </span>
+              Análise hierarquica de tarefas
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+        
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "translations": {"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}, "search": "../../assets/javascripts/workers/search.d351de03.min.js", "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.a1609d9a.min.js"></script>
+      
+    
+  </body>
+</html>

@@ -1,0 +1,1678 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-7.1.5">
+    
+    
+      
+        <title>Entrevistas de Validação - PiR2</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.bde7dde4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.ef6f36e2.min.css">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+      
+    
+    
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+  
+    
+    <script>function __prefix(e){return new URL("../../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#entrevistas-de-validacao" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="PiR2" class="md-header__button md-logo" aria-label="PiR2" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            PiR2
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Entrevistas de Validação
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="PiR2" class="md-nav__button md-logo" aria-label="PiR2" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    PiR2
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        2020.2-forumPiR2
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      <label class="md-nav__link" for="__nav_2">
+        Relatórios
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Relatórios" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Relatórios
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Relat%C3%B3rios/Relatorio_1/" class="md-nav__link">
+        Relatório 1
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Relat%C3%B3rios/Relatorio_2/" class="md-nav__link">
+        Relatório 2
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Relat%C3%B3rios/Relatorio_3/" class="md-nav__link">
+        Relatório 3
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Relat%C3%B3rios/Relatorio_4/" class="md-nav__link">
+        Relatório 4
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Relat%C3%B3rios/Relatorio_5/" class="md-nav__link">
+        Relatório 5
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Relat%C3%B3rios/Relatorio_6/" class="md-nav__link">
+        Relatório 6
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../Relat%C3%B3rios/Relatorio_7/" class="md-nav__link">
+        Relatório 7
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      <label class="md-nav__link" for="__nav_3">
+        Ponto controle1
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Ponto controle1" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Ponto controle1
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle1/cronograma/" class="md-nav__link">
+        Cronograma de Atividades
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle1/escolha_site/" class="md-nav__link">
+        Escolha do site
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle1/horarios_disponiveis/" class="md-nav__link">
+        Horários Disponíveis
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle1/mayhew/" class="md-nav__link">
+        Ciclo de Vida de Mayhew
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle1/metodologias/" class="md-nav__link">
+        Metodologias
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      <label class="md-nav__link" for="__nav_4">
+        Ponto controle2
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Ponto controle2" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Ponto controle2
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_1" type="checkbox" id="__nav_4_1" >
+      
+      <label class="md-nav__link" for="__nav_4_1">
+        Analise de requisitos
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Analise de requisitos" data-md-level="2">
+        <label class="md-nav__title" for="__nav_4_1">
+          <span class="md-nav__icon md-icon"></span>
+          Analise de requisitos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle2/analise_de_requisitos/arvores_tarefas_concorrentes/" class="md-nav__link">
+        Árvore de tarefas concorrentes
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle2/analise_de_requisitos/hta/" class="md-nav__link">
+        Análise hierarquica de tarefas
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle2/analise_de_requisitos/perfil_de_usuario/" class="md-nav__link">
+        Perfil de Usuário
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle2/analise_de_requisitos/personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_2" type="checkbox" id="__nav_4_2" >
+      
+      <label class="md-nav__link" for="__nav_4_2">
+        Scrapping
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Scrapping" data-md-level="2">
+        <label class="md-nav__title" for="__nav_4_2">
+          <span class="md-nav__icon md-icon"></span>
+          Scrapping
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle2/scrapping/man/" class="md-nav__link">
+        Manual para execucao das ferramentas
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      <label class="md-nav__link" for="__nav_5">
+        Ponto controle3
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Ponto controle3" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Ponto controle3
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle3/caracteristicas_da_plataforma/" class="md-nav__link">
+        Caracteristicas da plataforma
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle3/guia_estilos/" class="md-nav__link">
+        Guia de estilos
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle3/metas_de_usabilidade/" class="md-nav__link">
+        Metas de Usabilidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle3/principios_gerais/" class="md-nav__link">
+        Princípios Gerais
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" checked>
+      
+      <label class="md-nav__link" for="__nav_6">
+        Ponto controle4
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Ponto controle4" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Ponto controle4
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_1" type="checkbox" id="__nav_6_1" checked>
+      
+      <label class="md-nav__link" for="__nav_6_1">
+        Analise de tarefas
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Analise de tarefas" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_1">
+          <span class="md-nav__icon md-icon"></span>
+          Analise de tarefas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../analise_de_tarefas_v2/" class="md-nav__link">
+        Análise hierarquica de tarefas
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Entrevistas de Validação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Entrevistas de Validação
+      </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-objetivo" class="md-nav__link">
+    2. Objetivo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-metodologia" class="md-nav__link">
+    3. Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-quem-serao-os-entrevistados" class="md-nav__link">
+    4. Quem serão os entrevistados?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-entrevistas" class="md-nav__link">
+    5. Entrevistas
+  </a>
+  
+    <nav class="md-nav" aria-label="5. Entrevistas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#51-lucas-dos-santos" class="md-nav__link">
+    5.1 Lucas dos Santos
+  </a>
+  
+    <nav class="md-nav" aria-label="5.1 Lucas dos Santos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#511-fluxo-de-registro-de-usuario" class="md-nav__link">
+    5.1.1 Fluxo de Registro de Usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#512-fluxo-de-perfil-de-usuario" class="md-nav__link">
+    5.1.2 Fluxo de Perfil de Usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#513-fluxo-de-topicos-do-forum" class="md-nav__link">
+    5.1.3 Fluxo de Tópicos do Fórum
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#514-fluxo-de-busca-dos-topicos-do-forum" class="md-nav__link">
+    5.1.4 Fluxo de Busca dos tópicos do Fórum
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#52-lorena-de-oliveira" class="md-nav__link">
+    5.2 Lorena de Oliveira
+  </a>
+  
+    <nav class="md-nav" aria-label="5.2 Lorena de Oliveira">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#521-fluxo-de-perfil-de-usuario" class="md-nav__link">
+    5.2.1 Fluxo de Perfil de Usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#522-fluxo-de-topicos-do-forum" class="md-nav__link">
+    5.2.2 Fluxo de Tópicos do Fórum
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#523-fluxo-de-busca-dos-topicos-do-forum" class="md-nav__link">
+    5.2.3 Fluxo de Busca dos tópicos do Fórum
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#53-maria-eduarda-souza" class="md-nav__link">
+    5.3 Maria Eduarda Souza
+  </a>
+  
+    <nav class="md-nav" aria-label="5.3 Maria Eduarda Souza">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#531-fluxo-de-registro-de-usuario" class="md-nav__link">
+    5.3.1 Fluxo de Registro de Usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#532-fluxo-de-perfil-de-usuario" class="md-nav__link">
+    5.3.2 Fluxo de Perfil de Usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#533-fluxo-de-topicos-do-forum" class="md-nav__link">
+    5.3.3 Fluxo de Tópicos do Fórum
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#534-fluxo-de-busca-dos-topicos-do-forum" class="md-nav__link">
+    5.3.4 Fluxo de Busca dos tópicos do Fórum
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-conclusao" class="md-nav__link">
+    6. Conclusão
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-referencias-bibliograficas" class="md-nav__link">
+    7. Referências Bibliográficas
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../planejamento_de_avaliacao/" class="md-nav__link">
+        Planejamento de avaliação
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../termo/" class="md-nav__link">
+        Termo
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_2" type="checkbox" id="__nav_6_2" >
+      
+      <label class="md-nav__link" for="__nav_6_2">
+        Storyboard
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Storyboard" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_2">
+          <span class="md-nav__icon md-icon"></span>
+          Storyboard
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../storyboard/planejamento_storyboard/" class="md-nav__link">
+        Planejamento Storyboard
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../storyboard/storyboard/" class="md-nav__link">
+        Storyboard
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+      
+      <label class="md-nav__link" for="__nav_7">
+        Ponto controle5
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Ponto controle5" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Ponto controle5
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7_1" type="checkbox" id="__nav_7_1" >
+      
+      <label class="md-nav__link" for="__nav_7_1">
+        Prototipo de papel
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Prototipo de papel" data-md-level="2">
+        <label class="md-nav__title" for="__nav_7_1">
+          <span class="md-nav__icon md-icon"></span>
+          Prototipo de papel
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle5/prototipo%20de%20papel/prototipo%20de%20papel/" class="md-nav__link">
+        Prototipo de Papel
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7_2" type="checkbox" id="__nav_7_2" >
+      
+      <label class="md-nav__link" for="__nav_7_2">
+        Teste piloto
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Teste piloto" data-md-level="2">
+        <label class="md-nav__title" for="__nav_7_2">
+          <span class="md-nav__icon md-icon"></span>
+          Teste piloto
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle5/teste_piloto/instrucoes/" class="md-nav__link">
+        Instrucoes
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle5/teste_piloto/planejamento_da_avaliacao/" class="md-nav__link">
+        Planejamento de avaliação
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle5/teste_piloto/resultados/" class="md-nav__link">
+        Entrevistas e Relatos dos resultados
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle5/teste_piloto/teste_piloto_prototipo_de_papel/" class="md-nav__link">
+        Teste Piloto do Protótipo de Baixa Fidelidade
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8" type="checkbox" id="__nav_8" >
+      
+      <label class="md-nav__link" for="__nav_8">
+        Ponto controle6
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Ponto controle6" data-md-level="1">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Ponto controle6
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_1" type="checkbox" id="__nav_8_1" >
+      
+      <label class="md-nav__link" for="__nav_8_1">
+        Alta fidelidade
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Alta fidelidade" data-md-level="2">
+        <label class="md-nav__title" for="__nav_8_1">
+          <span class="md-nav__icon md-icon"></span>
+          Alta fidelidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle6/alta_fidelidade/planejamento_da_avaliacao/" class="md-nav__link">
+        Planejamento de avaliação
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle6/alta_fidelidade/prototipo_alta_fidelidade/" class="md-nav__link">
+        Protótipo de Alta Fidelidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle6/alta_fidelidade/resultados/" class="md-nav__link">
+        Entrevistas e Relatos dos resultados
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_2" type="checkbox" id="__nav_8_2" >
+      
+      <label class="md-nav__link" for="__nav_8_2">
+        Baixa fidelidade
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Baixa fidelidade" data-md-level="2">
+        <label class="md-nav__title" for="__nav_8_2">
+          <span class="md-nav__icon md-icon"></span>
+          Baixa fidelidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle6/baixa_fidelidade/planejamento_da_avaliacao/" class="md-nav__link">
+        Planejamento de avaliação
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle6/baixa_fidelidade/prototipo_de_baixa_fidelidade/" class="md-nav__link">
+        Protótipo de Baixa Fidelidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../ponto_controle6/baixa_fidelidade/resultados/" class="md-nav__link">
+        Entrevistas e Relatos dos resultados
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-objetivo" class="md-nav__link">
+    2. Objetivo
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-metodologia" class="md-nav__link">
+    3. Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-quem-serao-os-entrevistados" class="md-nav__link">
+    4. Quem serão os entrevistados?
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-entrevistas" class="md-nav__link">
+    5. Entrevistas
+  </a>
+  
+    <nav class="md-nav" aria-label="5. Entrevistas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#51-lucas-dos-santos" class="md-nav__link">
+    5.1 Lucas dos Santos
+  </a>
+  
+    <nav class="md-nav" aria-label="5.1 Lucas dos Santos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#511-fluxo-de-registro-de-usuario" class="md-nav__link">
+    5.1.1 Fluxo de Registro de Usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#512-fluxo-de-perfil-de-usuario" class="md-nav__link">
+    5.1.2 Fluxo de Perfil de Usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#513-fluxo-de-topicos-do-forum" class="md-nav__link">
+    5.1.3 Fluxo de Tópicos do Fórum
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#514-fluxo-de-busca-dos-topicos-do-forum" class="md-nav__link">
+    5.1.4 Fluxo de Busca dos tópicos do Fórum
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#52-lorena-de-oliveira" class="md-nav__link">
+    5.2 Lorena de Oliveira
+  </a>
+  
+    <nav class="md-nav" aria-label="5.2 Lorena de Oliveira">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#521-fluxo-de-perfil-de-usuario" class="md-nav__link">
+    5.2.1 Fluxo de Perfil de Usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#522-fluxo-de-topicos-do-forum" class="md-nav__link">
+    5.2.2 Fluxo de Tópicos do Fórum
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#523-fluxo-de-busca-dos-topicos-do-forum" class="md-nav__link">
+    5.2.3 Fluxo de Busca dos tópicos do Fórum
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#53-maria-eduarda-souza" class="md-nav__link">
+    5.3 Maria Eduarda Souza
+  </a>
+  
+    <nav class="md-nav" aria-label="5.3 Maria Eduarda Souza">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#531-fluxo-de-registro-de-usuario" class="md-nav__link">
+    5.3.1 Fluxo de Registro de Usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#532-fluxo-de-perfil-de-usuario" class="md-nav__link">
+    5.3.2 Fluxo de Perfil de Usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#533-fluxo-de-topicos-do-forum" class="md-nav__link">
+    5.3.3 Fluxo de Tópicos do Fórum
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#534-fluxo-de-busca-dos-topicos-do-forum" class="md-nav__link">
+    5.3.4 Fluxo de Busca dos tópicos do Fórum
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-conclusao" class="md-nav__link">
+    6. Conclusão
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-referencias-bibliograficas" class="md-nav__link">
+    7. Referências Bibliográficas
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="entrevistas-de-validacao">Entrevistas de Validação</h1>
+<p>Histórico de Versão </p>
+<table>
+<thead>
+<tr>
+<th align="left">Data</th>
+<th align="left">Versão</th>
+<th align="left">Descrição</th>
+<th align="left">Autor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">08/04/2021</td>
+<td align="left">0.1</td>
+<td align="left">Criação do Documento</td>
+<td align="left">Victor Samuel dos Santos Lucas</td>
+</tr>
+<tr>
+<td align="left">08/04/2021</td>
+<td align="left">0.2</td>
+<td align="left">Adição de Metodologias e entrevistados</td>
+<td align="left">Victor Samuel dos Santos Lucas</td>
+</tr>
+<tr>
+<td align="left">08/04/2021</td>
+<td align="left">0.3</td>
+<td align="left">Inserção das Entrevistas</td>
+<td align="left">Victor Samuel dos Santos Lucas</td>
+</tr>
+<tr>
+<td align="left">08/04/2021</td>
+<td align="left">0.4</td>
+<td align="left">Revisão</td>
+<td align="left">Victor Samuel dos Santos Lucas</td>
+</tr>
+</tbody>
+</table>
+<h2 id="1-introducao">1. Introdução</h2>
+<p>O intuito desse documento é informar os resultados obtidos em cada entrevista, realizada com base na utilização de um determinado fluxo de uso do PortalPir2. A coleta de dados dessa documentação ocorreu por meio da incorporação das nossas personas (Personagens fictícios que representam o cliente ideal de um projeto) em uma simulação baseada no nosso Planejamento de Avaliação. </p>
+<ul>
+<li>Clique <a href="https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/main/docs/ponto_controle2/analise_de_requisitos/personas.md">aqui</a> para ver mais detalhes das nossas Personas.</li>
+<li>Clique <a href="https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/reestruturar-analise-de-tarefas/docs/ponto_controle4/analise_de_tarefas/planejamento_de_avaliacao.md">aqui</a> para ver mais detalhes do nosso Planejamento da Avaliação.</li>
+</ul>
+<h2 id="2-objetivo">2. Objetivo</h2>
+<p>O objetivo dessas entrevistas é verificar se o fluxo de uso realizado pelos usuários do Portal Pir2 condizia com a previsão realizada em nossa primeira versão da Análise Hierarquica de Tarefas. </p>
+<ul>
+<li>Clique <a href="https://github.com/Interacao-Humano-Computador/2020.2-forumPiR2/blob/reestruturar-analise-de-tarefas/docs/ponto_controle2/analise_de_requisitos/hta.md">aqui</a> para ver mais detalhes sobre a nossa primeira versão da Análise Hierarquica de Tarefas.</li>
+</ul>
+<h2 id="3-metodologia">3. Metodologia</h2>
+<p>O livro "Interação Humano-Computador" de autoria de Simone Barbosa e Bruno Silva argumenta que, entrevistas permitem ao avaliador a coleta de dados detalhados e profundos por meio das experiências individuais de um grupo focal. Neste sentido, essa abordagem com teor mais humano e descontraído permite a garimpagem de inúmeras informações, o que facilia no direcionamento dos dados coletados de acordo com o cenário do usuário. </p>
+<p>Neste contexto, o Percurso Cognitivo, como argumenta Simone Barbosa e Bruno Silva em seu livro, avalia através de uma exploração da interface, a facilidade de aprendizagem por exploração de um sistema. Sendo assim, essa será a base metodológica da abordagem utilizada para realização das entrevistas.</p>
+<h2 id="4-quem-serao-os-entrevistados">4. Quem serão os entrevistados?</h2>
+<p>Como abordado acima, nossas entrevistas foram realizadas por meio da simulação de uso das nossas Personas. Ao todo foram selecionados 3 perfis, são elas: 
+-  Lucas dos Santos, 15 anos, estudante do Ensino Fundamental.
+-  Lorena de Oliveira, 17 anos, estudante do Ensino Médio.
+-  Maria Eduarda Souza, 22 anos, Estudante de Física.</p>
+<h2 id="5-entrevistas">5. Entrevistas</h2>
+<h3 id="51-lucas-dos-santos">5.1 Lucas dos Santos</h3>
+<p><img alt="" src="../../../assets/personas/lucas.jpg" /><br />
+Essa entrevista foi realizada na data 08/04/2021 às 13:00PM horário de Brasília, e teve duração total de 30 minutos. O participante se chama Lucas dos Santos, tem 15 anos e é Estudante do Ensino Fundamental. O mesmo ainda não possui nenhum conhecimento sobre o portal e está tendo o primeiro contato nesta ocasião. </p>
+<h4 id="511-fluxo-de-registro-de-usuario"><strong>5.1.1 Fluxo de Registro de Usuário</strong></h4>
+<p>A primeiro momento, o participante relatou que a identidade visual deixa um pouco a desejar, sendo antiga e simples, não encorajando-o a permananecer por muito tempo dentro do portal.</p>
+<p>Com isso, ao realizar nosso primeiro fluxo, sem ainda ter a necessidade de se cadastrar no portal, foi solicitada ao participante uma pequena volta exploratória pelo site para a parte de visualizar perfís de outros usuários, neste contexto foram analisados os 5 tópicos disponíveis, foram eles: Ver mensagens dos visitantes, exibir informações de perfil, exibir estatísticas, exibir amigos e entrar em contato. Segundo lucas, as informações estavam com fácil acesso e de forma organizada para sua visualização, tendo assim um retorno positivo. </p>
+<p>Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. </p>
+<h4 id="512-fluxo-de-perfil-de-usuario"><strong>5.1.2 Fluxo de Perfil de Usuário</strong></h4>
+<p>Ao realizar o nosso segundo fluxo da entrevista, o participante não teve dificuldades para se registrar e confirmar sua inscrição por meio verificação em seu e-mail. Segundo o Lucas, os termos que aparecem inicialmente para o registro são de suma importância para o controle de bons modos dentro do portal, os formulários para inserção das informações estava bem definidos, foram pedidos poucos dados (O que deixou o processo rápido e prático) e o e-mail para confirmação foi enviado instantâneamente, o que fez o processo de cadastro ser finalizado em poucos minutos. Também foi relatado um ponto positivo para a possibilidade de inserção de mais informações logo depois que o perfil foi criado, o que deixou a criação rápida mas sem perder a identidade do usuário. Lucas gostou que ao realizar o Login, as suas informações já ficaram salvas e a conexão tornou-se bem eficaz, logo também foi obtido um feedback positivo.</p>
+<p>Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. </p>
+<h4 id="513-fluxo-de-topicos-do-forum"><strong>5.1.3 Fluxo de Tópicos do Fórum</strong></h4>
+<p>Ao realizar o nosso terceiro fluxo da entrevista, o participante afirmou gostar que os tópicos principais de conteúdo relacionados a matérias encontram-se na página inicial do portal, porém, mais uma vez a identidade visual foi questinada, Lucas sugeriu que os principais tópicos permanececem na parte de cima, e a partir disso o acesso aos outros tópicos sejam liberados, sem que haja a necessidade de rolar o scroll até o final. </p>
+<p>Neste contexto, Lucas realizou acesso aos tópicos, a primeiro momento foi relatado uma certa dificuldade para localizar a parte responsável pela criação dos mesmos, o que gerou um desconforto, pois essa seria uma das funcionalidades mais importantes dentro do portal. Após encontrá-la, foi solicitado que Lucas realizasse a criação de um tópico. O participante explora as formas de inserção e formatação de conteúdo, e consegue realizar a tarefa sem demais dificuldades. </p>
+<p>Logo após, Lucas foi induzido a realizar ações de interação com a comunidade por meio de respostas a tópicos, nessa etapa, ele relatou que a ação é bem objetiva e simples, não tendo muito o que criticar ou elogiar. </p>
+<p>Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir, porém, algumas melhorias em relação a disposição e facilidade as informações devem ser feitas.</p>
+<h4 id="514-fluxo-de-busca-dos-topicos-do-forum"><strong>5.1.4 Fluxo de Busca dos tópicos do Fórum</strong></h4>
+<p>Ao realizar o nosso quarto fluxo de entrevista, foi solicitado ao participante que realizasse uma busca simples e avançada por tópicos ou autores dentro do portal, Lucas relatou que o acesso a busca foi bem fácil e gerou muitos resultados, o que o deixou animado pois mostrou que a comunidade é bem participativa. </p>
+<p>Entretanto, Lucas afirmou que o resultados poderiam ser distribuidos de uma forma mais atrativa ao usuário, com cores mais vivas e design mais moderno. </p>
+<p>Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. </p>
+<h3 id="52-lorena-de-oliveira">5.2 Lorena de Oliveira</h3>
+<p><img alt="" src="../../../assets/personas/Lorena.jpg" /></p>
+<p>Essa entrevista foi realizada na data 08/04/2021 às 14:00PM horário de Brasília, e teve duração total de 15 minutos. A participante se chama Lorena de Oliveira, tem 17 anos e é Estudante do Ensino Médio. A mesma já possui um vasto conhecimento sobre o portal, com isso não houve a necessidade de testar o fluxo inicial de cadastro de usuário.</p>
+<h4 id="521-fluxo-de-perfil-de-usuario"><strong>5.2.1 Fluxo de Perfil de Usuário</strong></h4>
+<p>Ao realizar nosso primeiro fluxo, foi solicitado a Lorena que realizasse uma busca por perfís de outros usuários dentro do portal, por ser uma usuária "veterana" não houve nenhum conflito em relação a dificuldade de encontrar informações. Nesse contexto, foi relatado pela participante que o acesso a essas informações dentro do portal é extremamente facilitado e objetivo, o que torna a comunidade do Fórum Pir2 extremamente forte, o que resultou em um feedback extremamente positivo. </p>
+<p>A participante argumentou não se importar muito com a identidade visual, mas sim com o conteúdo disponibilizado, nesse contexto foi relatado que sim, a aparência não é das melhores, mas isso não prejudica o uso dela dentro do portal.</p>
+<p>Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. </p>
+<h4 id="522-fluxo-de-topicos-do-forum"><strong>5.2.2 Fluxo de Tópicos do Fórum</strong></h4>
+<p>Ao realizar nosso segundo fluxo, foi solicitado a Lorena que realizasse um acesso aos tópicos dentro do portal. Por ser uma usuária ativa dentro dos fóruns de Humanas e exatas, ele teve pouca ou quase nenhuma dificuldade pra realizar essas ações.</p>
+<p>Ela afirma que nunca teve dificuldades pra criar tópicos de diferentes assuntos, e que gosta da forma que essa ação é feita, sendo simples e objetiva, nunca tendo problemas de não conseguir publicar um tópico dentro do fórum ou não ter sua dúvida respondida. </p>
+<p>Quando perguntada sobre o direcionamento das suas ações dentro do portal, ela afirmou que sempre o fica claro para onde ela está indo, o que está fazendo e como está fazendo, o que garante que sua ação vai ser executada corretamente, porém, indica que isso virou um hábito com o tempo, novos usuários podem enfrentar dificuldades com a identidade visual do sistema.</p>
+<p>Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. </p>
+<h4 id="523-fluxo-de-busca-dos-topicos-do-forum"><strong>5.2.3 Fluxo de Busca dos tópicos do Fórum</strong></h4>
+<p>Ao realizar nosso terceiro fluxo, foi solicitado a Lorena que realizasse busca por tópicos específicos dentro do fórum. Lorena afirmou que utiliza esse mecanismo diariamente em seus estudos, sempre conseguindo achar seu tópico procurado.</p>
+<p>Quando perguntada sobre a dificuldade de realizar essa ação, ela argumentou que sempre teve muita facilidade pela plataforma ser simples e objetiva, também afirmou que a busca avançada se torna muito eficiente por trazer critérios como filtragem por datas, autores, palavras chaves e oferecer opção de ordenação. Porém, mesmo não se importando tanto com a parte visual, assim como o Lucas dos Santos, ela relatou que os resultados deveriam aparecer de forma mais atrativa para o usuário. </p>
+<p>A partipante concluiu essa tarefa rapidamente e sem complicações. </p>
+<p>Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. </p>
+<h3 id="53-maria-eduarda-souza">5.3 Maria Eduarda Souza</h3>
+<p><img alt="" src="../../../assets/personas/maria.jpg" />  </p>
+<p>Essa entrevista foi realizada na data 08/04/2021 às 15:00PM horário de Brasília, e teve duração total de 25 minutos. A participante se chama Maria Eduarda, tem 22 anos e é estudante de Física pela Universidade de Brasília - UnB. </p>
+<h4 id="531-fluxo-de-registro-de-usuario"><strong>5.3.1 Fluxo de Registro de Usuário</strong></h4>
+<p>Ao realizar nosso primeiro fluxo, foi solicitado a Maria Eduarda que realizasse uma breve navegação pelo portal, a fim de analisar a ação de verificar perfís de outros usuários. Inicialmente, durante esse ato ela relatou que gostou do fato do portal disnponibilizar informações como totalidade de usuários online, número de registos, número de visitantes e recorde de pessoas online em determinado período, junto a uma legenda de cores para cada usuário identificando seu nível dentro do sistema. Porém, por se importar muito com a parte visual, ela afirma que essas informações poderiam ser melhor distribuidas dentro da aplicação, pois as mesmas possuem um potencial muito grande de atratividade para o usuário. </p>
+<p>Continuando com o fluxo, ela relatou facilidade em achar usuários para interagir e gostou que dentro do perfil de cada um há informações como: Mensagens dos Visitantes e Estatísticas de tópicos e mensagens. </p>
+<p>A partipante concluiu essa tarefa rapidamente e sem complicações. </p>
+<p>Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. </p>
+<h4 id="532-fluxo-de-perfil-de-usuario"><strong>5.3.2 Fluxo de Perfil de Usuário</strong></h4>
+<p>Ao realizar nosso segundo fluxo, foi solicitado a Maria Eduarda que realizasse o seu cadastro dentro da plataforma. Inicialmemte, ela relatou que a parte de cadastro podia ter mais destaque e uma identidade visual mais atrativa, seguindo com a ação, a participante afirmou que o cadastro é bem simples, perguntando apenas nome de usuário, e-mail e senha, com isso questionou a segurança do portal, porém, elogiou a rapidez com que o cadastro foi feito. </p>
+<p>Ao ter a conta já cadastrada, Maria Eduarda achou interessante a disponibilidade de mais campos para inserção de suas informações pessoais, a ação de preenchimento foi concluída com sucesso e rapidamente, tendo elogio por parte da nossa entrevistada. </p>
+<p>Ao realizar o Logout da aplicação, assim como Lucas dos Santos, a participante elogiou que suas credenciais ficaram salvas para realização do login, transformando a ação simples e eficaz. </p>
+<p>A partipante concluiu essa tarefa rapidamente e sem complicações, porém, sentiu a necessidade de uma identidade visual mais atrativa e moderna para ambas telas que visitou.</p>
+<p>Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. </p>
+<h4 id="533-fluxo-de-topicos-do-forum"><strong>5.3.3 Fluxo de Tópicos do Fórum</strong></h4>
+<p>Ao realizar o nosso terceiro fluxo, foi solicitado a Maria Eduarda que realizasse um acesso aos tópicos dentro do portal, aplicando ações de criar e responder. Por ser uma nova usuária e não ter familiariedade com o sistema, ela relatou dificuldades para encontrar acesso a criação de tópicos e questinou que essa ação poderia ter mais destaque já dentro do menu principal. Ao encontrar a parte de criação ela achou bem simples e objetiva, não tendo o que reclamar em relação a funcionalidade. </p>
+<p>Continuando com a entrevista, a participante realizou algumas respostas a tópicos de terceiros com certa facilidade, e gostou de ressaltar a grande interação entre comunidade do Fórum. </p>
+<p>A partipante concluiu essa tarefa rapidamente e sem complicações, porém, sentiu a necessidade de uma identidade visual mais atrativa e moderna para ambas telas que visitou.</p>
+<p>Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. </p>
+<h4 id="534-fluxo-de-busca-dos-topicos-do-forum"><strong>5.3.4 Fluxo de Busca dos tópicos do Fórum</strong></h4>
+<p>Ao realizar nosso quarto fluxo, foi solicitado a Maria Eduarda que realizasse busca por tópicos específicos dentro do fórum. A participante afirmou que esse recurso será muito importante para seus estudos visto que facilita a busca por temas específicos de Física aplicada ao Ensino Superior. </p>
+<p>Quando perguntada sobre a dificuldade de realizar essa ação, ela argumentou que mesmo sendo nova na plataforma teve facilidade para encontrar o que procurava, também afirmou que a busca avançada se torna muito eficiente por trazer critérios como filtragem por datas, autores, palavras chaves e oferecer opção de ordenação. Porém, mesmo não se importando tanto com a parte visual, assim como o Lucas dos Santos e Lorena de Oliveira, ela relatou que os resultados deveriam aparecer de forma mais atrativa para o usuário. </p>
+<p>A partipante concluiu essa tarefa rapidamente e sem complicações, porém, sentiu a necessidade de uma identidade visual mais atrativa e moderna para ambas telas que visitou.</p>
+<p>Como conclusão para este fluxo, temos que o usuário conseguiu sim atingir o feito de forma correta para todas as ações testadas, sempre associando a ação realizada ao ato que estava tentando atingir. </p>
+<h2 id="6-conclusao">6. Conclusão</h2>
+<p>Os resultados das entrevistas foram satisfatórios, a partir dessa coleta de dados será possível realizar uma nova validação da Análise de Tarefas com mais qualidade. Um ponto negativo a ser ressaltado é que pela atual situação enfrentada pelo vírus COVID-19 não foi possível realizar entrevistas com todos os possíveis usuários do portal Pir2. </p>
+<h2 id="7-referencias-bibliograficas">7. Referências Bibliográficas</h2>
+<ul>
+<li>BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.</li>
+<li><a href="http://www.marceloramos.com.br/publicacao/65#:~:text=O%20Percurso%20Cognitivo%2C%20baseado%20na,necess%C3%A1rios%20para%20realizar%20a%20tarefa.">Percurso Cognitivo</a> - Portal Marcelo Ramos.</li>
+</ul>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        <a href="../analise_de_tarefas_v2/" class="md-footer__link md-footer__link--prev" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              Análise hierarquica de tarefas
+            </div>
+          </div>
+        </a>
+      
+      
+        <a href="../planejamento_de_avaliacao/" class="md-footer__link md-footer__link--next" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Próximo
+              </span>
+              Planejamento de avaliação
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+        
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../../..", "features": [], "translations": {"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}, "search": "../../../assets/javascripts/workers/search.d351de03.min.js", "version": null}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.a1609d9a.min.js"></script>
+      
+    
+  </body>
+</html>
